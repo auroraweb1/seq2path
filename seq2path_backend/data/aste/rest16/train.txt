@@ -1,0 +1,857 @@
+Judging from previous posts this used to be a good place , but not any longer .####place | good | negative | true
+We , there were four of us , arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude .####staff | rude | negative | true
+The food was lousy - too sweet or too salty and the portions tiny .####food | lousy | negative | true||||food | too sweet | negative | true||||food | too salty | negative | true||||portions | tiny | negative | true
+Avoid this place !####place | Avoid | negative | true
+I have eaten at Saul , many times , the food is always consistently , outrageously good .####food | good | positive | true
+Saul is the best restaurant on Smith Street and in Brooklyn .####Saul | best | positive | true
+The duck confit is always amazing and the foie gras terrine with figs was out of this world .####foie gras terrine with figs | out of this world | positive | true||||duck confit | amazing | positive | true
+The wine list is interesting and has many good values .####wine list | interesting | positive | true||||wine list | good values | positive | true
+I was very disappointed with this restaurant .####restaurant | disappointed | negative | true
+Food was okay , nothing great .####Food | okay | neutral | true||||Food | nothing great | neutral | true
+Chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family .####Chow fun | dry | negative | true||||pork shu mai | greasy | negative | true
+I/we will never go back to this place again .####place | never go back | negative | true
+Service was devine , oysters where a sensual as they come , and the price ca n't be beat ! ! !####Service | devine | positive | true||||oysters | sensual | positive | true
+Everything is always cooked to perfection , the service is excellent , the decor cool and understated .####service | excellent | positive | true||||decor | cool | positive | true||||decor | understated | positive | true
+I had the duck breast special on my last visit and it was incredible .####duck breast special | incredible | positive | true
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .####Grilled Chicken special with Edamame Puree | enjoyed | positive | true
+I had never had Edamame pureed before but I thought it was innovative and tasty ( could 've used a bit more salt ) .####Edamame pureed | innovative | positive | true||||Edamame pureed | tasty | positive | true
+The decor is night tho ... but they REALLY need to clean that vent in the ceiling ... its quite un-appetizing , and kills your effort to make this place look sleek and modern .####place | sleek | negative | true||||place | modern | negative | true||||decor | night | positive | true||||vent | un-appetizing | negative | true
+Their sake list was extensive , but we were looking for Purple Haze , which was n't listed but made for us upon request !####sake list | extensive | positive | true
+The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !####spicy tuna roll | good | positive | true||||rock shrimp tempura | awesome | positive | true
+THe perfect spot .####spot | perfect | positive | true
+Food awesome .####Food | awesome | positive | true
+Service friendly and attentive .####Service | friendly | positive | true||||Service | attentive | positive | true
+Ambiance relaxed and stylish .####Ambiance | relaxed | positive | true||||Ambiance | stylish | positive | true
+This place has got to be the best japanese restaurant in the new york area .####place | best | positive | true
+Food is great .####Food | great | positive | true
+Service is top notch .####Service | top notch | positive | true
+The rice to fish ration was also good -- they did n't try to overpack the rice .####rice to fish ration | good | positive | true
+We took advanatage of the half price sushi deal on saturday so it was well worth it .####half price sushi deal | worth | positive | true
+$ 6 and there is much tasty food , all of it fresh and continually refilled .####food | tasty | positive | true||||food | fresh | positive | true||||food | refilled | positive | true
+I am not a vegetarian but , almost all the dishes were great .####dishes | great | positive | true
+The food here is rather good , but only if you like to wait for it .####food | good | positive | true
+I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .####somosas | like | positive | true||||chai | like | positive | true||||chole | like | positive | true||||dhosas | disappointing | negative | true||||dhal | disappointing | negative | true
+The service varys from day to day- sometimes they 're very nice , and sometimes not .####service | varys | negative | true
+Also , specify if you like your food spicy- its rather bland if you do n't .####food | bland | negative | true
+The ambience is pretty and nice for conversation , so a casual lunch here would probably be best .####ambience | pretty | positive | true||||ambience | nice | positive | true
+The lava cake dessert was incredible and I recommend it .####lava cake dessert | incredible | positive | true||||lava cake dessert | recommend | positive | true
+Once you step into Cosette , you 're miraculously in a small , off-the-beaten path Parisian bistro .####Cosette | off-the-beaten | positive | true
+This tiny restaurant is as cozy as it gets , with that certain Parisian flair .####restaurant | tiny | positive | true||||restaurant | cozy | positive | true
+The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .####food | average to above-average | positive | true||||French Onion soup | not overly impressive | positive | true||||desserts | not brilliant | negative | true
+The pizza is overpriced and soggy .####pizza | overpriced | negative | true||||pizza | soggy | negative | true
+I think I 've had some the best meals of my life at minnow .####meals | best | positive | true
+The seafood is amazing , there 's a good wine list , and the ever-changing menu always offers some great surprises .####seafood | amazing | positive | true||||wine list | good | positive | true||||menu | ever-changing | positive | true||||menu | great surprises | positive | true
+The combination of super-fresh ingredients in the dishes are unusual but really delicious .####ingredients | super-fresh | positive | true||||ingredients | delicious | positive | true
+As a Japanese native , I 've lived in the Tristate area for over 8 years , but I was just so amazed at this place .####place | amazed | positive | true
+The signs , the specials menus , food , and even all the waitstaff are ALL TOTALLY Japanese .####signs | Japanese | positive | true||||specials menus | Japanese | positive | true||||food | Japanese | positive | true||||waitstaff | Japanese | positive | true
+This place is worth an one-hour drive .####place | worth | positive | true
+My wife and I always enjoy the young , not always well trained but nevertheless friendly , staff , all of whom have a story .####staff | enjoy | positive | true||||staff | young | positive | true||||staff | not always well trained | positive | true||||staff | friendly | positive | true
+Decent wine at reasonable prices .####wine | Decent | positive | true
+This is by far my favorite place in the neighborhood .####place | favorite | positive | true
+The service is excellent , the decor is great , and the food is delicious and comes in large portions .####service | excellent | positive | true||||decor | great | positive | true||||food | delicious | positive | true||||portions | large | positive | true
+I 'm partial to the Gnocchi .####Gnocchi | partial | positive | true
+This place is incredibly tiny .####place | tiny | negative | true
+The hostess is rude to the point of being offensive .####hostess | rude | negative | true||||hostess | offensive | negative | true
+We have been to this place many times , and always have great food , wine , and service .####food | great | positive | true||||wine | great | positive | true||||service | great | positive | true
+We were worried we would have trouble getting in , but somehow managed to have a short wait .####wait | short | positive | true
+As always we had a great glass of wine while we waited .####glass of wine | great | positive | true
+When we sat , we got great and fast service .####service | great | positive | true||||service | fast | positive | true
+The people that work there are always so friendly you forget you are in New York sometimes .####people | friendly | positive | true
+Make sure you try this place as often as you can .####place | try | positive | true
+This is a fun restaurant to go to .####restaurant | fun | positive | true
+The pizza is yummy and I like the atmoshpere .####pizza | yummy | positive | true||||atmoshpere | like | positive | true
+But the pizza is way to expensive .####pizza | expensive | negative | true
+Sauce was watery and the food did n't have much flavor .####Sauce | watery | negative | true
+The waitress was very patient with us and the food is phenomenal !####waitress | patient | positive | true||||food | phenomenal | positive | true
+Service was prompt , friendly and great .####Service | prompt | positive | true||||Service | friendly | positive | true||||Service | great | positive | true
+There was a small wait , but shorter than I expected .####wait | small | positive | true||||wait | shorter | positive | true
+This is the best sushi in new york city - hands down .####sushi | best | positive | true
+Planet Thailand has always been a hit with me , I go there usually for the sushi , which is great , the thai food is excellent too .####sushi | great | positive | true||||thai food | excellent | positive | true||||Planet Thailand | hit | positive | true
+With the great variety on the menu , I eat here often and never get bored .####menu | great variety | positive | true
+The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .####atmosphere | is n't the greatest | neutral | true
+those rolls were big , but not good and sashimi was n't fresh .####rolls | big | negative | true||||rolls | not good | negative | true||||sashimi | was n't fresh | negative | true
+Try the crunchy tuna , it is to die for .####crunchy tuna | Try | positive | true||||crunchy tuna | die for | positive | true
+First went here to enjoy their garden terrace .####garden terrace | enjoy | positive | true
+The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .####food | amazing | positive | true||||service | prompt | positive | true||||service | helpful | positive | true||||service | not over-bearing or rushed | positive | true
+The Steak Tartare is a great bet , they fix it for you at the table .####Steak Tartare | great | positive | true
+Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .####open kitchen | charm | positive | true||||restaurant | warm | negative | true
+Great wine selection , Gigondas is worth the price , and the house champagne is a great value .####wine selection | Great | positive | true||||Gigondas | worth the price | positive | true||||house champagne | great value | positive | true
+It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .####vibe | good | positive | true||||French food | best | positive | true
+Have recommended the place to friends , always gets good response .####place | recommended | positive | true
+Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best , freshly baked bread !####crust | best | positive | true
+Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !####neighborhood | great | positive | true||||food | great | positive | true
+I 'd highly recommend it for a special occasion -- it provides and intimate setting and nice service .####setting | intimate | positive | true||||service | nice | positive | true
+I 'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and I all enjoy Mizu very much ... and we 're repeat customers .####Mizu | enjoy | positive | true
+Took my mom for Mother 's Day , and the maitre d ' was pretty rude .####maitre d ' | rude | negative | true
+Tiny dessert was $ 8.00 ... just plain overpriced for what it is .####dessert | Tiny | negative | true||||dessert | overpriced | negative | true
+The drinks are always well made and wine selection is fairly priced .####drinks | well made | positive | true||||wine selection | fairly priced | positive | true
+Try their chef 's specials -- they are to die for .####chef 's specials | Try | positive | true||||chef 's specials | die for | positive | true
+Raga 's is a romantic , cozy restaurant .####Raga 's | romantic | positive | true||||Raga 's | cozy | positive | true
+The exotic food is beautifully presented and is a delight in delicious combinations .####exotic food | beautifully presented | positive | true||||exotic food | delight | positive | true
+The bar is very well stocked with interesting beers and well priced wines .####bar | well stocked | positive | true||||beers | interesting | positive | true||||wines | well priced | positive | true
+I loved everythig about it-especially the shows and actors .####shows | loved | positive | true||||actors | loved | positive | true
+Our server was very helpful and friendly .####server | helpful | positive | true||||server | friendly | positive | true
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .####outdoor atmosphere | wonderful | positive | true
+Service was prompt and courteous .####Service | prompt | positive | true||||Service | courteous | positive | true
+Two complaints -- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .####appetizer selection | complaints | negative | true
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS !####Wait staff | unappreciative | negative | true||||pie | best | positive | true
+By far the best salad I have had in a fast food restaurant .####salad | best | positive | true
+fine dining restaurant quality .####dining | fine | positive | true
+On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .####restaurant | great | positive | true
+The chicken pot pie is exceptional , the cheeseburger huge and delictable , and the service professional wan warm .####chicken pot pie | exceptional | positive | true||||cheeseburger | huge | positive | true||||cheeseburger | delictable | positive | true||||service | professional | positive | true||||service | warm | positive | true
+The staff is no nonsense .####staff | no nonsense | positive | true
+When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else .####bagels | better | positive | true
+Worth visiting the 1st Ave spot because it is the original store .####1st Ave spot | Worth visiting | positive | true
+The sake menu should not be overlooked !####sake menu | overlooked | positive | true
+Service was very good - prompt , attentive and non-intrusive .####Service | good | positive | true||||Service | prompt | positive | true||||Service | attentive | positive | true||||Service | non-intrusive | positive | true
+Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .####Food | good | positive | true
+Wine list selection is good and wine-by-the-glass was generously filled to the top .####Wine list selection | good | positive | true||||wine-by-the-glass | generously filled | positive | true
+Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .####Traditional French decour | pleasant | positive | true||||hall | noisy | negative | true
+I 've been to at Cafe Spice probably 5-8 times , it is probably still the best Indian restaurant around Union Square .####Cafe Spice | best | positive | true
+To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .####Service | varies | neutral | true
+Seating is always prompt , though the restaurant does fill up in the evening .####Seating | prompt | positive | true
+Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .####Food | good | positive | true||||raw vegatables in side orders | wondered about freshmess | negative | true
+The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date .####decor | vibrant | positive | true||||decor | eye-pleasing | positive | true||||semi-private boths | eye-pleasing | positive | true||||semi-private boths | great | positive | true
+I have NEVER been disappointed in the Red Eye .####Red Eye | NEVER been disappointed | positive | true
+The first time I went , and was completely taken by the live jazz band and atmosphere , I ordered the Lobster Cobb Salad .####live jazz band | taken | positive | true||||atmosphere | taken | positive | true
+It 's simply the best meal in NYC .####meal | best | positive | true
+If we were to move from the upper east side , we would genuinely miss this restaurant .####restaurant | miss | positive | true
+The restaurant is cute but not upscale .####restaurant | cute | neutral | true||||restaurant | not upscale | neutral | true
+The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes .####food | diamond | positive | true||||balance of herbs and tomatoes | perfect | positive | true
+We had a great time at the Jekyll and hyde Pub last night .####Jekyll and hyde Pub | great time | positive | true
+After really enjoying ourselves at the bar we sat down at a table and had dinner .####bar | enjoying | positive | true
+The server was really cool and served us our food and drinks with a smile .####server | cool | positive | true
+The place 's decor and hidden bathrooms made for a good laugh .####decor | good laugh | positive | true||||hidden bathrooms | good laugh | positive | true
+I highly recommend visiting this restaurant and having dinner and drinks !####restaurant | recommend | positive | true
+If you are the type of person who likes being scared and entertained , this is a great place to go and eat .####place | great | positive | true
+The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if I must recommend a dish it must be the pumkin tortelini .####beers | happy | positive | true||||food | delicious | positive | true||||pumkin tortelini | recommend | positive | true
+The bagel was huge .####bagel | huge | positive | true
+The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .####bagel | messy | negative | true
+Other guests enjoyed pizza , santa fe chopped salad and fish and chips .####pizza | enjoyed | positive | true||||santa fe chopped salad | enjoyed | positive | true||||fish and chips | enjoyed | positive | true
+I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service .####food | recommend | positive | true||||ambience | recommend | positive | true||||service | recommend | positive | true||||service | wonderful | positive | true
+My chow fun and chow see was really bland and oily .####chow fun and chow see | bland | negative | true||||chow fun and chow see | oily | negative | true
+The scallion pancakes and fried dumplings were nothing out of the ordinary .####scallion pancakes | ordinary | neutral | true||||fried dumplings | ordinary | neutral | true
+The service was the only thing good about this restaurant .####service | good | positive | true
+fresh restaurant was amazing ... ... .. food was delicious and of course fresh .####fresh restaurant | fresh | positive | true||||fresh restaurant | amazing | positive | true||||food | delicious | positive | true||||food | fresh | positive | true
+Hats off to the chef .####chef | Hats off | positive | true
+the salads are delicious , both refreshing and very spicy .####salads | delicious | positive | true||||salads | refreshing | positive | true||||salads | spicy | positive | true
+We had Pam 's special fried fish and it was amazing .####Pam 's special fried fish | amazing | positive | true
+Great vibe , lots of people .####vibe | Great | positive | true
+I did n't complain , I liked the atmosphere so much .####atmosphere | liked | positive | true
+Ambience is so cute and quaint , good for business although we were there on vacation .####Ambience | cute | positive | true||||Ambience | quaint | positive | true||||Ambience | good | positive | true
+Salads were fantastic .####Salads | fantastic | positive | true
+Although we were looking for regular lettuce and some walnuts the salads we got were great .####salads | great | positive | true
+Ingredients are organic which is a real plus for me .####Ingredients | organic | positive | true||||Ingredients | plus | positive | true
+This is some really good , inexpensive sushi .####sushi | good | positive | true||||sushi | inexpensive | positive | true
+The Yellowtail was particularly good as well .####Yellowtail | good | positive | true
+I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .####all you can eat deal | limited | negative | true
+Big Wong gets big Ups for a fine establishment .####Big Wong | big Ups | positive | true||||Big Wong | fine | positive | true
+They have it all -- great price , food , and service .####food | great | positive | true||||service | great | positive | true
+The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .####atmosphere | noisy | negative | true||||waiters | fast | positive | true
+The takeout is great too since they give high quality tupperware as well .####takeout | great | positive | true
+This place is always very crowded and popular .####place | crowded | positive | true||||place | popular | positive | true
+Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese ... .both very tasty .####Caesar Salad | Enjoyed | positive | true||||Caesar Salad | nice | positive | true||||arugula and goat cheese | tasty | positive | true
+We both opted for a pasta dish and they were served timely and fresh .####pasta dish | served timely | positive | true||||pasta dish | fresh | positive | true
+I recently went to this restaurant with some co-workers for lunch and had an amazing time .####restaurant | amazing time | positive | true
+sometimes i get good food and ok service .####food | good | positive | true||||service | ok | neutral | true
+sometimes i get bad food and bad service , sometimes i get good good and bad service .####food | bad | negative | true||||service | bad | negative | true||||good | good | positive | true
+The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .####dishes | simple | positive | true||||wine | served efficiently | positive | true||||atmosphere | bustling | positive | true
+And evaluated on those terms Pastis is simply wonderful .####Pastis | wonderful | positive | true
+Right off the L in Brooklyn this is a nice cozy place with good pizza .####pizza | good | positive | true||||place | nice cozy | positive | true
+Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .####raddichio | bitter | negative | true
+My friend got the mushroom pizza which tasted better .####mushroom pizza | better | positive | true
+The sangria was pretty tasty and good on a hot muggy day .####sangria | tasty | positive | true||||sangria | good | positive | true
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .####place | small | neutral | true
+I started out with a Bombay beer which was big enough for two .####Bombay beer | big | positive | true
+Service was slow , but the people were friendly .####Service | slow | negative | true||||people | friendly | positive | true
+It 's a nice place to relax and have conversation .####place | nice | positive | true
+Pizza is terrific , as is homemade pasta .####Pizza | terrific | positive | true||||homemade pasta | terrific | positive | true
+Ambience is delightful , service impeccable .####Ambience | delightful | positive | true||||service | impeccable | positive | true
+The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .####hanger steak | rubber | negative | true||||tuna | flavorless | negative | true
+Service was also horrible and the ambience is not that great .####Service | horrible | negative | true||||ambience | not that great | negative | true
+This is my first time writing a review for a restaurant because the food and service was excellent .####food | excellent | positive | true||||service | excellent | positive | true
+The filet mignon dish was superb !####filet mignon dish | superb | positive | true
+It 's a small cute restaurant .####restaurant | small cute | positive | true
+I absolutely love this place ! ! !####place | love | positive | true
+I like the ambience , it 's very dark and original .####ambience | like | positive | true||||ambience | dark | positive | true||||ambience | original | positive | true
+The sushi is amazing ! ! !####sushi | amazing | positive | true
+My Girlfriend and I stumbled onto this hopping place the other night and had a great time !####place | hopping | positive | true||||place | great time | positive | true
+THe Pizza and wine were excellent -- the service too -- but what really MADE this place was the backyard dining area .####Pizza | excellent | positive | true||||wine | excellent | positive | true||||service | excellent | positive | true
+First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review .####place | *not* romantic | negative | true
+The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .####tables | crammed | negative | true||||tables | too close | negative | true||||menu | typical | neutral | true||||wine list | overpriced | negative | true
+Slightly above average wines start at $ 70+ with only one selection listed at $ 30+ .####wines | above average | negative | true
+Service is not what one would expect from a joint in this price category .####Service | not what one would expect | negative | true
+Somehow working the italian charm with constant mille grazie does not constitute proper service .####service | not constitute proper | negative | true
+To be completely fair , the only redeeming factor was the food , which was above average , but could n't make up for all the other deficiencies of Teodora .####food | above average | positive | true||||Teodora | deficiencies | negative | true
+Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring .####meals | edible | negative | true||||rosemary or orange flavoring | weird | negative | true
+Fish was overdone .####Fish | overdone | negative | true
+One of us actually liked the expresso - that 's it .####expresso | liked | positive | true
+Skip this restaurant , it 's a big disappointment .####restaurant | Skip | negative | true||||restaurant | disappointment | negative | true
+Myagi is one of my favorite restaurants in the City ; the place the negative reviews describe sound like they were somewhere else .####Myagi | favorite | positive | true
+Their tuna tartar appetizer is to die for .####tuna tartar appetizer | die for | positive | true
+I come from a family of pizzeria owners , and I 'm almost ashamed to say that the pizza in Fornino 's blows my families receipies away .####pizza | ashamed | positive | true
+I highly recommend to anyone to give this place a try .####place | recommend | positive | true
+A restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .####food | great | positive | true||||service | great | positive | true||||atmosphere | pleasant | positive | true
+The dining room is quietly elegant with no music to shout over -- how refreshing !####dining room | elegant | positive | true||||dining room | refreshing | positive | true
+The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs .####service | impeccable | positive | true||||service | unobtrusive | positive | true
+Looking around , I saw a room full of New Yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .####meal | real | positive | true||||restaurant | real | positive | true
+The view is breathtaking the service is top notch ... the ambiance is wonderful .####view | breathtaking | positive | true||||service | top notch | positive | true||||ambiance | wonderful | positive | true
+The staff offers impeccable service .####staff | impeccable | positive | true
+My boyfriend had Prime Rib it was good .####Prime Rib | good | positive | true
+We did n't want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough .####bottles of Korbett | enough | positive | true
+If you like spicy food get the chicken vindaloo .####chicken vindaloo | get | positive | true
+Go to Volare for 1st class service and terrific food .####service | 1st class | positive | true||||food | terrific | positive | true
+The portions are large and the servers always surprise us with a different starter .####portions | large | positive | true
+The wine list is excellent .####wine list | excellent | positive | true
+The food is amazing ... especially if you get the Chef 's tasting menu and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .####food | amazing | positive | true||||selection of wines | extensive | positive | true
+The place is small and intimate and you may feel a little crowded , but the service is excellent and it 's great for friends out , a romantic date , or a special occassion .####service | excellent | positive | true||||place | small | positive | true||||place | intimate | positive | true||||place | crowded | positive | true
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .####food | pricey | negative | true||||prixe fixe tasting menu | greatest | positive | true
+With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .####food | decent | neutral | true||||food | not great | neutral | true||||lemon salad | exception | negative | true
+The menu is very limited - i think we counted 4 or 5 entrees .####menu | limited | negative | true
+We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .####grilled branzino | difficult to eat | negative | true
+The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .####decor | diner-ish | neutral | true
+Problem is nothing at Prune is particularly memorable .####Prune | memorable | negative | true
+This place is so much fun .####place | fun | positive | true
+Our food was great too !####food | great | positive | true
+And really large portions .####portions | large | positive | true
+The staff was the friendliest that have seen in New York .####staff | friendliest | positive | true
+If you want something really different than try Jekyll and Hyde .####Jekyll and Hyde | different | positive | true
+The food was pretty tradional but it was hot and good with large portions .####food | tradional | positive | true||||portions | large | positive | true
+The place is a lot of fun .####place | fun | positive | true
+The food however , is what one might expect .####food | expect | negative | true
+However , I think Jeckll and Hydes t is one of those places that is fun to do once .####Jeckll and Hydes | fun | positive | true
+Service was slow had to wait to order and get food although not crowded .####Service | slow | negative | true
+Drinks way over priced .####Drinks | over priced | negative | true
+Great pizza for lunch place .####pizza | Great | positive | true
+Service was quick .####Service | quick | positive | true
+The pizza was great .####pizza | great | positive | true
+Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .####fish | quality | positive | true||||service | great | positive | true
+Delivery is fast too .####Delivery | fast | positive | true
+Great friendly service , Fast seating , Fast Delivery , Excellent sushi .####service | Great friendly | positive | true||||seating | Fast | positive | true||||Delivery | Fast | positive | true||||sushi | Excellent | positive | true
+Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .####bagel | best | positive | true
+The bagels always warm , soft on the inside , crispy on the outside and enormous in size .####bagels | warm | positive | true||||bagels | soft | positive | true||||bagels | crispy | positive | true||||bagels | enormous | positive | true
+They have a huge selection of different cream cheeses and all of their salads are great .####salads | great | positive | true||||cream cheeses | huge | positive | true||||cream cheeses | different | positive | true
+Not impressed with the food .####food | Not impressed | negative | true
+Prices too high for this cramped and unappealing resturant .####resturant | cramped | negative | true||||resturant | unappealing | negative | true
+Zero ambiance to boot .####ambiance | Zero | negative | true
+I thought this place was totally overrated .####place | overrated | negative | true
+The ambience was nice , but service was n't so great .####ambience | nice | positive | true||||service | was n't so great | negative | true
+This is the BEST Shabu-Shabu Restaurant in the Try-State Area .####Shabu-Shabu Restaurant | BEST | positive | true
+Thius is a must for anyone who loves Shabu-Shabu .####Shabu-Shabu | loves | positive | true
+The atmosphere is nothing special , but it feels like a Sushi establishment in Tokyo .####atmosphere | nothing special | positive | true
+The owner and staff are all Japanese as well and that adds to the entire ambiance .####ambiance | adds | positive | true
+Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .####menu | limited | negative | true
+Taxan delicious !####Taxan | delicious | positive | true
+The location and ambience is Ok but the food is what makes up for it .####location | Ok | neutral | true||||ambience | Ok | neutral | true
+Try green curry with vegetables .####green curry with vegetables | Try | positive | true
+I had the best ravioli ever .####ravioli | best | positive | true
+This quaint and romantic trattoria is at the top of my Manhattan restaurant list .####trattoria | quaint | positive | true||||trattoria | romantic | positive | true
+The food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .####food | delicious | positive | true||||dishes | never a disappointment | positive | true||||specials | delicious | positive | true||||specials | never a disappointment | positive | true||||regular menu-fare | delicious | positive | true||||regular menu-fare | never a disappointment | positive | true
+Although the tables may be closely situated , the candle-light , food quality and service overcompensate .####candle-light | overcompensate | positive | true||||food | overcompensate | positive | true||||service | overcompensate | positive | true||||tables | closely situated | negative | true
+If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .####marinara/arrabiatta sauce | try | positive | true||||marinara/arrabiatta sauce | delicious | positive | true||||mozzarella en Carozza | delicious | positive | true
+Check out the secret back room .####back room | secret | positive | true
+I found the food , service and value exceptional everytime I have been there .####food | exceptional | positive | true||||service | exceptional | positive | true
+The food was authentic .####food | authentic | positive | true
+The service was excellent - friendly and attentive .####service | excellent | positive | true||||service | friendly | positive | true||||service | attentive | positive | true
+Very good wine choices .####wine choices | good | positive | true
+Who has room for Cheesesticks with the best pizza in NYC !####pizza | best | positive | true
+Always great service !####service | great | positive | true
+The food is good , I ca n't lie .####food | good | positive | true
+But the staff was so horrible to us .####staff | horrible | negative | true
+This place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .####place | pricey | negative | true||||food | worth | positive | true
+Amma is nothing special .####Amma | nothing special | neutral | true
+I ate here a week ago and found most dishes average at best and too expensive .####dishes | average | negative | true||||dishes | too expensive | negative | true
+Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .####vegetarian dishes | not up to par | negative | true
+Decor is nice though service can be spotty .####Decor | nice | positive | true||||service | spotty | negative | true
+Most importantly , food is excellent .####food | excellent | positive | true
+I am happy i did the food was awsome .####food | awsome | positive | true
+Haru on Park S is simply disgusting .####Haru on Park S | disgusting | negative | true
+The fish was not fresh and the rice tasted old and stale .####fish | not fresh | negative | true||||rice | old | negative | true||||rice | stale | negative | true
+Quite frankly , this is some of the worst sushi I have ever tried .####sushi | worst | negative | true
+honestly the worst sushi my husband and i had in our entire lives .####sushi | worst | negative | true
+not sure why this restaurant would be rated that highly .####restaurant | highly | negative | true
+the all-u-can-eat sushi is definitely in very poor quality .####all-u-can-eat sushi | poor quality | negative | true
+limited menu , no-so-fresh ingredients , thinly-sliced fish , fall-apart rice .####menu | limited | negative | true||||ingredients | no-so-fresh | negative | true||||fish | thinly-sliced | negative | true||||rice | fall-apart | negative | true
+the only things u could really taste are the very salty soy sauce ( even its low sodium ) , the vinegar-soaked rice , and the scallion on top of the fish .####soy sauce | salty | negative | true||||rice | vinegar-soaked | negative | true
+the waitstaffs are nice though .####waitstaffs | nice | positive | true
+Both times I was extremely dissappointed by the service , which was boarderline rude .####service | dissappointed | negative | true||||service | rude | negative | true
+The dinner was ok , nothing I would have again .####dinner | ok | negative | true
+I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .####eggs benedict | worst | negative | true
+With the theater 2 blocks away we had a delicious meal in a beautiful room .####meal | delicious | positive | true||||room | beautiful | positive | true
+The service was attentive .####service | attentive | positive | true
+Planet Thai is great !####Planet Thai | great | positive | true
+We love the food , drinks , and atmosphere !####food | love | positive | true||||drinks | love | positive | true||||atmosphere | love | positive | true
+The svc can be a bit rude at times , esp if you have big group , but overall the restaurant is a must !####svc | rude | negative | true||||restaurant | must | positive | true
+Try the Pad Thai , it 's fabulous and their prices are so cheap !####Pad Thai | Try | positive | true||||Pad Thai | fabulous | positive | true||||Pad Thai | cheap | positive | true
+Just because it 's cheap does NOT mean the portions are small or the food is nasty , IT IS GREAT !####portions | small | positive | true||||food | nasty | positive | true
+Eating in , the atmosphere saves it , but at your desk , it 's a very disappointing experience .####atmosphere | saves | positive | true
+The seats are uncomfortable if you are sitting against the wall on wooden benches .####seats | uncomfortable | negative | true
+Patroon features a nice cigar bar and has great staff .####cigar bar | nice | positive | true||||staff | great | positive | true
+The food is tasty and portion sizes are appropriate .####food | tasty | positive | true||||portion sizes | appropriate | positive | true
+This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .####restaurant | nice | positive | true
+Not a great place for family or general dining .####place | Not a great | negative | true
+LOVE THIS PLACE .####PLACE | LOVE | positive | true
+Waitstaff are very friendly .####Waitstaff | friendly | positive | true
+Mermaid Inn is an overall good restaurant with really good seafood .####seafood | good | positive | true||||Mermaid Inn | good | positive | true
+The menu is limited but almost all of the dishes are excellent .####menu | limited | negative | true||||dishes | excellent | positive | true
+The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .####lobster sandwich | good | positive | true||||spaghetti with Scallops and Shrimp | great | positive | true
+The service is good and ambience is good for a date or group outing .####service | good | positive | true||||ambience | good | positive | true
+The only fallback on this restaurant is the prices .####restaurant | fallback | negative | true
+Even though its good seafood , the prices are too high .####seafood | good | negative | true
+The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .####lobster sandwich | good | negative | true||||lobster sandwich | not nearly enough to warrant that price | negative | true
+The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top-notch .####food | delicious | positive | true||||service | top-notch | positive | true
+Truly the mark of an attentive waiter .####waiter | attentive | positive | true
+I highly recommend the restaurant based on our experience last night .####restaurant | recommend | positive | true
+We ate at this Thai place following the reviews but very unhappy with the foods .####foods | unhappy | negative | true
+I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .####jelly fish | recommend | positive | true||||drunken chicken | recommend | positive | true||||soupy dumplings | recommend | positive | true||||stir fry blue crab | recommend | positive | true
+Have frequented 'ino for several years and the food remains excellent .####food | excellent | positive | true
+Cheese plate is a varied delight and great bargain at $ 10 .####Cheese plate | varied delight | positive | true||||Cheese plate | great bargain | positive | true
+( The asparagus , truffle oil , parmesan bruschetta is a winner ! )####asparagus , truffle oil , parmesan bruschetta | winner | positive | true
+Wine list is extensive without being over-priced .####Wine list | extensive without being over-priced | positive | true
+I loved this place ! !####place | loved | positive | true
+I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .####atmosphere | great | positive | true
+The food was very good , a great deal , and the place its self was great .####food | good | positive | true||||place | great | positive | true
+The wait staff is very freindly , they make it feel like you 're eating in a freindly little european town .####wait staff | freindly | positive | true
+I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !####people | evil | negative | true||||people | incompetent | negative | true||||Cafe Noir | like | positive | true
+The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .####service | terrible | negative | true
+The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff , because despite the current one this is a great place .####staff | good | negative | true||||Cafe Noir | great | positive | true
+Pizza here is consistently good .####Pizza | good | positive | true
+You should pass on the calamari .####calamari | pass | negative | true
+Decor is charming .####Decor | charming | positive | true
+Service is average .####Service | average | neutral | true
+What a great place .####place | great | positive | true
+The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .####ambience | fun | positive | true||||food | tasty | positive | true
+I was here a few weeks back and we had the worst customer service experience at a restaurant ever .####customer service | worst | negative | true
+Excellent atmosphere , delicious dishes good and friendly service .####atmosphere | Excellent | positive | true||||dishes | delicious | positive | true||||service | good | positive | true||||service | friendly | positive | true
+The wine list is also really nice .####wine list | nice | positive | true
+I would highly recommend this place !####place | recommend | positive | true
+I have been to Casimir over 5 times and I have always had a great time there .####Casimir | great time | positive | true
+The food is great and reasonably priced .####food | great | positive | true||||food | reasonably priced | positive | true
+The staff has been nice , but they seemed really stressed and the unisex bathroom needs to be cleaned more often .####staff | nice | negative | true||||staff | stressed | negative | true||||unisex bathroom | stressed | negative | true
+From the spectacular caviar to the hospitable waitstaff , I felt like royalty and enjoyed every second of it .####caviar | spectacular | positive | true||||caviar | enjoyed | positive | true||||waitstaff | hospitable | positive | true||||waitstaff | enjoyed | positive | true
+Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .####waitstaff | comfortable | positive | true||||waitstaff | relaxed | positive | true
+I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .####caviar | delicious top grade | positive | true||||service | fantastic | positive | true
+Fresh ingredients and everything is made to order .####ingredients | Fresh | positive | true
+Friendly staff that actually lets you enjoy your meal and the company you 're with .####staff | Friendly | positive | true
+I found the food to be outstanding , particulary the salmon dish I had .####food | outstanding | positive | true||||salmon dish | outstanding | positive | true
+My friends settled for rice dishes , but we came back the following day to try the dim sum , which was good ... not outstanding , but good .####dim sum | good | neutral | true||||dim sum | not outstanding | neutral | true
+We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .####back patio | worth | positive | true||||back patio | cool | positive | true||||music | well | positive | true
+Overall , excellent restaurant !####restaurant | excellent | positive | true
+The food was good .####food | good | positive | true
+but the service was a bit slow .####service | slow | negative | true
+The buffet had a nice selection .####buffet | nice | positive | true
+The food was average or above including some surprising tasty dishes .####food | average or above | positive | true||||dishes | tasty | positive | true
+Service was also very good .####Service | good | positive | true
+I got an excellent piece of cheesecake and we had several other nice pastries .####cheesecake | excellent | positive | true||||pastries | nice | positive | true
+I would recommend Roxy 's for that , but not for their food .####food | recommend | negative | true
+My son and his girlfriend both wanted cheeseburgers and they were huge !####cheeseburgers | huge | neutral | true
+This place is really trendi but they have forgotten about the most important part of a restaurant , the food .####food | forgotten | negative | true||||place | trendi | positive | true
+The last two times I ordered from here my food was soo spicy that I could barely eat it , and the spice took away from the flavor of the dish .####food | spicy | negative | true
+And the Tom Kha soup was pathetic .####Tom Kha soup | pathetic | negative | true
+If you want good authentic Thai this place is not the place to go .####Thai | good authentic | negative | true
+We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .####food | impressed | positive | true
+The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .####pesto pizza | excellent | positive | true||||spicy Italian cheese | nice | positive | true
+We had the lobster sandwich and it was FANTASTIC .####lobster sandwich | FANTASTIC | positive | true
+My husband said he could 've eaten several more , the portion was fine for me he even exclaimed that the french fries were the best he has had .####portion | fine | positive | true||||french fries | best | positive | true
+We had the scallops as an appetizer and they were delicious and the sauce was wonderful .####scallops | delicious | positive | true||||sauce | wonderful | positive | true
+We waited at the bar and had martinis that were just right .####martinis | right | positive | true
+love the food .####food | love | positive | true
+it 's the only place you can get yummy authentic japanese comfort food .####japanese comfort food | yummy authentic | positive | true
+Great food , good size menu , great service and an unpretensious setting .####food | Great | positive | true||||menu | good size | positive | true||||service | great | positive | true||||setting | unpretensious | positive | true
+The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .####dishes | unique | positive | true||||dishes | tasty | positive | true||||dishes | fresh | positive | true||||pistachio ice cream | amazing | positive | true
+I 'm glad I was introduced to this place and this is a rare gem in NY .####place | glad | positive | true
+The freshest , best variety , and the fastest delivery .####delivery | fastest | positive | true
+The service was excellent and the food was delicious .####service | excellent | positive | true||||food | delicious | positive | true
+We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .####sushi | particular | positive | true||||ceviche mix ( special ) | please | positive | true||||crab dumplings | please | positive | true||||assorted sashimi | please | positive | true||||rolls | please | positive | true||||banana tempura | please | positive | true
+Definitely a great spot for a nice occasion or date .####spot | great | positive | true
+Average to good Thai food , but terrible delivery .####Thai food | Average to good | positive | true||||delivery | terrible | negative | true
+The food arrived 20 minutes after I called , cold and soggy .####food | cold | negative | true||||food | soggy | negative | true
+This is a wonderful place on all stand points especially value ofr money .####place | wonderful | positive | true
+An excellent service####service | excellent | positive | true
+We were greeted promptly by the waiter who was very nice and cordial .####waiter | nice | positive | true||||waiter | cordial | positive | true
+She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food .####dishes | good | positive | true
+The food looked very appetizing and delicious since it came on a variety of fancy plates .####food | appetizing | positive | true||||food | delicious | positive | true
+Service here was great , food was fantastic .####Service | great | positive | true||||food | fantastic | positive | true
+Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .####Guacamole+shrimp appetizer | great | positive | true||||filet | good | positive | true
+You can not go wrong with this place .####place | wrong | positive | true
+The food is outstanding and the service is quick , friendly and very professional .####food | outstanding | positive | true||||service | quick | positive | true||||service | friendly | positive | true||||service | professional | positive | true
+Always a nice crowd , but never loud .####crowd | nice | positive | true||||crowd | never loud | positive | true
+By far , the best pizza in Manhattan .####pizza | best | positive | true
+The crust is thin , the ingredients are fresh and the staff is friendly .####crust | thin | positive | true||||staff | friendly | positive | true||||ingredients | fresh | positive | true
+The fish was really , really fresh .####fish | fresh | positive | true
+We all agreed that mare is one of the best seafood restaurants in New York .####mare | best | positive | true
+I stumbled upon this great pizzeria as I explored my new neighborhood .####pizzeria | great | positive | true
+All of the pizzas are terrific and the price is even better !####pizzas | terrific | positive | true
+I highly recommend the Sophia pizza .####Sophia pizza | recommend | positive | true
+The food was mediocre at best but it was the horrible service that made me vow never to go back .####food | mediocre | negative | true||||service | horrible | negative | true
+For the people who want great food plus great service , Roxy is a place to AVOID !####food | great | negative | true||||service | great | negative | true
+The first time the sushi was outstanding , the second time it was a little bland .####sushi | outstanding | negative | true||||sushi | bland | negative | true
+The blond wood decor is very soothing , the premium sake is excellent and the service is great .####blond wood decor | soothing | positive | true||||premium sake | soothing | positive | true||||service | great | positive | true
+Mizu is home to creative and unique rolls not to found anywhere else .####rolls | unique | positive | true
+Not only is the cuisine the best around , the service has always been attentive and charming .####cuisine | best | positive | true||||service | attentive | positive | true||||service | charming | positive | true
+Warning : You may find it difficult to dine at other Japanese restaurants after a visit to Mizu !####Mizu | difficult | positive | true
+I ordered the smoked salmon and roe appetizer and it was off flavor .####smoked salmon and roe appetizer | off flavor | negative | true
+The entree was bland and small , dessert was not inspired .####entree | bland | negative | true||||entree | small | negative | true||||dessert | not inspired | negative | true
+Wonderful strawberry daiquiries as well !####strawberry daiquiries | Wonderful | positive | true
+delicious simple food in nice outdoor atmosphere .####food | delicious simple | positive | true||||outdoor atmosphere | nice | positive | true
+Delicious crab cakes too .####crab cakes | Delicious | positive | true
+Even if the food was n't this good , the garden is a great place to sit outside and relax .####garden | great | positive | true||||food | was n't this good | positive | true
+Great neighborhood joint .####joint | Great | positive | true
+This is a nice pizza place with good selection of thin crust pizza including the Basil slice .####selection of thin crust pizza | good | positive | true||||pizza place | nice | positive | true||||Basil slice | good | positive | true
+Their calzones are horrific , bad , vomit-inducing , YUCK .####calzones | horrific | negative | true||||calzones | bad | negative | true||||calzones | vomit-inducing | negative | true||||calzones | YUCK | negative | true
+The counter service is bad .####counter service | bad | negative | true
+The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .####dosas | skimpy | negative | true||||dosas | unattractive | negative | true
+The sandwiches are dry , tasteless and way overpriced .####sandwiches | dry | negative | true||||sandwiches | tasteless | negative | true||||sandwiches | overpriced | negative | true
+Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance , but in this unattractive room with unhelpful clerks there was a dearth of the former too .####place | unattractive | negative | true||||room | unattractive | negative | true||||clerks | unhelpful | negative | true
+Seriously , this place kicks ass .####place | kicks ass | positive | true
+Best Italian food I ever had ( and being Italian , that means alot ) .####Italian food | Best | positive | true
+The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .####restaurant | beautiful | positive | true
+The food is good , especially their more basic dishes , and the drinks are delicious .####food | good | positive | true||||basic dishes | good | positive | true||||drinks | delicious | positive | true
+This is a great place to take out-of-towners , and perfect for watching the sunset .####place | great | positive | true
+Unique apppetizers .####apppetizers | Unique | positive | true
+Try sushimi cucumber roll .####sushimi cucumber roll | Try | positive | true
+Good spreads , great beverage selections and bagels really tasty .####spreads | Good | positive | true||||beverage selections | great | positive | true||||bagels | tasty | positive | true
+The service is awful .####service | awful | negative | true
+I will be out with friends and all of a sudden I am hungry and I only crave one thing ... their Pizza .####Pizza | crave | positive | true
+This tiny Williamsburg spot is always pleasantly surprising .####Williamsburg spot | surprising | positive | true
+The pizza is delicious and the proprietor is one of the nicest in NYC .####pizza | delicious | positive | true||||proprietor | nicest | positive | true
+The cream cheeses are out of this world and I love that coffee ! !####cream cheeses | out of this world | positive | true||||coffee | love | positive | true
+Bagels are ok , but be sure not to make any special requests !####Bagels | ok | neutral | true
+the turkey burgers are scary !####turkey burgers | scary | negative | true
+The sushi was awful !####sushi | awful | negative | true
+Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .####sushi | bland | negative | true||||sushi | disgusting | negative | true
+Good , fast service .####service | Good | positive | true||||service | fast | positive | true
+Food is great and inexpensive .####Food | great | positive | true||||Food | inexpensive | positive | true
+The location is perfect .####location | perfect | positive | true
+Well , this place is so Ghetto its not even funny .####place | Ghetto | negative | true||||place | not even funny | negative | true
+If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .####music | like | negative | true
+Awsome Pizza especially the Margheritta slice .####Pizza | Awsome | positive | true||||Margheritta slice | Awsome | positive | true
+Great atmoshere and worth every bit .####atmoshere | Great | positive | true
+Winnie and her staff are the best crew you can find serving you .####staff | best | positive | true||||Winnie | best | positive | true
+The food is reliable and the price is moderate .####food | reliable | positive | true
+For authentic Thai food , look no further than Toons .####Thai food | authentic | positive | true
+Try the Pad Thai , or sample anything on the appetizer menu ... they 're all delicious .####Pad Thai | Try | positive | true||||Pad Thai | delicious | positive | true||||appetizer menu | delicious | positive | true
+Everything about this restaurant was special .####restaurant | special | positive | true
+The service was attentive , yet discreet .####service | attentive | positive | true||||service | discreet | positive | true
+The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal .####brioche and lollies | cute | positive | true||||brioche and lollies | sweet | positive | true
+The place was quiet and delightful .####place | quiet | positive | true||||place | delightful | positive | true
+Service was good and food is wonderful .####Service | good | positive | true||||food | wonderful | positive | true
+I did not try the caviar but I tried their salmon and crab salad ( they are all good )####salmon | good | positive | true||||crab salad | good | positive | true
+It is definitely a good spot for snacks and chat .####spot | good | positive | true
+As a retired hipster , I can say with some degree of certainty that for the last year Lucky Strike has been the best laid-back late night in the city .####Lucky Strike | best | positive | true
+The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .####food | yummy | positive | true||||mussels in spicy tomato sauce | yummy | positive | true||||mussels in spicy tomato sauce | cooked-to-perfection | positive | true||||fries | yummy | positive | true||||fries | crispy | positive | true
+You can get a completely delish martini in a glass ( that 's about 2 1/2 drinks ) for $ 8.50 ( I recommend the Vanilla Shanty , mmmm ! ) in a great homey setting with great music .####martini | delish | positive | true||||Vanilla Shanty | recommend | positive | true||||setting | homey | positive | true||||music | great | positive | true
+The in-house lady DJ on Saturday nights has outrageously good taste in music , and moreover , takes requests .####in-house lady DJ | good taste | positive | true
+You ca n't go wrong with this place .####place | ca n't go wrong | positive | true
+Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .####location | good | positive | true||||Suan | reasonable | positive | true
+I LOVE their Thai####Thai | LOVE | positive | true
+In summer-eat outside on a terrace ( another great feature of Suan ) ! ! !####terrace | great | positive | true
+During the course of the past 3 months , the chef and staff changed and it was not for the better .####chef | changed | negative | true||||staff | changed | negative | true
+The food now is inconsistent .####food | inconsistent | negative | true
+This is the kind of place you 'd like to take all your friends to and still keep a secret .####place | like | positive | true
+The setting is casual and romantic .####setting | casual | positive | true||||setting | romantic | positive | true
+The food is excellent !####food | excellent | positive | true
+The wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .####wait | long | negative | true||||atmosphere | sleek | negative | true
+I choose to go with one of the special , the braised lamb shank in red wine , which was excellent .####braised lamb shank in red wine | excellent | positive | true
+The service was friendly and the atmosphere was casual .####service | friendly | positive | true||||atmosphere | casual | neutral | true
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal####meal | enjoy | positive | true||||meal | great | positive | true||||restaurant | noisy | neutral | true
+this little place has a cute interior decor and affordable city prices .####interior decor | cute | positive | true||||place | little | positive | true
+the pad se ew chicken was delicious , however the pad thai was far too oily .####pad se ew chicken | delicious | positive | true||||pad thai | oily | negative | true
+Have eaten at Ginger House several times , and it 's always good .####Ginger House | good | positive | true
+The fried dumplings are GREAT !####fried dumplings | GREAT | positive | true
+Finally a reliable Chinese restaurant !####Chinese restaurant | reliable | positive | true
+Terrible , terrible management - deserves to be shut-down .####management | Terrible | negative | true||||management | terrible | negative | true
+delicious bagels , especially when right out of the oven .####bagels | delicious | positive | true
+Spreads and toppings are great - though a bit pricey .####Spreads | great | negative | true||||Spreads | pricey | negative | true||||toppings | great | negative | true||||toppings | pricey | negative | true
+Service is fast and friendly .####Service | fast | positive | true||||Service | friendly | positive | true
+The food is decent at best , and the ambience , well , it 's a matter of opinion , some may consider it to be a sweet thing , I thought it was just annoying .####food | decent | negative | true||||ambience | annoying | negative | true
+Rao is a good restaurant , but it 's nothing special .####Rao | good | neutral | true
+You must try the shrimp appetizers .####shrimp appetizers | try | positive | true
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .####ambience | correct | positive | true||||staff | excellent | positive | true
+Great food , great prices , great service .####food | Great | positive | true||||service | great | positive | true
+If you are looking for a good quality , cheap eats - this is the place .####eats | good quality | positive | true||||eats | cheap | positive | true
+I really loved the different and inovated touch that 's the cheff gives to the food .####cheff | loved | positive | true||||cheff | inovated | positive | true
+also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect ... they 're so frendly that we never want to live the place !####place | romantic | positive | true||||place | comfortable | positive | true||||service | perfect | positive | true
+Their bagels are fine , but they are a little overcooked , and not really a 'special ' bagel experience .####bagels | fine | negative | true||||bagels | overcooked | negative | true
+Great bagels made the old-fashioned way .####bagels | Great | positive | true
+The food was absolutely amazing ! !####food | amazing | positive | true
+The baked clams octopus we shared as appetizers were the best we 've ever had ! !####baked clams octopus | best | positive | true
+The lamb was tender so full of flavor , the dessert was divine ! !####lamb | tender | positive | true||||dessert | divine | positive | true
+The waiter was attentive .####waiter | attentive | positive | true
+The place itself is beautiful the bar scene seems to be happening .####place | beautiful | positive | true
+Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .####salmon | wasnt impressed | negative | true||||chicken | good | positive | true||||servings for main entree | Small | negative | true
+Dessert is a joke ... dont bother####Dessert | joke | negative | true
+Volare virgins or weekly regulars , everyone gets treated the same and you ca n't ask for more than that when the service is this friendly .####service | friendly | positive | true
+The restaurant has a Family feel , not least with regard to the portions which are enormous ; the veal alone could have single-handedly solved third world famine .####portions | enormous | positive | true
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal .####wine list | extensive | positive | true||||meal | reasonably priced | positive | true
+Still , any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house ...####measures of liquers | pour-your-own | positive | true||||measures of liquers | courtesey | positive | true
+Fantastic place .####place | Fantastic | positive | true
+Lucky Strike is a great casual place to just grab a bite to eat .####Lucky Strike | great casual | positive | true
+This is the perfect spot for meeting friends , having lunch , dinner , pre-theatre or after-theatre drinks !####spot | perfect | positive | true
+Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .####spot | Excellent | positive | true
+I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED !####Heartland Brewery | NEVER BEEN DISAPPOINTED | positive | true
+What a great place !####place | great | positive | true
+A cool bar with great food , and tons of excellent beer .####bar | cool | positive | true||||food | great | positive | true||||beer | excellent | positive | true
+The shrimp scampi was excellent and the antipasti were plentiful .####shrimp scampi | excellent | positive | true||||antipasti | plentiful | positive | true
+The only thing more wonderful than the food ( which is exceptional ) is the service .####food | exceptional | positive | true||||service | wonderful | positive | true
+Cozy romantic atomosphere with only around 15 tables at most .####atomosphere | Cozy romantic | positive | true
+Food was very good , but not what I would consider out of this world .####Food | good | neutral | true
+Too bad the food was n't of the same heritage .####food | bad | negative | true
+The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .####porcini mushroom pasta special | tasteless | negative | true||||seafood tagliatelle | tasteless | negative | true
+But that was n't the icing on the cake : a tiramisu that resembled nothing I have ever had .####tiramisu | nothing | negative | true
+I really liked this place .####place | liked | positive | true
+This place has the best Chinese style BBQ ribs in the city .####BBQ ribs | best | positive | true
+I also recommend the rice dishes or the different varieties of congee ( rice porridge ) .####rice dishes | recommend | positive | true||||congee ( rice porridge ) | recommend | positive | true
+It 's definately not a place to go if you want to impress someone .####place | impress | negative | true
+However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .####food | great | positive | true
+Quick and friendly service .####service | Quick | positive | true||||service | friendly | positive | true
+When you 're sitting in their main dining room ( which has a spectacular , hand-painted high ceiling ) you 'd never know there was a world outside .####main dining room | spectacular | positive | true||||ceiling | spectacular | positive | true||||ceiling | hand-painted high | positive | true
+The food is wonderful , tasty and filling , and the service is professional and friendly .####food | wonderful | positive | true||||food | tasty | positive | true||||food | filling | positive | true||||service | professional | positive | true||||service | friendly | positive | true
+I recently tried Suan and I thought that it was great .####Suan | great | positive | true
+This little place definitely exceeded my expectations and you sure get a lot of food for your money .####food | lot | positive | true||||place | exceeded my expectations | positive | true
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .####service | fast | positive | true||||service | friendly | positive | true||||food | tasty | positive | true||||hot sauce | best | positive | true
+Good food .####food | Good | positive | true
+Great spot , whether looking for a couple of drinks or quiet dinner .####spot | Great | positive | true
+Warm and friendly in the winter and terrific outdoor seating in the warmer months .####outdoor seating | terrific | positive | true
+The food is great and they have a good selection of wines at reasonable prices .####food | great | positive | true
+While the ambiance and atmosphere were great , the food and service could have been a lot better .####ambiance | great | positive | true||||atmosphere | great | positive | true||||food | could have been a lot better | negative | true||||service | could have been a lot better | negative | true
+Best Reuben sandwich ever !####Reuben sandwich | Best | positive | true
+Do n't miss Bloom 's on your next trip to Manhatten .####Bloom 's | miss | positive | true
+Thanks Bloom 's for a lovely trip .####Bloom 's | Thanks | positive | true||||Bloom 's | lovely | positive | true
+The food was not fresh , the sauces were bland and very oily .####food | not fresh | negative | true||||sauces | bland | negative | true||||sauces | oily | negative | true
+Ravioli was good ... but I have to say that I found everything a bit overpriced .####Ravioli | good | positive | true||||Ravioli | overpriced | positive | true
+Not enough wines by the glass either .####wines by the glass | Not enough | negative | true
+Service , however , was excellent ... and I liked the setting/atmosphere a lot .####Service | excellent | positive | true||||setting/atmosphere | liked | positive | true
+Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .####Food | average | negative | true
+Authentic Pakistani food .####Pakistani food | Authentic | positive | true
+People are always friendly .####People | friendly | positive | true
+Just straight up cheap , good food .####food | cheap | positive | true||||food | good | positive | true
+Faan is sooo good .####Faan | good | positive | true
+The best pad thai i 've ever had .####pad thai | best | positive | true
+bottles of wine are cheap and good .####bottles of wine | cheap | positive | true||||bottles of wine | good | positive | true
+The food was actually aweful .####food | aweful | negative | true
+The mussles were the fishiest things I 've ever tasted , the seabass was bland , the goat cheese salad was missing the goat cheese , the penne w/ chicken had bones in it ... It was disgusting .####mussles | fishiest | negative | true||||seabass | bland | negative | true||||goat cheese salad | missing | negative | true||||penne w/ chicken | disgusting | negative | true
+Nice atmosphere , the service was very pleasant and the desert was good .####atmosphere | Nice | positive | true||||service | pleasant | positive | true||||desert | good | positive | true
+The food is amazing , rich pastas and fresh doughy pizza .####food | amazing | positive | true||||pastas | rich | positive | true||||pizza | fresh doughy | positive | true
+Best of all is the warm vibe , the owner is super friendly and service is fast .####vibe | warm | positive | true||||owner | friendly | positive | true||||service | fast | positive | true
+Ask for Usha , the nicest bartender in manhattan .####Usha | nicest | positive | true
+My fav was the sassy lassi ...####sassy lassi | fav | positive | true
+I really recommend the very simple Unda ( Egg ) rolls .####Unda ( Egg ) rolls | recommend | positive | true||||Unda ( Egg ) rolls | simple | positive | true
+Delicate spices , onions , eggs and a kick-ass roti .####spices | Delicate | positive | true||||onions | Delicate | positive | true||||eggs | Delicate | positive | true||||roti | kick-ass | positive | true
+Toons has recently been redone , so it 's now a very attractive space .####Toons | attractive | positive | true
+In an area sadly lacking in decent Thai food , this is one of the best spots .####Thai food | decent | positive | true
+Went here last night - nice decor , good service , but the food was surprisingly excellent .####decor | nice | positive | true||||service | good | positive | true||||food | excellent | positive | true
+The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .####portions | HUGE | positive | true
+Beef noodle soup is good as well .####Beef noodle soup | good | positive | true
+Best Taiwanese food in NY !####Taiwanese food | Best | positive | true
+I have been to Rao 's probably 15 times the past 3 years and it keeps getting better .####Rao 's | better | positive | true
+Rao 's has the best service and atmosphere in NYC .####service | best | positive | true||||atmosphere | best | positive | true
+My roommate and I LOVE this place .####place | LOVE | positive | true
+Indoor was very cozy and cute .####Indoor | cozy | positive | true||||Indoor | cute | positive | true
+The portion sizes here are huge , and the sushi is good .####sushi | good | positive | true
+Staff is very accomodating .####Staff | accomodating | positive | true
+Excellent dumplings served amid clean , chic decor .####dumplings | Excellent | positive | true||||decor | clean | positive | true||||decor | chic | positive | true
+The decor is very simple but comfortable .####decor | simple | positive | true||||decor | comfortable | positive | true
+The food was delicious but do not come here on a empty stomach .####food | delicious | negative | true
+The portions are small but being that the food was so good makes up for that .####portions | small | negative | true||||food | good | positive | true
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .####crabmeat lasagna | out of this world | positive | true
+The staff there is very attentive and down to earth .####staff | attentive | positive | true||||staff | down to earth | positive | true
+Great food and the prices are very reasonable .####food | Great | positive | true
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork .####egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork | love | positive | true
+This dish is my favorite and I always get it when I go there and never get tired of it .####dish | favorite | positive | true
+Try the congee and the donut like deep fried dough they call Ow Ley Soh , a delicious and sweet tasting bread .####Ow Ley Soh | delicious | positive | true||||Ow Ley Soh | sweet | positive | true
+Simply some good tasting Chinese food at incredible prices ...####Chinese food | good tasting | positive | true
+Big Wong is a great place to eat and fill your stomach .####Big Wong | great | positive | true
+whoever the jazz duo was , they were on POINT .####jazz duo | on POINT | positive | true
+even the wine by the glass was good .####wine by the glass | good | positive | true
+Consistently good Japanese Tapas .####Japanese Tapas | good | positive | true
+Always good drinks and service is pretty good ;####drinks | good | positive | true||||service | good | positive | true
+A great place to meet up for some food and drinks ...####place | great | positive | true
+Yakitori ( bbq meats ) is tasty too .####Yakitori ( bbq meats ) | tasty | positive | true
+Fabulous decor - makes you feel like you 're in a trendy Manhattan restaurant , very very good food , cheaply-priced , generally friendly staff , and if you 're a Manhattanite , or spend most of your time in Manhattan , Rice Avenue will make you feel at home ... ..very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele ... ..all on Roosevelt Avenue !####decor | Fabulous | positive | true||||food | good | positive | true||||food | cheaply-priced | positive | true||||staff | friendly | positive | true
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .####service | disappointed | negative | true||||food | overated | negative | true||||food | pricey | negative | true
+The food is okay and the prices here are mediocre .####food | okay | neutral | true
+Baluchi 's has solid food and a nice decor at reasonable prices .####food | solid | positive | true||||decor | nice | positive | true||||Baluchi 's | solid | positive | true
+The only problem is that the manager is a complete incompetent .####manager | incompetent | negative | true
+He offers subpar service and has no personality .####service | subpar | negative | true
+There is no excuse for such lousy service !####service | lousy | negative | true
+I have never before eaten 40 pieces of relatively good nigiri .####nigiri | good | neutral | true
+I went to Areo on a Sunday afternoon with four of my girlfriends , and spent three enjoyable hours there .####Areo | enjoyable | positive | true
+Most of the servers are very attentive , friendly and quite attractive .####servers | attentive | positive | true||||servers | friendly | positive | true||||servers | attractive | positive | true
+The vibe is very relaxed and cozy , service was great and the food was excellent !####vibe | relaxed | positive | true||||vibe | cozy | positive | true||||service | great | positive | true||||food | excellent | positive | true
+The food is great .####food | great | positive | true
+Personal pans are the perfect size for those hungry nights .####Personal pans | perfect | positive | true
+There is a downside if you 're ordering in -- the delivery guys have MAJOR attitude .####delivery guys | downside | negative | true
+Never have I had such dramatic delivery guys ( a lot of huffing and panting and muttering under breath b/c I live in a walkup ) who always seem disappointed with their tips .####delivery guys | dramatic | negative | true
+Love the scene first off- the place has a character and nice light to it..very fortunate , location wise .####scene | Love | positive | true||||place | nice | positive | true||||location | fortunate | positive | true
+We were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally .####penne a la vodka | gigantic | positive | true
+The pasta penne was pretty extra buttery , creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count , penne ... got a little moody afterwards cause was stuffed ... lol####pasta penne | buttery | negative | true
+Interesting selection , good wines , service fine , fun decor .####wines | good | positive | true||||service | fine | positive | true||||decor | fun | positive | true||||selection | Interesting | positive | true
+I found it on a cold night , the perfect spot to warm up .####spot | perfect | positive | true
+I recieved prompt service with a smile .####service | prompt | positive | true
+This place blew me away ... by far my new favorite restaurant on the uppereast side .####place | favorite | positive | true
+The wine list is extensive and impressive .####wine list | extensive | positive | true||||wine list | impressive | positive | true
+LOVE the atmosphere - felt like I was in Paris .####atmosphere | LOVE | positive | true
+I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !####Dining Garden | fantastic | positive | true||||Jazz Bar | new | positive | true||||Thin Crust Pizzas | Best | positive | true||||Lasagna Menu | die for | positive | true
+I lOVE THIS PLACE !####PLACE | lOVE | positive | true
+I have to say I have never had a disapointing meal here .####meal | never had a disapointing | positive | true
+We could have made a meal of the yummy dumplings from the dumpling menu .####dumplings | yummy | positive | true
+Luckily we saved room for the BBQ Salmon , Sea Bass and Crispy Duck .####BBQ Salmon | Luckily | positive | true||||Sea Bass | Luckily | positive | true||||Crispy Duck | Luckily | positive | true
+I recommend this place to everyone .####place | recommend | positive | true
+Great food .####food | Great | positive | true
+The pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .####pastas | incredible | positive | true||||risottos | fantastic | positive | true||||sepia | fantastic | positive | true||||braised rabbit | amazing | positive | true
+The food here was mediocre at best .####food | mediocre | negative | true
+It was totally overpriced - fish and chips was about $ 15 ... .####fish and chips | overpriced | negative | true
+Tasty Dog !####Dog | Tasty | positive | true
+Super YUMMY Pizza !####Pizza | YUMMY | positive | true
+I was visiting New York City with a friend and we discovered this really warm and inviting restaurant .####restaurant | inviting | positive | true
+Excellent food , although the interior could use some help .####food | Excellent | positive | true||||interior | help | negative | true
+I paid just about $ 60 for a good meal , though : )####meal | good | positive | true
+Great sake !####sake | Great | positive | true
+Have never had a problem with service save a missing rice once .####service | problem | positive | true
+Delivery can be spot on or lacking depending on the weather and the day of the week .####Delivery | lacking | negative | true
+Best . Sushi . Ever .####Sushi | Best | positive | true
+This place has ruined me for neighborhood sushi .####sushi | ruined | positive | true
+Excellent sashimi , and the millennium roll is beyond delicious .####sashimi | Excellent | positive | true||||millennium roll | delicious | positive | true
+The waiter was attentive , the food was delicious and the views of the city were great .####waiter | attentive | positive | true||||food | delicious | positive | true||||views of the city | great | positive | true
+Great place to relax and enjoy your dinner####place | Great | positive | true
+Excellent food for great prices####food | Excellent | positive | true
+The space is limited so be prepared to wait up to 45 minutes - 1 hour , but be richly rewarded when you savor the delicious indo-chinese food .####space | limited | negative | true||||indo-chinese food | delicious | positive | true
+my favorite place lol####place | favorite | positive | true
+i love their chicken pasta cant remember the name but is sooo good####chicken pasta | love | positive | true
+im not necessarily fanatical about this place , but it was a fun time for low pirces .####place | fanatical | positive | true
+lobster was good , nothing spectacular .####lobster | good | neutral | true||||lobster | nothing spectacular | neutral | true
+its just a fun place to go , not a five star restaraunt .####restaraunt | five star | neutral | true
+I think the pizza is so overrated and was under cooked .####pizza | overrated | negative | true||||pizza | under cooked | negative | true
+Had no flavor and the staff is rude and not attentive .####staff | rude | negative | true||||staff | not attentive | negative | true
+I love this place####place | love | positive | true
+The service was quick and friendly .####service | quick | positive | true||||service | friendly | positive | true
+I ordered the vitello alla marsala and I was pretty impressed .####vitello alla marsala | impressed | positive | true
+The veal and the mushrooms were cooked perfectly .####veal | perfectly | positive | true||||mushrooms | perfectly | positive | true
+The potato balls were not dry at all ... in fact it was buttery .####potato balls | not dry | positive | true||||potato balls | buttery | positive | true
+Very immature bartender , didnt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and werent very attentive to all the customers .####bartender | immature | negative | true||||service | slowwwww | negative | true||||food | not fresh or warm | negative | true||||waitresses | werent very attentive | negative | true
+I would never recommend this place to anybody even for a casual dinner .####place | never recommend | negative | true
+the food is always fresh ...####food | fresh | positive | true
+overpriced japanese food with mediocre service####japanese food | overpriced | negative | true||||service | mediocre | neutral | true
+food was luke warm .####food | luke warm | negative | true
+The food was excellent as well as service , however , I left The Four Seasons very dissappointed .####food | excellent | positive | true||||service | excellent | positive | true||||The Four Seasons | dissappointed | negative | true
+Red Dragon Roll - my favorite thing to eat , of any food group - hands down####Red Dragon Roll | favorite | positive | true
+Favorite Sushi in NYC####Sushi | Favorite | positive | true
+An unpretentious spot in Park Slope , the sushi is consistently good , the service is pleasant , effective and unassuming .####spot | unpretentious | positive | true||||sushi | good | positive | true||||service | pleasant | positive | true||||service | effective | positive | true||||service | unassuming | positive | true
+The Dancing , White River and Millenium rolls are musts .####Dancing , White River and Millenium rolls | musts | positive | true
+Gross food – Wow-####food | Gross | negative | true
+And $ 11 for a plate of bland guacamole ?####guacamole | bland | negative | true
+Oh , and I never write reviews -- I just was so moved by how bad this place was , I felt it was my duty to spread the word .####place | bad | negative | true
+The food was good , the place was clean and affordable .####food | good | positive | true||||place | clean | positive | true||||place | affordable | positive | true
+I noticed alot of indian people eatting there which is a great sign for an indian place !####indian place | great | positive | true
+The staff is very good .####staff | good | positive | true
+I highly recommend this beautiful place .####place | recommend | positive | true||||place | beautiful | positive | true
+Nice view of river and NYC .####view of river and NYC | Nice | positive | true
+Great survice####survice | Great | positive | true
+Raymond the bartender rocks !####Raymond | rocks | positive | true
+Pacifico is a great place to casually hang out .####Pacifico | great | positive | true
+The omlette for brunch is great ...####omlette for brunch | great | positive | true
+the spinach is fresh , definately not frozen ...####spinach | fresh | positive | true
+quacamole at pacifico is yummy , as are the wings with chimmichuri .####quacamole | yummy | positive | true||||wings with chimmichuri | yummy | positive | true
+A weakness is the chicken in the salads .####chicken in the salads | weakness | negative | true
+Also , I personally was n't a fan of the portobello and asparagus mole .####portobello and asparagus mole | fan | negative | true
+Overall , decent food at a good price , with friendly people .####food | decent | positive | true||||people | friendly | positive | true
+Best Indian Restaurant in the City####Indian Restaurant | Best | positive | true
+This small Astoria souvlaki spot makes what many consider the best gyros in New York .####gyros | best | positive | true
+What really makes it shine is the food , which is aggressively seasoned with Cyrpriot spices , and all made in-house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .####food | shine | positive | true||||gyro meat | in-house | positive | true||||sausages | in-house | positive | true||||ingredients | higher quality | positive | true
+All the various Greek and Cypriot dishes are excellent , but the gyro is the reason to come -- if you do n't eat one your trip was wasted .####Greek and Cypriot dishes | excellent | positive | true
+Best restaurant in Brooklyn####restaurant | Best | positive | true
+The veal was incredible last night .####veal | incredible | positive | true
+This place is a must visit !####place | must visit | positive | true
+The food is all shared so we get to order together and eat together .####food | shared | positive | true
+I 've enjoyed 99 % of the dishes we 've ordered with the only exceptions being the occasional too-authentic-for-me dish ( I 'm a daring eater but not THAT daring ) .####dishes | enjoyed | positive | true||||dish | too-authentic-for-me | negative | true
+My daughter 's wedding reception at Water 's Edge received the highest compliments from our guests .####Water 's Edge | highest compliments | positive | true
+Everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food !####atmosphere | raved | positive | true||||rooms | elegant | positive | true||||views | incomparable | positive | true||||food | fabulous | positive | true
+Service was wonderful ;####Service | wonderful | positive | true
+Service ok but unfriendly , filthy bathroom .####Service | ok | negative | true||||Service | unfriendly | negative | true||||bathroom | filthy | negative | true
+The stuff tilapia was horrid ... tasted like cardboard .####stuff tilapia | horrid | negative | true
+oh speaking of bathroom , the mens bathroom was disgusting .####mens bathroom | disgusting | negative | true
+The wine list was extensive - though the staff did not seem knowledgeable about wine pairings .####wine list | extensive | positive | true||||staff | not seem knowledgeable | negative | true
+However , our main course was wonderful .####main course | wonderful | positive | true
+I had fish and my husband had the filet - both of which exceeded our expectations .####fish | exceeded our expectations | positive | true||||filet | exceeded our expectations | positive | true
+The dessert ( we had a pear torte ) was good - but , once again , the staff was unable to provide appropriate drink suggestions .####pear torte | good | positive | true||||staff | unable to provide | negative | true
+Not what I would expect for the price and prestige of this location .####location | expect | neutral | true
+All in all , I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future .####restaurant | beautiful | positive | true
+The boths are not as small as some of the reviews make them out to look they 're perfect for 2 people .####boths | not as small | positive | true||||boths | perfect | positive | true
+The food was ok and fair nothing to go crazy .####food | ok | neutral | true||||food | fair | neutral | true
+Over all the looks of the place exceeds the actual meals .####looks | exceeds | positive | true
+Subtle food and service####food | Subtle | positive | true||||service | Subtle | positive | true
+Noodle pudding is exactly the type of service and food I enjoy .####service | enjoy | positive | true||||food | enjoy | positive | true
+Servers are all different , Greg is my favorite .####Greg | favorite | positive | true
+I go out to eat and like my courses , servers are patient and never rush courses or force another drink .####servers | patient | positive | true
+amazing fresh dogs but best of all endless toppings ! ! !####dogs | amazing fresh | positive | true||||toppings | best | positive | true||||toppings | endless | positive | true
+amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out ! ! ! !####hot dog | amazing fun | positive | true
+Stepping into Casa La Femme last night was a true experience unlike any other in New York !####Casa La Femme | true | positive | true
+The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for !####cocktail with Citrus Vodka and lemon and lime juice and mint leaves | great | positive | true
+We were drawn into the belly dancing show that captivated the crowd .####belly dancing show | captivated | positive | true
+I never write on these sites but this restaurant is def worth commending !####restaurant | worth | positive | true
+I have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .####food | well prepared | negative | true
+For a restaurant with such a good reputation and that is usually so packed , there was no reason for such a lack of intelligent customer service .####restaurant | good reputation | positive | true||||customer service | intelligent | negative | true
+Great place , great value .####place | Great | positive | true
+The food is flavorful , plentiful and reasonably priced .####food | flavorful | positive | true||||food | plentiful | positive | true||||food | reasonably priced | positive | true
+The atmosphere is relaxed and casual .####atmosphere | relaxed | positive | true||||atmosphere | casual | positive | true
+Sushi experience was unbelievable with my fiance .####Sushi | unbelievable | positive | true
+Good creative rolls !####rolls | Good creative | positive | true
+They have great rolls , the triple color and norwegetan rolls , are awesome and filling .####rolls | great | positive | true||||triple color and norwegetan rolls | awesome | positive | true||||triple color and norwegetan rolls | filling | positive | true
+One special roll and one regular roll is enough to fill you up , but save room for dessert !####dessert | save room | positive | true||||special roll | enough | positive | true||||regular roll | enough | positive | true
+They have a delicious banana chocolate dessert , as well as a great green tea tempura .####banana chocolate dessert | delicious | positive | true||||green tea tempura | great | positive | true
+The appetizers are also delicious !####appetizers | delicious | positive | true
+Amazing food .####food | Amazing | positive | true
+Mazing interior .####interior | Mazing | negative | true
+Great food !####food | Great | positive | true
+The atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .####atmosphere | nice | negative | true||||scheme of mirrors | crazy | negative | true
+Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future .####modern Japanese food | go-to for | positive | true||||mirrors | confusing | negative | true
+Indo Chinese food , pretty good ...####Indo Chinese food | good | positive | true
+Not a very fancy place but very good Chinese style Indian food .####place | fancy | neutral | true||||Chinese style Indian food | good | positive | true
+The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .####chicken lollipop | favorite | positive | true||||dishes | oily | negative | true||||dishes | spicy | negative | true||||Chilli Chicken | oily | negative | true||||Chilli Chicken | spicy | negative | true
+My mom originally introduced me to this place , but even she ( being Indian ) feels the food can be somewhat over the top spicy and far too oily .####food | spicy | negative | true||||food | oily | negative | true
+I was speechless by the horrible food .####food | speechless | negative | true||||food | horrible | negative | true
+I attended a holiday dinner at the restaurant , and the food was majorly disappointing .####food | disappointing | negative | true
+This is the MOST wonderful restaurant in all of New York City , not just Brooklyn ...####restaurant | wonderful | positive | true
+for 7 years they have put out the most tasty , most delicious food and kept it that way ...####food | tasty | positive | true||||food | delicious | positive | true
+never swaying , never a bad meal , never bad service ...####meal | never a bad | positive | true||||service | never bad | positive | true
+great food , great wine list , great service in a great neighborhood ...####food | great | positive | true||||wine list | great | positive | true||||service | great | positive | true||||neighborhood | great | positive | true
+Patsy 's Pizza - true love####Patsy 's Pizza | true love | positive | true
+Hands down the best pizza on the planet .####pizza | best | positive | true
+great hot dogs .####hot dogs | great | positive | true
+the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside .####hot dogs | juicy | positive | true
+great toppings definitely a place you need to check out for late night munchies or a mid day boost !####toppings | great | positive | true
+For me dishes a little oily , but overall dining experience good .####dishes | oily | negative | true
+Helpful service and average price per dish $ 10 .####service | Helpful | positive | true
+The only thing that strikes you is the decor ? ( not very pleasant ) .####decor | not very pleasant | negative | true
+great food####food | great | positive | true
+This place has great indian chinese food .####indian chinese food | great | positive | true
+Be prepared to wait , because the place is pretty tiny .####place | tiny | negative | true
+Even though the place is not beautiful , the food speaks for itself .####place | not beautiful | negative | true||||food | speaks for itself | positive | true
+Best Indian Chinese in the city , by far !####Indian Chinese | Best | positive | true
+The martinis are amazing and very fairly priced .####martinis | amazing | positive | true||||martinis | fairly priced | positive | true
+THE SERVICE IS AMAZING , i 've had different waiters and they were all nice , which is a rare thing in NYC .####SERVICE | AMAZING | positive | true||||waiters | nice | positive | true
+The DJ is awesome , I have been there for my birthday and a bunch of other times with friends and I keep going back .####DJ | awesome | positive | true
+This establishment is the real deal .####establishment | real deal | positive | true
+Wish NY had more of these kind of places : intimate , superb food , homey , top notch all the way around , certainly worth the wait .####food | superb | positive | true
+Look , the appetizers were really good .####appetizers | good | positive | true
+The entree was also very good .####entree | good | positive | true
+Yes , the place is classy and beautiful , but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while .####place | classy | negative | true||||place | beautiful | negative | true
+Vanison was good but not amazing .####Vanison | good | neutral | true||||Vanison | not amazing | neutral | true
+Dessert : pure disaster .####Dessert | disaster | negative | true
+I read reviews that called the restaurant too expensive and I thought to myself , but may be it is worth it .####restaurant | expensive | negative | true
+The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .####environment | upscale | neutral | true
+If you are going for the food , it will not be worth it .####food | worth | negative | true
+You would think they would make up for it with service , sadly , no .####service | sadly | negative | true
+Service was just ok , it is not what you 'd expect for $ 500 .####Service | ok | negative | true
+I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .####Casa La Femme | offended | negative | true
+The place is beautiful !####place | beautiful | positive | true
+The hostess was very pleasant .####hostess | pleasant | positive | true
+We asked for sides which the waiter than admitted that he forgot to put in that part of our order .####waiter | forgot | negative | true
+My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin .####chicken | inedible | negative | true
+By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner , which would have been acceptable if we got to enjoy the experience of good food and belly dancers !####food | good | negative | true
+If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !####meal | inedible | negative | true
+I have never left a restaurant feeling as if i was abused , and wasted my hard earned money .####restaurant | abused | negative | true
+There was no tap beer that evening , which was a disappointment .####beer | disappointment | negative | true
+The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion ( maybe 3 of each ) .####fried oysters and clams | delicious | negative | true
+The lobster knuckles ( special of the day ) were ok , but pretty tasteless .####lobster knuckles | ok | negative | true||||lobster knuckles | tasteless | negative | true
+I had the Thai style Fried Sea Bass ... which was very good .####Thai style Fried Sea Bass | good | positive | true
+Everyone seemed generally happy with their food , except my brother who had the grilled Mahi Mahi , seemingly drenched in Grapfruit Juice !####food | happy | positive | true||||grilled Mahi Mahi | drenched | negative | true
+I heard the lobster roll was excellent .####lobster roll | excellent | positive | true
+Service not the friendliest to our `` large party '' !####Service | not the friendliest | negative | true
+Great Indian food####Indian food | Great | positive | true
+Food was amazing - I love Indian food and eat it quite regularly , but I can say this is one of the best I 've had .####Food | amazing | positive | true
+Very `` normal Indian food '' , but done really well .####Indian food | normal | positive | true||||Indian food | well | positive | true
+The lunch buffet is expensive but is deff worth it .####lunch buffet | expensive | positive | true||||lunch buffet | worth | positive | true
+We have gone for dinner only a few times but the same great quality and service is given .####service | great | positive | true||||dinner | great quality | positive | true
+Bukhara is on my top 5 Indian places in NYC####Bukhara | top | positive | true
+I have never been so disgusted by both food an service .####food | disgusted | negative | true||||service | disgusted | negative | true
+However , once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair , ( sometimes you have to settle when it 's your only option ) , I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .####kimchee | disgusting | negative | true||||Korean fair | mediocre | negative | true
+My girlfriend , being slightly more aggressive , and having been equally disgusted causing her to throw out the remainder of her barely eaten meal , called back only to be informed that I was probably wrong and that it was most likely an oyster , and that we were also blacklisted from their restaurant .####meal | disgusted | negative | true
+I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot .####four course prix fix menu | enjoyed | positive | true||||white organza tent | gorgeous | positive | true
+The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !####service | spectacular | positive | true||||waiter | amazing | positive | true
+I completely recommend Casa La Femme for any special occasion and to REALLY impress your date .####Casa La Femme | recommend | positive | true
+The bibimbap was average , but the stone bowl was n't even close to sizzling .####bibimbap | average | neutral | true||||stone bowl | was n't even close to sizzling | negative | true
+Too bad I had paid an extra $ 2 for the stone bowl .####stone bowl | bad | negative | true
+Easily the worst stir-fried squid I 've ever tasted .####stir-fried squid | worst | negative | true
+The real problem I had with this place was the complete lack of service .####service | lack of | negative | true
+The farro salad and the mashed yukon potatoes were also extremely tasty .####farro salad | tasty | positive | true||||mashed yukon potatoes | tasty | positive | true
+i love margherita pizza – i looove east village pizza####east village pizza | love | positive | true||||margherita pizza | looove | positive | true
+Love this place , every time we are in the city this is one of the places we always go .####place | Love | positive | true
+A quintessential slice of NYC pizza .####slice of NYC pizza | quintessential | neutral | true
+Personally I like the margherita pizza better , but they are all good .####margherita pizza | like | positive | true
+Possibly the Most Romantic Restaurant in the City####Restaurant | Romantic | positive | true
+This is undoubtedly my favorite modern Japanese brasserie ( that don ’ t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !####modern Japanese brasserie | favorite | positive | true||||modern Japanese brasserie | romantic | positive | true
+Not only is it an adventure getting to this somewhat hidden spot , once you enter the unmarked wooden doors , the zen and intimate décor will make you feel like you ’ re no longer in the city .####spot | hidden | neutral | true||||décor | intimate | positive | true
+If you ’ re planning to come here , make sure that your date is someone whom you really like since you ’ ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .####private booths | ushered | positive | true
+We started off with a delightful sashimi amuse bouche .####sashimi amuse bouche | delightful | positive | true
+For desserts , we tried the frozen black sesame mousse ( interesting but not extraordinary ) and matcha ( powdered green tea ) and blueberry cheesecake , which was phenomenal .####frozen black sesame mousse | interesting | neutral | true||||frozen black sesame mousse | extraordinary | neutral | true||||matcha ( powdered green tea ) and blueberry cheesecake | phenomenal | positive | true
+Maybe it was the great company ( I had friends visiting from Philly – yes , it was not a date this time ) or the super reasonable price point , but I just can ’ t say enough good things about this brasserie .####brasserie | good | positive | true
+They are extremely rude , not even apologizing for the horrible service we got and handing us a bill well over $ 500 for some drinks adn their pita bread !####service | horrible | negative | true
+Great Shabu Shabu####Shabu Shabu | Great | positive | true
+I tried a couple other dishes but was n't too impressed .####dishes | was n't too impressed | neutral | true
+The meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .####meat | fresh | positive | true||||sauces | great | positive | true||||service | good | positive | true||||kimchi | free | positive | true||||salad | free | positive | true
+Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos .####Korean food | classic | positive | true||||fusion twists | classic | positive | true||||pork belly tacos | classic | positive | true
+The food tasted very good .####food | good | positive | true
+The main entree was also very good .####main entree | good | positive | true
+This place has totally weird decor , stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional ...####decor | weird | negative | true||||mirrored walls | dizzy | negative | true||||mirrored walls | delusional | negative | true
+The concept of japanese tapas is newly created and clearly does n't work .####japanese tapas | does n't work | negative | true
+The food they serve is not comforting , not appetizing and uncooked .####food | not comforting | negative | true||||food | not appetizing | negative | true||||food | uncooked | negative | true
+Good Food####Food | Good | positive | true
+The food was great and tasty , but the sitting space was too small , I do n't like being cramp in a corner .####food | great | positive | true||||food | tasty | positive | true||||sitting space | too small | negative | true
+Over all it was a very nice romantic place .####place | nice romantic | positive | true
+The atmosphere was great .####atmosphere | great | positive | true
+Our waitress was n't mean , but not especially warm or attentive either .####waitress | was n't mean | neutral | true||||waitress | not especially warm or attentive | neutral | true
+I must say I am surprised by the bad reviews of the restaurant earlier in the year , though .####restaurant | bad | positive | true
+The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .####servers | perfected | negative | true
+A different server enhanced the fun , dumping our entrees in front of us halfway through our appetizer ( which was delicious ) .####server | enhanced | negative | true||||appetizer | delicious | positive | true
+Overall the food quality was pretty good , though I hear the salmon is much better when it has n't sat cooling in front of the guest .####food | good | positive | true
+The place has a nice fit-out , some attractive furnishings and , from what I could tell , a reasonable wine list ( I was given the food menu when I asked for the carte des vins )####fit-out | nice | positive | true||||furnishings | attractive | positive | true||||wine list | reasonable | positive | true
+Everything was going good until we got our meals .####meals | good | negative | true
+I took one look at the chicken and I was appalled .####chicken | appalled | negative | true
+It was served with skin , over a bed of extremely undercooked spinach and mashed potatoes .####spinach | undercooked | negative | true
+I took one bite from the $ 24 salmon , and I have never , in the 17 years I have been going to restaurants tasted salmon as fishy , as dry , and as bland as the one in Flatbush Farms .####salmon | fishy | negative | true||||salmon | dry | negative | true||||salmon | bland | negative | true
+This is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and I can not comp it .####manager | bad | negative | true
+The manager came to the table and said we can do what we want , so we paid for what we did enjoy , the drinks and appetizers , and walked out .####drinks | enjoy | positive | true||||appetizers | enjoy | positive | true
+THIS STAFF SHOULD BE FIRED .####STAFF | FIRED | negative | true
+cirspy crust margherita pizza####margherita pizza | cirspy crust | positive | true
+it was really good pizza .####pizza | good | positive | true
+the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )####crust | cooked well | positive | true||||pizza | fully loaded | positive | true
+Single Worst Restaurant in Manhattan####Restaurant | Worst | negative | true
+I 'll being with a couple of positives : cool decor , good pita and hummus , and grilled octopus that was actually pretty tasty .####decor | cool | positive | true||||pita | good | positive | true||||hummus | good | positive | true||||grilled octopus | tasty | positive | true
+It is quite a spectacular scene i 'll give them that .####scene | spectacular | positive | true
+The decor however seems to be the distraction so you wo n't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME ! ! ! !####decor | distraction | neutral | true||||eggplant | cold | negative | true
+Great Hot Dogs !####Hot Dogs | Great | positive | true
+Going to Bark is always worth the train ride , and will make your tongue and belly very happy !####Bark | worth | positive | true
+Fabulous food - if the front of house staff do n't put you off –####food | Fabulous | positive | true
+Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .####waiters | fantastic | positive | true||||front of house staff | hideous | negative | true||||fish dishes | exceptional | positive | true
+As BFC does n't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated , which can be over an hour later !####front of house staff | abused | negative | true
+The frizzy retro girl ( with winged/ Dame Edna glasses ) will yell at you if you try to order a drink .####girl | frizzy | negative | true
+I 'd be horrified if my staff were turning away customers so early and so rudely !####staff | horrified | negative | true
+There 's another girl who I ca n't describe , she is about 5'6 '' with brown hair , who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said , so her uninvited opinions are often out of context and nothing to do with what you 're *really* talking about .####girl | uninvited | negative | true
+Considering you will spend at least $ 60 a head , I expect better service .####service | expect better | negative | true
+The food and service were fine , however the maitre-D was incredibly unwelcoming and arrogant .####food | fine | positive | true||||service | fine | positive | true||||maitre-D | unwelcoming | negative | true||||maitre-D | arrogant | negative | true
+While finishing our meals which included a high-end bottle of wine , our son 's fiance joined us for a glass of wine and dessert .####bottle of wine | high-end | positive | true
+Best meal in a long time !####meal | Best | positive | true
+My father had the flank steak which was very good , and my mother had the swordfish .####flank steak | good | positive | true
+The Four Seasons restaurant is a great experience .####The Four Seasons restaurant | great | positive | true
+The food is great and the environment is even better .####food | great | positive | true||||environment | better | positive | true
+Here the hot dog is elevated to the level of a real entree with numerous variations available .####hot dog | elevated | positive | true
+Great Atmosphere####Atmosphere | Great | positive | true
+I highly recommend the fish tacos , everything else was ok .####fish tacos | recommend | positive | true
+Cool atmosphere , the fire place in the back really ads to it but needs a bit more heat throughout on a cold night .####atmosphere | Cool | positive | true
+Poor service and management####service | Poor | negative | true||||management | Poor | negative | true
+Had an awful experience at Casa la Femme on a Saturday dinner .####Casa la Femme | awful | negative | true
+The manager was rude and handled the situation extremely poorly .####manager | rude | negative | true
+Can ’ t believe how an expensive NYC restaurant can be so disrespectful to its clients .####restaurant | expensive | negative | true
+The food is very good , but not outstanding .####food | good | neutral | true||||food | not outstanding | neutral | true
+The bread was stale , the salad was overpriced and empty .####bread | stale | negative | true||||salad | overpriced | negative | true||||salad | empty | negative | true
+The pasta was well cooked , did n't have enough sauce though or flavor .####pasta | well cooked | negative | true
+The hostess was rude and I got a distinct feeling that they did not want to serve us .####hostess | rude | negative | true
+The only thing that my friend left out is that when we sat down at the bar the bartender disappeared .####bartender | disappeared | negative | true
+Shame on this place for the horrible rude staff and non-existent customer service .####staff | rude | negative | true||||customer service | non-existent | negative | true
+bad staff####staff | bad | negative | true
+I generally like this place .####place | like | positive | true
+The food is good .####food | good | positive | true
+The design of the space is good .####space | good | positive | true
+But the service is HORRID !####service | HORRID | negative | true
