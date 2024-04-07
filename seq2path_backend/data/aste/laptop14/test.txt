@@ -1,328 +1,328 @@
-Boot time is super fast , around anywhere from 35 seconds to 1 minute .####[([0, 1], [4], 'POS')]
-tech support would not fix the problem unless I bought your plan for $ 150 plus .####[([0, 1], [3, 4], 'NEG')]
-Set up was easy .####[([0, 1], [3], 'POS')]
-Did not enjoy the new Windows 8 and touchscreen functions .####[([5, 6], [1, 2], 'NEG'), ([8, 9], [1, 2], 'NEG')]
-Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .####[([18, 19], [17], 'NEG')]
-It 's fast , light , and simple to use .####[([9], [2], 'POS'), ([9], [4], 'POS'), ([9], [7], 'POS')]
-Works well , and I am extremely happy to be back to an apple OS .####[([0], [1], 'POS'), ([13, 14], [7], 'POS')]
-Sure it 's not light and slim but the features make up for it 100 % .####[([9], [3, 4, 5, 6], 'POS')]
-I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) .####[([6, 7], [2], 'POS'), ([6, 7], [5], 'POS'), ([10, 11], [2], 'POS'), ([10, 11], [9], 'POS'), ([15, 16], [2], 'POS'), ([15, 16], [14], 'POS')]
-The Apple engineers have not yet discovered the delete key .####[([8, 9], [4, 5, 6], 'NEG')]
-Made interneting ( part of my business ) very difficult to maintain .####[([1], [9], 'NEG')]
-Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .####[([14], [16], 'POS')]
-Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .####[([8, 9], [11, 12, 13], 'NEG')]
-It is super fast and has outstanding graphics .####[([7], [6], 'POS')]
-But the mountain lion is just too slow .####[([2, 3], [7], 'NEG')]
-Strong build though which really adds to its durability .####[([8], [0], 'POS'), ([1], [0], 'POS')]
-The battery life is excellent -- 6-7 hours without charging .####[([1, 2], [4], 'POS')]
-I 've had my computer for 2 weeks already and it works perfectly .####[([11], [12], 'POS')]
-And I may be the only one but I am really liking Windows 8 .####[([12, 13], [11], 'POS')]
-The baterry is very longer .####[([1], [4], 'POS')]
-Its size is ideal and the weight is acceptable .####[([1], [3], 'POS'), ([6], [8], 'POS')]
-I can say that I am fully satisfied with the performance that the computer has supplied .####[([10], [7], 'POS')]
-It has so much more speed and the screen is very sharp .####[([5], [3, 4], 'POS'), ([8], [11], 'POS')]
-Everything I wanted and everything I needed and the price was great !####[([9], [11], 'POS')]
-It 's not inexpensive but the Hardware performance is impressive for a computer this small .####[([6, 7], [9], 'POS')]
-This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .####[([7], [6], 'POS'), ([14, 15], [12], 'POS')]
-Keyboard responds well to presses .####[([0], [1, 2], 'POS')]
-Lastly , Windows 8 is annoying .####[([2, 3], [5], 'NEG')]
-Everything is so easy and intuitive to setup or configure .####[([7], [3], 'POS'), ([7], [5], 'POS'), ([9], [3], 'POS'), ([9], [5], 'POS')]
-Biggest complaint is Windows 8 .####[([3, 4], [1], 'NEG')]
-Only 2 usb ports ... seems kind of ... limited .####[([2, 3], [9], 'NEG')]
-It has all the expected features and more +plus a wide screen and more than roomy keyboard .####[([5], [4], 'POS'), ([11], [10], 'POS'), ([16], [15], 'POS')]
-Amazing Performance for anything I throw at it .####[([1], [0], 'POS')]
-The receiver was full of superlatives for the quality and performance .####[([8], [5], 'POS'), ([10], [5], 'POS')]
-I was extremely happy with the OS itself .####[([6], [3], 'POS')]
-The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .####[([5], [4], 'POS')]
-The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .####[([18, 19], [13], 'POS'), ([18, 19], [17], 'POS')]
-MS Office 2011 for Mac is wonderful , well worth it .####[([0, 1, 2, 3, 4], [6], 'POS'), ([0, 1, 2, 3, 4], [8, 9], 'POS')]
-But the performance of Mac Mini is a huge disappointment .####[([2], [9], 'NEG')]
-They do n't just look good ; they deliver excellent performance .####[([4], [5], 'POS'), ([10], [9], 'POS')]
-I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be .####[([17, 18, 19], [15], 'POS'), ([17, 18, 19], [27], 'POS'), ([17, 18, 19], [29], 'POS'), ([21, 22], [15], 'POS'), ([21, 22], [27], 'POS'), ([21, 22], [29], 'POS')]
-The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .####[([1, 2, 3], [5, 6], 'POS'), ([15, 16], [13], 'NEU')]
-However , I can refute that OSX is `` FAST '' .####[([6], [9], 'NEG')]
-Enjoy using Microsoft Office !####[([2, 3], [0], 'POS')]
-Incredible graphics and brilliant colors .####[([1], [0], 'POS'), ([4], [3], 'POS')]
-Built-in apps are purely amazing .####[([0, 1], [4], 'POS')]
-From the speed to the multi touch gestures this operating system beats Windows easily .####[([9, 10], [11], 'POS')]
-I really like the size and I 'm a fan of the ACERS .####[([4], [2], 'POS')]
-I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .####[([4, 5, 6, 7, 8, 9], [16], 'POS'), ([29], [26, 27], 'NEG')]
-It 's light and easy to transport .####[([6], [2], 'POS'), ([6], [4], 'POS')]
-Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .####[([11, 12, 13], [9, 10], 'NEG'), ([11, 12, 13], [17], 'NEG')]
-The aluminum body sure makes it stand out .####[([1, 2], [6, 7], 'POS')]
-It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .####[([5, 6, 7], [3], 'POS'), ([10, 11], [15], 'POS')]
-And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered ( to me .####[([13, 14, 15], [17], 'NEG')]
-Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back .####[([3, 4, 5, 6], [1], 'NEU'), ([16, 17], [20], 'NEG')]
-The durability of the laptop will make it worth the money .####[([1], [8], 'POS')]
-Well designed and fast .####[([1], [0], 'POS')]
-But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .####[([14], [12], 'POS')]
-Exactly as posted plus a great value .####[([6], [5], 'POS')]
-The specs are pretty good too .####[([1], [4], 'POS')]
-Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .####[([4, 5], [2], 'POS'), ([7], [2], 'POS'), ([9], [2], 'POS'), ([12, 13], [2], 'POS')]
-It is a great size and amazing windows 8 included !####[([4], [3], 'POS'), ([7, 8], [6], 'POS')]
-I do not like too much Windows 8 .####[([6, 7], [2, 3], 'NEG')]
-Startup times are incredibly long : over two minutes .####[([0, 1], [4], 'NEG')]
-Also stunning colors and speedy####[([2], [1], 'POS')]
-great price free shipping what else can i ask for ! !####[([1], [0], 'POS'), ([3], [2], 'POS')]
-This mouse is terrific .####[([1], [3], 'POS')]
-It is really thick around the battery .####[([6], [3], 'NEU')]
-And windows 7 works like a charm .####[([1, 2], [6], 'POS')]
-: ) Great product , great price , great delivery , and great service .####[([6], [5], 'POS'), ([9], [8], 'POS'), ([13], [12], 'POS')]
-: ] It arrived so fast and customer service was great .####[([7, 8], [10], 'POS')]
-tried windows 8 and hated it ! ! !####[([1, 2], [4], 'NEG')]
-Set up was a breeze .####[([0, 1], [4], 'POS')]
-But I do NOT like Win8 .####[([5], [3, 4], 'NEG')]
-I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .####[([17], [14], 'NEG'), ([21, 22, 23], [19], 'NEG')]
-I wanted it for it 's mobility and man , this little bad boy is very nice .####[([6], [16], 'POS')]
-I found the mini to be : Exceptionally easy to set up####[([10, 11], [8], 'POS')]
-The sound is nice and loud ; I do n't have any problems with hearing anything .####[([1], [3], 'POS'), ([1], [5], 'POS')]
-It is very slim , the track pad is very much impressed with me .####[([6, 7], [3], 'POS'), ([6, 7], [11], 'POS')]
-The settings are not user-friendly either .####[([1], [3, 4], 'NEG')]
-Thank goodness for OpenOffice !####[([3], [1], 'POS')]
-Awesome form factor , great battery life , wonderful UX .####[([1, 2], [0], 'POS'), ([5, 6], [4], 'POS'), ([9], [8], 'POS')]
-i love the keyboard and the screen .####[([3], [1], 'POS'), ([6], [1], 'POS')]
-However , there are MAJOR issues with the touchpad which render the device nearly useless .####[([8], [5], 'NEG'), ([8], [14], 'NEG')]
-I 've already upgraded o Mavericks and I am impressed with everything about this computer .####[([5], [9], 'POS')]
-Not as fast as I would have expect for an i5 .####[([10], [0, 1, 2], 'NEG')]
-thanks for great service and shipping !####[([3], [2], 'POS'), ([5], [2], 'POS')]
-The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .####[([1], [4], 'POS'), ([7, 8], [12], 'POS'), ([10], [12], 'POS')]
-I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .####[([9, 10, 11], [15], 'POS')]
-Yes , that 's a good thing , but it 's made from aluminum that scratches easily .####[([13], [15, 16], 'NEG')]
-I was also informed that the components of the Mac Book were dirty .####[([6], [12], 'NEG')]
-the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !####[([1], [6], 'NEG')]
-It 's so nice that the battery last so long and that this machine has the snow lion !####[([6], [3], 'POS'), ([6], [9], 'POS')]
-it 's exactly what i wanted , and it has all the new features and whatnot .####[([13], [5], 'POS'), ([13], [12], 'POS')]
-It feels cheap , the keyboard is not very sensitive .####[([5], [2], 'NEG'), ([5], [7, 8, 9], 'NEG')]
-Though please note that sometimes it crashes , and the sound quality isnt superb .####[([10, 11], [12, 13], 'NEG')]
-It is very easy to navigate even for a novice .####[([5], [3], 'POS')]
-Does everything I need it to , has a wonderful battery life and I could n't be happier .####[([10, 11], [9], 'POS')]
-Great Performance and Quality .####[([1], [0], 'POS'), ([3], [0], 'POS')]
-One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .####[([44], [43], 'NEG')]
-The new os is great on my macbook pro !####[([2], [4], 'POS')]
-I have experienced no problems , works as anticipated .####[([6], [7, 8], 'POS')]
-System is running great .####[([0], [3], 'POS')]
-Easy to customize setting and even create your own bookmarks .####[([2, 3], [0], 'POS'), ([6, 7, 8, 9], [0], 'POS')]
-it has all the features that we expected and the price was good , working well so far .####[([10], [12], 'POS'), ([14], [15], 'POS')]
-The new operating system makes this computer into a super iPad .####[([2, 3], [1], 'POS')]
-Easy to set up and go !####[([2, 3], [0], 'POS')]
-I ca n't believe how quiet the hard drive is and how quick this thing boots up .####[([7, 8], [5], 'POS'), ([15, 16], [12], 'POS')]
-It 's just what we were looking for and it works great .####[([10], [11], 'POS')]
-It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !####[([9], [18], 'POS'), ([11], [18], 'POS')]
-It works fine , and all the software seems to run pretty well .####[([1], [2], 'POS'), ([7], [12], 'POS')]
-I wanted a computer that was quite , fast , and that had overall great performance .####[([15], [14], 'NEU')]
-Harddrive was in poor condition , had to replace it .####[([0], [3], 'NEG')]
-The on/off switch is a bit obscure in the rear corner .####[([1, 2], [6], 'NEG')]
-My only complaint is the total lack of instructions that come with the mac mini .####[([8], [6], 'NEG')]
-The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .####[([14], [7, 8, 9], 'NEG')]
-I use it mostly for content creation ( Audio , video , photo editing ) and its reliable .####[([8], [17], 'POS'), ([10], [17], 'POS'), ([12, 13], [17], 'POS')]
-Screen is bright and gorgeous .####[([0], [2], 'POS'), ([0], [4], 'POS')]
-It is robust , with a friendly use as all Apple products .####[([7], [6], 'POS')]
-It is fast and easy to use .####[([6], [4], 'POS')]
-And the fact that it comes with an i5 processor definitely speeds things up####[([8, 9], [11, 12, 13], 'POS')]
-I have been PC for years but this computer is intuitive and its built in features are a great help####[([13, 14, 15], [18, 19], 'POS')]
-Nice screen , keyboard works great !####[([1], [0], 'POS'), ([3], [5], 'POS')]
-I was amazed at how fast the delivery was .####[([7], [2], 'POS'), ([7], [5], 'POS')]
-The memory was gone and it was not able to be used .####[([1], [3], 'NEG'), ([1], [7, 8, 9, 10, 11], 'NEG')]
-It works great and I am so happy I bought it .####[([1], [2], 'POS')]
-I like the design and ease of use with the keyboard , plenty of ports .####[([3], [1], 'POS'), ([10], [1], 'POS'), ([10], [5, 6, 7], 'POS'), ([14], [12], 'POS')]
-it definitely beats my old mac and the service was great .####[([8], [10], 'POS')]
-Web browsing is very quick with Safari browser .####[([0, 1], [4], 'POS'), ([6, 7], [4], 'POS')]
-I like the lighted screen at night .####[([3, 4], [1], 'POS')]
-It is really easy to use and it is quick to start up .####[([5], [3], 'POS'), ([11, 12], [9], 'POS')]
-I 've lived with the crashes and slow operation and restarts .####[([8], [7], 'NEG')]
-USB3 Peripherals are noticably less expensive than the ThunderBolt ones .####[([0, 1], [4, 5], 'POS')]
-It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .####[([10, 11], [8], 'POS')]
-The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant .####[([16, 17], [20], 'POS')]
-Thanks for the fast shipment and great price .####[([4], [3], 'POS'), ([7], [6], 'POS')]
-! Excellent performance , usability , presentation and time response .####[([2], [1], 'POS'), ([4], [1], 'POS'), ([6], [1], 'POS'), ([8, 9], [1], 'POS')]
-The smaller size was a bonus because of space restrictions .####[([2], [1], 'POS'), ([2], [5], 'POS')]
-I blame the Mac OS .####[([3, 4], [1], 'NEG')]
-I like the operating system .####[([3, 4], [1], 'POS')]
-I love the form factor .####[([3, 4], [1], 'POS')]
-It 's fast at loading the internet .####[([4, 5, 6], [2], 'POS')]
-So much faster and sleeker looking .####[([5], [2], 'POS'), ([5], [4], 'POS')]
-Unfortunately , it runs XP and Microsoft is dropping support next April .####[([4], [0], 'NEU'), ([9], [0], 'NEG'), ([9], [8], 'NEG')]
-First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .####[([14], [6], 'POS'), ([14], [18], 'POS'), ([25, 26], [28], 'POS'), ([32], [37], 'POS')]
-It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .####[([6], [5], 'POS')]
-Very nice unibody construction .####[([2, 3], [1], 'POS')]
-This Macbook Pro is fast , powerful , and runs super quiet and cool .####[([9], [11], 'POS'), ([9], [13], 'POS')]
-It 's ok but does n't have a disk drive which I did n't know until after I bought it .####[([8, 9], [4, 5, 6], 'NEU')]
-There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .####[([3, 4], [2], 'NEU'), ([10, 11, 12], [6], 'NEU')]
-It came in brand new and works perfectly .####[([6], [7], 'POS')]
-It should n't happen like that , I do n't have any design app open or anything .####[([12, 13], [8, 9, 10], 'NEU')]
-MY TRACKPAD IS NOT WORKING .####[([1], [3, 4], 'NEG')]
-It looks and feels solid , with a flawless finish .####[([9], [8], 'POS'), ([1], [4], 'POS'), ([3], [4], 'POS')]
-Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .####[([0], [2], 'NEG')]
-Then the system would many times not power down without a forced power-off .####[([2], [6, 7, 8], 'NEG'), ([7, 8], [6], 'NEG')]
-The configuration is perfect for my needs .####[([1], [3], 'POS')]
-and the speakers is the worst ever .####[([2], [5], 'NEG')]
-Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! ..####[([12], [10], 'POS'), ([21], [14], 'POS')]
-Web surfuring is smooth and seamless .####[([0, 1], [3], 'POS'), ([0, 1], [5], 'POS')]
-I 'm overall pleased with the interface and the portability of this product .####[([6], [3], 'POS'), ([9], [3], 'POS')]
-This item is a beautiful piece , it works well , it is easy to carry and handle .####[([8], [9], 'POS'), ([15], [13], 'POS'), ([17], [13], 'POS')]
-It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .####[([13], [12], 'NEG'), ([16, 17], [15], 'NEG'), ([5, 6, 7, 8], [3], 'NEG'), ([5, 6, 7, 8], [9], 'NEG')]
-Runs good and does the job , ca n't complain about that !####[([0], [1], 'POS')]
-It 's silent and has a very small footprint on my desk .####[([8], [7], 'POS')]
-The exterior is absolutely gorgeous .####[([1], [4], 'POS')]
-It has a very high performance , just for what I needed for .####[([5], [4], 'POS')]
-Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .####[([18, 19, 20, 21], [14], 'NEU'), ([15], [14], 'NEU')]
-I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .####[([27, 28], [23], 'NEG')]
-It is the perfect size and speed for me .####[([4], [3], 'POS'), ([6], [3], 'POS')]
-THE CUSTOMER SERVICE IS TERRIFIC ! !####[([1, 2], [4], 'POS')]
-My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .####[([12], [13], 'POS')]
-However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly .####[([10, 11, 12], [9], 'POS'), ([10, 11, 12], [15], 'POS'), ([21], [26], 'POS')]
-And as for all the fancy finger swipes -- I just gave up and attached a mouse .####[([6, 7], [5], 'NEG')]
-I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .####[([6], [5], 'NEU'), ([10], [9], 'NEU')]
-I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .####[([5, 6], [1], 'POS'), ([13, 14], [11], 'NEG')]
-Shipped very quickly and safely .####[([0], [2], 'POS'), ([0], [4], 'POS')]
-The thunderbolt port is awesome !####[([1, 2], [4], 'POS')]
-The performance is definitely superior to any computer I 've ever put my hands on .####[([1], [4], 'POS')]
-It 's great for streaming video and other entertainment uses .####[([4, 5], [2], 'POS'), ([8, 9], [2], 'POS')]
-I like the design and its features but there are somethings I think needs to be improved .####[([3], [1], 'POS'), ([6], [13, 14, 15, 16], 'POS')]
-There were small problems with Mac office .####[([5, 6], [3], 'NEG')]
-I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs .####[([10], [8], 'NEG')]
-Its fast , easy to use and it looks great .####[([5], [3], 'POS'), ([8], [9], 'POS')]
-Performance is much much better on the Pro , especially if you install an SSD on it .####[([0], [4], 'POS'), ([14], [4], 'POS')]
-Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .####[([7, 8], [12, 13], 'NEU'), ([16, 17, 18], [12, 13], 'NEG')]
-The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .####[([7], [4], 'NEG'), ([7], [14], 'NEG'), ([29], [26], 'NEU')]
-The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc####[([17], [19], 'POS'), ([23], [24, 25, 26], 'POS')]
-I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .####[([21, 22], [11, 12, 13], 'NEU')]
-It 's absolutely wonderful and worth the price !####[([7], [3], 'POS'), ([7], [5], 'POS')]
-I am please with the products ease of use ; out of the box ready ; appearance and functionality .####[([8], [2], 'POS'), ([8], [6], 'POS'), ([16], [2], 'POS'), ([18], [2], 'POS')]
-Perfect for all my graphic design classes I 'm taking this year in college : - )####[([4, 5], [0], 'POS')]
-I will not be using that slot again .####[([6], [2, 3, 4], 'NEG')]
-The OS is fast and fluid , everything is organized and it 's just beautiful .####[([1], [3], 'POS'), ([1], [5], 'POS'), ([1], [9], 'POS'), ([1], [14], 'POS')]
-They are simpler to use .####[([4], [2], 'POS')]
-! so nice .. stable .. fast .. now i got my SSD !####[([12], [2], 'POS'), ([12], [4], 'POS'), ([12], [6], 'POS')]
-I love the quick start up .####[([4, 5], [1], 'POS')]
-You just can not beat the functionality of an Apple device .####[([6], [2, 3, 4], 'POS')]
-Yet my mac continues to function properly .####[([5], [6], 'POS')]
-Graphics are much improved .####[([0], [3], 'POS')]
-Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .####[([12, 13], [7], 'POS'), ([22, 23], [18, 19, 20], 'POS')]
-It provides much more flexibility for connectivity .####[([4, 5, 6], [3], 'POS')]
-Mac tutorials do help .####[([0, 1], [3], 'POS')]
-The technical support was not helpful as well .####[([1, 2], [4, 5], 'NEG')]
-I got the new adapter and there was no change .####[([4], [3], 'NEU'), ([4], [8, 9], 'NEU')]
-Logic board utterly fried , cried , and laid down and died .####[([0, 1], [2, 3], 'POS'), ([0, 1], [5], 'POS'), ([0, 1], [8, 9], 'POS'), ([0, 1], [11], 'POS')]
-The sound was crappy even when you turn up the volume still the same results .####[([1], [3], 'NEG'), ([10], [3], 'NEG')]
-OSX Lion is a great performer..extremely fast and reliable .####[([0, 1], [4], 'POS'), ([0, 1], [6], 'POS'), ([0, 1], [8], 'POS')]
-Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .####[([20], [21], 'NEG')]
-The Macbook pro 's physical form is wonderful .####[([4, 5], [7], 'POS')]
-The Mini 's body has n't changed since late 2010- and for a good reason .####[([3], [4, 5, 6], 'POS'), ([3], [13], 'POS')]
-The unibody construction really does feel lot more solid than Apple 's previous laptops .####[([1, 2], [8], 'POS')]
-3D rendering slows it down considerably .####[([0, 1], [2, 3, 4], 'NEG')]
-fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD !####[([3], [0], 'POS'), ([3], [2], 'POS'), ([6], [5], 'POS')]
-All the ports are much needed since this is my main computer .####[([2], [4, 5], 'NEU')]
-The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .####[([69], [66], 'POS'), ([69], [68], 'POS')]
-Put a cover on it and is a little better but that is my only complaint .####[([2], [7, 8, 9], 'NEU'), ([2], [15], 'NEU')]
-Within a few hours I was using the gestures unconsciously .####[([8], [9], 'POS')]
-This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .####[([17], [20], 'POS')]
-The 2.9ghz dual-core i7 chip really out does itself .####[([1, 2, 3, 4], [5], 'POS')]
-It is pretty snappy and starts up in about 30 seconds which is good enough for me .####[([5, 6], [3], 'POS'), ([5, 6], [13], 'POS')]
-Not sure on Windows 8 .####[([3, 4], [0, 1], 'NEU')]
-My one complaint is that there was no internal CD drive .####[([8, 9, 10], [2], 'NEG'), ([8, 9, 10], [7], 'NEG')]
-This newer netbook has no hard drive or network lights .####[([5, 6], [4], 'NEU'), ([8, 9], [4], 'NEU')]
-Not too expense and has enough storage for most users and many ports .####[([6], [5], 'POS'), ([12], [5], 'POS')]
-The audio volume is quite low and virtually unusable in a room with any background activity .####[([1, 2], [5], 'NEG'), ([1, 2], [8], 'NEG')]
-It is lightweight and the perfect size to carry to class .####[([6], [5], 'POS')]
-The MBP is beautiful has many wonderful capabilities .####[([7], [6], 'POS')]
-I thought that it will be fine , if i do some settings .####[([12], [6], 'NEU')]
-Runs very smoothly .####[([0], [2], 'POS')]
-Boot-up slowed significantly after all Windows updates were installed .####[([0], [1], 'NEG'), ([5, 6], [1], 'NEG')]
-It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .####[([18], [6], 'POS'), ([20, 21], [6], 'POS'), ([23, 24], [6], 'POS'), ([26], [6], 'POS')]
-I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .####[([9], [1], 'POS'), ([9], [7], 'POS'), ([11], [1], 'POS'), ([11], [7], 'POS')]
-Runs real quick .####[([0], [2], 'POS')]
-Since the machine 's slim profile is critical to me , that was a problem .####[([5], [4], 'NEG'), ([5], [7], 'NEG')]
-WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .####[([3, 4], [18], 'POS'), ([7, 8], [18], 'POS'), ([0, 1], [18], 'POS')]
-The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not .####[([1, 2, 3], [6], 'NEG'), ([1, 2, 3], [8, 9], 'NEG'), ([12, 13, 14, 15, 16], [17, 18, 19, 20], 'NEG'), ([29], [35], 'NEG')]
-Soft touch , anodized aluminum with laser cut precision and no flaws .####[([1], [0], 'POS'), ([3, 4], [8], 'POS'), ([3, 4], [10, 11], 'POS')]
-Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .####[([4], [3], 'POS'), ([7], [11, 12], 'POS')]
-First of all yes this is a mac and it has that nice brushed aluminum .####[([14], [12], 'POS')]
-No HDMI port .####[([1, 2], [0], 'NEU')]
-Customization on mac is impossible .####[([0], [4], 'NEG')]
-Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .####[([1, 2, 3], [13], 'POS'), ([9, 10, 11], [14], 'NEU')]
-The SuperDrive is quiet .####[([1], [3], 'POS')]
-The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .####[([1], [4], 'NEG')]
-if yo like practicality this is the laptop for you .####[([3], [2], 'POS')]
-The OS is great .####[([1], [3], 'POS')]
-CONS : Price is a bit ridiculous , kinda heavy .####[([2], [6], 'NEG'), ([2], [9], 'NEG')]
-Which it did not have , only 3 USB 2 ports .####[([8, 9, 10], [3, 4], 'NEU')]
-No startup disk was not included but that may be my fault .####[([1, 2], [0], 'NEU'), ([1, 2], [4, 5], 'NEU'), ([1, 2], [11], 'NEU')]
-It is very fast and has everything that I need except for a word program .####[([13, 14], [10, 11], 'NEG')]
-Needs a CD/DVD drive and a bigger power switch .####[([7, 8], [6], 'NEG')]
-My laptop with Windows 7 crashed and I did not want Windows 8 .####[([3, 4], [5], 'NEG'), ([11, 12], [9, 10], 'NEG')]
-Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .####[([2], [0], 'POS'), ([15, 16, 17, 18, 19, 20], [13], 'POS')]
-Nice packing .####[([1], [0], 'POS')]
-I switched to this because I wanted something different , even though I miss windows .####[([14], [13], 'POS')]
-Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !####[([4], [1, 2, 3], 'NEG')]
-I also wanted Windows 7 , which this one has .####[([3, 4], [2], 'POS')]
-At first , I feel a little bit uncomfortable in using the Mac system .####[([12, 13], [8], 'NEG')]
-It just works out of the box and you have a lot of cool software included with the OS .####[([2], [3, 4, 5, 6], 'POS'), ([14], [13], 'POS'), ([18], [13], 'NEU')]
-its as advertised on here ... .. it works great and is not a waste of money !####[([8], [9], 'POS')]
-Premium price for the OS more than anything else .####[([1], [0], 'POS'), ([4], [0], 'NEU')]
-I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .####[([7, 8], [4], 'POS'), ([7, 8], [18], 'POS')]
-However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .####[([8], [5], 'POS'), ([8], [10, 11, 12], 'POS')]
-The battery is not as shown in the product photos .####[([1], [3, 4, 5], 'NEG')]
-Shipping was quick and product described was the product sent and so much more ...####[([0], [2], 'POS')]
-the retina display display make pictures i took years ago jaw dropping .####[([1, 2, 3], [11], 'POS')]
-The Mac Mini is probably the simplest example of compact computing out there .####[([9, 10], [6], 'POS')]
-Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .####[([6, 7], [4], 'NEG'), ([6, 7], [32], 'NEG'), ([18, 19], [15], 'NEU'), ([18, 19], [32], 'NEU'), ([22, 23, 24], [32], 'NEU')]
-Chatting with Acer support , I was advised the problem was corrupted operating system files .####[([12, 13, 14], [11], 'NEU')]
-It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) .####[([17], [12], 'NEU')]
-Many people complain about the new OS , and it 's urgent for Apple to fix it asap !####[([6], [2], 'NEG')]
-Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .####[([6], [4], 'POS'), ([12, 13], [10], 'POS')]
-User upgradeable RAM and HDD .####[([2], [1], 'POS'), ([4], [1], 'POS')]
-But I wanted the Pro for the CD/DVD player .####[([7, 8], [2], 'POS')]
-I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .####[([17], [4], 'NEU')]
-With the softwares supporting the use of other OS makes it much better .####[([8], [12], 'NEU'), ([2], [12], 'NEU')]
-I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .####[([17], [16], 'POS')]
-At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important .####[([17, 18, 19, 20], [22, 23, 24], 'NEU')]
-Just beware no DVD slot so when I went to install software I had on CD I could n't .####[([3, 4], [2], 'NEU')]
-No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .####[([1, 2], [0], 'NEU'), ([22], [21], 'NEG')]
-the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer####[([1], [4], 'NEG'), ([1], [19], 'NEG'), ([1], [4], 'NEG'), ([1], [19], 'NEG')]
-and its not hard to accidentally bang it against something so i recommend getting a case to protect it .####[([15], [12], 'NEU')]
-I got this at an amazing price from Amazon and it arrived just in time .####[([6], [5], 'POS')]
-Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .####[([3, 4, 5, 6], [16], 'NEG')]
-Put a SSD and use a 21 '' LED screen , this set up is silky smooth !####[([12, 13], [15, 16], 'POS')]
-The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .####[([1], [5], 'NEG'), ([16, 17, 18], [13], 'NEU')]
-I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .####[([20], [18], 'NEG'), ([32], [33], 'POS')]
-Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .####[([4], [6], 'POS'), ([9, 10], [6], 'NEU'), ([12], [6], 'NEU'), ([14], [6], 'NEU'), ([17, 18], [6], 'NEU')]
-The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .####[([10, 11], [4], 'NEG')]
-It 's a decent computer for the price and hopefully it will last a long time .####[([7], [3], 'NEU')]
-The nicest part is the low heat output and ultra quiet operation .####[([6, 7], [1], 'POS'), ([6, 7], [5], 'POS'), ([11], [1], 'POS'), ([11], [10], 'POS')]
-this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .####[([7, 8], [4, 5], 'NEU'), ([16, 17, 18], [20, 21], 'NEG')]
-A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .####[([3], [1, 2], 'NEU'), ([5], [1, 2], 'NEU')]
-Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .####[([27, 28], [37], 'POS'), ([27, 28], [39], 'POS')]
-air has higher resolution but the fonts are small .####[([3], [2], 'POS'), ([6], [8], 'NEG')]
-working with Mac is so much easier , so many cool features .####[([0], [6], 'POS'), ([11], [10], 'POS')]
-I like the brightness and adjustments .####[([3], [1], 'POS'), ([5], [1], 'POS')]
-I only wish this mac had a CD/DVD player built in .####[([7, 8], [2], 'NEU')]
-The only thing I miss is that my old Alienware laptop had backlit keys .####[([12, 13], [4], 'NEG')]
-So happy with this purchase , I just wish it came with Microsoft Word .####[([12, 13], [8], 'NEU')]
-It has enough memory and speed to run my business with all the flexibility that comes with a laptop .####[([3], [2], 'POS'), ([5], [2], 'POS')]
-The battery life is excellent , the display is excellent , and downloading apps is a breeze .####[([1, 2], [4], 'POS'), ([7], [9], 'POS'), ([12, 13], [16], 'POS')]
-The screen , the software and the smoothness of the operating system .####[([10, 11], [7], 'POS')]
-But with this laptop , the bass is very weak and the sound comes out sounding tinny .####[([6], [9], 'NEG'), ([12], [16], 'NEG')]
-The built quality is really good , I was so Happy and excited about this Product .####[([1, 2], [5], 'POS'), ([1, 2], [10], 'POS'), ([1, 2], [12], 'POS')]
-I am loving the fast performance also .####[([5], [2], 'POS'), ([5], [4], 'POS')]
-Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor .####[([8, 9], [7], 'NEG'), ([14, 15], [11], 'NEG'), ([19], [21], 'NEG')]
-My only gripe would be the need to add more RAM .####[([10], [2], 'NEG')]
-Fine if you have a touch screen .####[([5, 6], [0], 'NEU')]
-This by far beats any computer out on the market today built well , battery life AMAZING .####[([11], [12], 'POS'), ([14, 15], [16], 'POS')]
-The OS is easy , and offers all kinds of surprises .####[([1], [3], 'POS'), ([1], [10], 'POS')]
-A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .####[([4, 5], [1], 'POS'), ([4, 5], [11], 'POS'), ([28, 29], [34], 'NEG')]
-I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .####[([2], [1], 'POS'), ([6], [5], 'POS'), ([16, 17], [15], 'POS')]
-After replacing the spinning hard disk with an ssd drive , my mac is just flying .####[([8, 9], [15], 'POS')]
-I know some people complained about HDMI issues but they released a firmware patch to address that issue .####[([6], [4], 'NEU')]
-With the needs of a professional photographer I generally need to keep up with the best specs .####[([16], [15], 'NEU')]
-packing and everything was perfect####[([0], [4], 'POS')]
-I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .####[([21, 22], [18], 'NEU')]
-I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .####[([9, 10], [17], 'NEG'), ([22, 23], [17], 'NEG')]
-It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .####[([36], [37], 'POS')]
-This computer is also awesome for my sons virtual home schooling .####[([8, 9, 10], [4], 'POS')]
-Cost is more as compared to other brands .####[([0], [2], 'NEG')]
-also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-####[([4, 5], [3], 'POS'), ([7], [3], 'POS'), ([9], [3], 'POS'), ([12], [11], 'POS'), ([15, 16, 17, 18], [14], 'POS'), ([21, 22, 23, 24, 25], [27], 'POS')]
-This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .####[([1], [5], 'POS')]
-I 've had it for about 2 months now and found no issues with software or updates .####[([14], [11, 12], 'NEU'), ([16], [11, 12], 'NEU')]
-the latest version does not have a disc drive .####[([7, 8], [4, 5], 'NEU')]
-Screen - although some people might complain about low res which I think is ridiculous .####[([0], [6], 'POS'), ([0], [14], 'POS'), ([9], [8], 'POS'), ([9], [14], 'POS')]
+Boot time is super fast , around anywhere from 35 seconds to 1 minute .####Boot time | fast | positive | true
+tech support would not fix the problem unless I bought your plan for $ 150 plus .####tech support | not fix | negative | true
+Set up was easy .####Set up | easy | positive | true
+Did not enjoy the new Windows 8 and touchscreen functions .####Windows 8 | not enjoy | negative | true]; [touchscreen functions | not enjoy | negative | true
+Other than not being a fan of click pads ( industry standard these days ) and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .####internal speakers | lousy | negative | true
+It 's fast , light , and simple to use .####use | fast | positive | true]; [use | light | positive | true]; [use | simple | positive | true
+Works well , and I am extremely happy to be back to an apple OS .####Works | well | positive | true]; [apple OS | happy | positive | true
+Sure it 's not light and slim but the features make up for it 100 % .####features | not light and slim | positive | true
+I am pleased with the fast log on , speedy WiFi connection and the long battery life ( > 6 hrs ) .####log on | pleased | positive | true]; [log on | fast | positive | true]; [WiFi connection | pleased | positive | true]; [WiFi connection | speedy | positive | true]; [battery life | pleased | positive | true]; [battery life | long | positive | true
+The Apple engineers have not yet discovered the delete key .####delete key | not yet discovered | negative | true
+Made interneting ( part of my business ) very difficult to maintain .####interneting | difficult | negative | true
+Luckily , for all of us contemplating the decision , the Mac Mini is priced just right .####priced | right | positive | true
+Only problem that I had was that the track pad was not very good for me , I only had a problem once or twice with it , But probably my computer was a bit defective .####track pad | not very good | negative | true
+It is super fast and has outstanding graphics .####graphics | outstanding | positive | true
+But the mountain lion is just too slow .####mountain lion | slow | negative | true
+Strong build though which really adds to its durability .####durability | Strong | positive | true]; [build | Strong | positive | true
+The battery life is excellent -- 6-7 hours without charging .####battery life | excellent | positive | true
+I 've had my computer for 2 weeks already and it works perfectly .####works | perfectly | positive | true
+And I may be the only one but I am really liking Windows 8 .####Windows 8 | liking | positive | true
+The baterry is very longer .####baterry | longer | positive | true
+Its size is ideal and the weight is acceptable .####size | ideal | positive | true]; [weight | acceptable | positive | true
+I can say that I am fully satisfied with the performance that the computer has supplied .####performance | satisfied | positive | true
+It has so much more speed and the screen is very sharp .####speed | much more | positive | true]; [screen | sharp | positive | true
+Everything I wanted and everything I needed and the price was great !####price | great | positive | true
+It 's not inexpensive but the Hardware performance is impressive for a computer this small .####Hardware performance | impressive | positive | true
+This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .####works | always | positive | true]; [set up | easy | positive | true
+Keyboard responds well to presses .####Keyboard | responds well | positive | true
+Lastly , Windows 8 is annoying .####Windows 8 | annoying | negative | true
+Everything is so easy and intuitive to setup or configure .####setup | easy | positive | true]; [setup | intuitive | positive | true]; [configure | easy | positive | true]; [configure | intuitive | positive | true
+Biggest complaint is Windows 8 .####Windows 8 | complaint | negative | true
+Only 2 usb ports ... seems kind of ... limited .####usb ports | limited | negative | true
+It has all the expected features and more +plus a wide screen and more than roomy keyboard .####features | expected | positive | true]; [screen | wide | positive | true]; [keyboard | roomy | positive | true
+Amazing Performance for anything I throw at it .####Performance | Amazing | positive | true
+The receiver was full of superlatives for the quality and performance .####quality | superlatives | positive | true]; [performance | superlatives | positive | true
+I was extremely happy with the OS itself .####OS | happy | positive | true
+The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .####portability | great | positive | true
+The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .####portable computing | recommend | positive | true]; [portable computing | truly | positive | true
+MS Office 2011 for Mac is wonderful , well worth it .####MS Office 2011 for Mac | wonderful | positive | true]; [MS Office 2011 for Mac | well worth | positive | true
+But the performance of Mac Mini is a huge disappointment .####performance | disappointment | negative | true
+They do n't just look good ; they deliver excellent performance .####look | good | positive | true]; [performance | excellent | positive | true
+I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display ... this thing is Fast and clear as can be .####lit up keys | love | positive | true]; [lit up keys | Fast | positive | true]; [lit up keys | clear | positive | true]; [screen display | love | positive | true]; [screen display | Fast | positive | true]; [screen display | clear | positive | true
+The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows .####Mountain Lion OS | not hard | positive | true]; [Microsoft Windows | familiar | neutral | true
+However , I can refute that OSX is `` FAST '' .####OSX | FAST | negative | true
+Enjoy using Microsoft Office !####Microsoft Office | Enjoy | positive | true
+Incredible graphics and brilliant colors .####graphics | Incredible | positive | true]; [colors | brilliant | positive | true
+Built-in apps are purely amazing .####Built-in apps | amazing | positive | true
+From the speed to the multi touch gestures this operating system beats Windows easily .####operating system | beats | positive | true
+I really like the size and I 'm a fan of the ACERS .####size | like | positive | true
+I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ( $ 1500-2000 ) which also support `` accidents '' like drops and spills that are NOT covered by AppleCare .####SquareTrade 3-Year Computer Accidental Protection Warranty | support | positive | true]; [AppleCare | NOT covered | negative | true
+It 's light and easy to transport .####transport | light | positive | true]; [transport | easy | positive | true
+Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .####Windows 8 Set-Up | poorly designed | negative | true]; [Windows 8 Set-Up | frustrated | negative | true
+The aluminum body sure makes it stand out .####aluminum body | stand out | positive | true
+It is very easy to integrate bluetooth devices , and USB devices are recognized almost instantly .####integrate bluetooth devices | easy | positive | true]; [USB devices | instantly | positive | true
+And the fact that Apple is driving the 13 '' RMBP with the Intel4000 graphic chip seems underpowered ( to me .####Intel4000 graphic chip | underpowered | negative | true
+Apple removed the DVD drive Firewire port ( will work with adapter ) and put the SDXC slot in a silly position on the back .####DVD drive Firewire port | removed | neutral | true]; [SDXC slot | silly | negative | true
+The durability of the laptop will make it worth the money .####durability | worth | positive | true
+Well designed and fast .####designed | Well | positive | true
+But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .####use | easy | positive | true
+Exactly as posted plus a great value .####value | great | positive | true
+The specs are pretty good too .####specs | good | positive | true
+Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .####product quality | unmatched | positive | true]; [aesthetics | unmatched | positive | true]; [craftmanship | unmatched | positive | true]; [customer service | unmatched | positive | true
+It is a great size and amazing windows 8 included !####size | great | positive | true]; [windows 8 | amazing | positive | true
+I do not like too much Windows 8 .####Windows 8 | not like | negative | true
+Startup times are incredibly long : over two minutes .####Startup times | long | negative | true
+Also stunning colors and speedy####colors | stunning | positive | true
+great price free shipping what else can i ask for ! !####price | great | positive | true]; [shipping | free | positive | true
+This mouse is terrific .####mouse | terrific | positive | true
+It is really thick around the battery .####battery | thick | neutral | true
+And windows 7 works like a charm .####windows 7 | charm | positive | true
+: ) Great product , great price , great delivery , and great service .####price | great | positive | true]; [delivery | great | positive | true]; [service | great | positive | true
+: ] It arrived so fast and customer service was great .####customer service | great | positive | true
+tried windows 8 and hated it ! ! !####windows 8 | hated | negative | true
+Set up was a breeze .####Set up | breeze | positive | true
+But I do NOT like Win8 .####Win8 | NOT like | negative | true
+I had the same reasons as most PC users : the price , the overbearing restrictions of OSX and lack of support for games .####OSX | overbearing | negative | true]; [support for games | lack | negative | true
+I wanted it for it 's mobility and man , this little bad boy is very nice .####mobility | nice | positive | true
+I found the mini to be : Exceptionally easy to set up####set up | easy | positive | true
+The sound is nice and loud ; I do n't have any problems with hearing anything .####sound | nice | positive | true]; [sound | loud | positive | true
+It is very slim , the track pad is very much impressed with me .####track pad | slim | positive | true]; [track pad | impressed | positive | true
+The settings are not user-friendly either .####settings | not user-friendly | negative | true
+Thank goodness for OpenOffice !####OpenOffice | goodness | positive | true
+Awesome form factor , great battery life , wonderful UX .####form factor | Awesome | positive | true]; [battery life | great | positive | true]; [UX | wonderful | positive | true
+i love the keyboard and the screen .####keyboard | love | positive | true]; [screen | love | positive | true
+However , there are MAJOR issues with the touchpad which render the device nearly useless .####touchpad | issues | negative | true]; [touchpad | useless | negative | true
+I 've already upgraded o Mavericks and I am impressed with everything about this computer .####Mavericks | impressed | positive | true
+Not as fast as I would have expect for an i5 .####i5 | Not as fast | negative | true
+thanks for great service and shipping !####service | great | positive | true]; [shipping | great | positive | true
+The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .####performance | good | positive | true]; [built-in applications | great | positive | true]; [iPhoto | great | positive | true
+I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .####Samsung 830 SSD | recommend | positive | true
+Yes , that 's a good thing , but it 's made from aluminum that scratches easily .####aluminum | scratches easily | negative | true
+I was also informed that the components of the Mac Book were dirty .####components | dirty | negative | true
+the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !####hardware | bad | negative | true
+It 's so nice that the battery last so long and that this machine has the snow lion !####battery | nice | positive | true]; [battery | long | positive | true
+it 's exactly what i wanted , and it has all the new features and whatnot .####features | wanted | positive | true]; [features | new | positive | true
+It feels cheap , the keyboard is not very sensitive .####keyboard | cheap | negative | true]; [keyboard | not very sensitive | negative | true
+Though please note that sometimes it crashes , and the sound quality isnt superb .####sound quality | isnt superb | negative | true
+It is very easy to navigate even for a novice .####navigate | easy | positive | true
+Does everything I need it to , has a wonderful battery life and I could n't be happier .####battery life | wonderful | positive | true
+Great Performance and Quality .####Performance | Great | positive | true]; [Quality | Great | positive | true
+One more thing , this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC 's , also the charging cables are made of the same cheap material as the iPhone/iPod touch cables .####material | cheap | negative | true
+The new os is great on my macbook pro !####os | great | positive | true
+I have experienced no problems , works as anticipated .####works | as anticipated | positive | true
+System is running great .####System | great | positive | true
+Easy to customize setting and even create your own bookmarks .####customize setting | Easy | positive | true]; [create your own bookmarks | Easy | positive | true
+it has all the features that we expected and the price was good , working well so far .####price | good | positive | true]; [working | well | positive | true
+The new operating system makes this computer into a super iPad .####operating system | new | positive | true
+Easy to set up and go !####set up | Easy | positive | true
+I ca n't believe how quiet the hard drive is and how quick this thing boots up .####hard drive | quiet | positive | true]; [boots up | quick | positive | true
+It 's just what we were looking for and it works great .####works | great | positive | true
+It 's so quick and responsive that it makes working / surfing on a computer so much more pleasurable !####working | pleasurable | positive | true]; [surfing | pleasurable | positive | true
+It works fine , and all the software seems to run pretty well .####works | fine | positive | true]; [software | well | positive | true
+I wanted a computer that was quite , fast , and that had overall great performance .####performance | great | neutral | true
+Harddrive was in poor condition , had to replace it .####Harddrive | poor | negative | true
+The on/off switch is a bit obscure in the rear corner .####on/off switch | obscure | negative | true
+My only complaint is the total lack of instructions that come with the mac mini .####instructions | lack | negative | true
+The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .####gaming | not be good | negative | true
+I use it mostly for content creation ( Audio , video , photo editing ) and its reliable .####Audio | reliable | positive | true]; [video | reliable | positive | true]; [photo editing | reliable | positive | true
+Screen is bright and gorgeous .####Screen | bright | positive | true]; [Screen | gorgeous | positive | true
+It is robust , with a friendly use as all Apple products .####use | friendly | positive | true
+It is fast and easy to use .####use | easy | positive | true
+And the fact that it comes with an i5 processor definitely speeds things up####i5 processor | speeds things up | positive | true
+I have been PC for years but this computer is intuitive and its built in features are a great help####built in features | great help | positive | true
+Nice screen , keyboard works great !####screen | Nice | positive | true]; [keyboard | great | positive | true
+I was amazed at how fast the delivery was .####delivery | amazed | positive | true]; [delivery | fast | positive | true
+The memory was gone and it was not able to be used .####memory | gone | negative | true]; [memory | not able to be used | negative | true
+It works great and I am so happy I bought it .####works | great | positive | true
+I like the design and ease of use with the keyboard , plenty of ports .####design | like | positive | true]; [keyboard | like | positive | true]; [keyboard | ease of use | positive | true]; [ports | plenty | positive | true
+it definitely beats my old mac and the service was great .####service | great | positive | true
+Web browsing is very quick with Safari browser .####Web browsing | quick | positive | true]; [Safari browser | quick | positive | true
+I like the lighted screen at night .####lighted screen | like | positive | true
+It is really easy to use and it is quick to start up .####use | easy | positive | true]; [start up | quick | positive | true
+I 've lived with the crashes and slow operation and restarts .####operation | slow | negative | true
+USB3 Peripherals are noticably less expensive than the ThunderBolt ones .####USB3 Peripherals | less expensive | positive | true
+It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .####media editing | perfect | positive | true
+The battery lasts as advertised ( give or take 15-20 minutes ) , and the entire user experience is very elegant .####user experience | elegant | positive | true
+Thanks for the fast shipment and great price .####shipment | fast | positive | true]; [price | great | positive | true
+! Excellent performance , usability , presentation and time response .####performance | Excellent | positive | true]; [usability | Excellent | positive | true]; [presentation | Excellent | positive | true]; [time response | Excellent | positive | true
+The smaller size was a bonus because of space restrictions .####size | smaller | positive | true]; [size | bonus | positive | true
+I blame the Mac OS .####Mac OS | blame | negative | true
+I like the operating system .####operating system | like | positive | true
+I love the form factor .####form factor | love | positive | true
+It 's fast at loading the internet .####loading the internet | fast | positive | true
+So much faster and sleeker looking .####looking | faster | positive | true]; [looking | sleeker | positive | true
+Unfortunately , it runs XP and Microsoft is dropping support next April .####XP | Unfortunately | neutral | true]; [support | Unfortunately | negative | true]; [support | dropping | negative | true
+First off , I really do like my MBP ... once used to the OS it is pretty easy to get around , and the overall build is great ... eg the keyboard is one of the best to type on .####OS | like | positive | true]; [OS | easy | positive | true]; [overall build | great | positive | true]; [keyboard | best | positive | true
+It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit .####construction | solid | positive | true
+Very nice unibody construction .####unibody construction | nice | positive | true
+This Macbook Pro is fast , powerful , and runs super quiet and cool .####runs | quiet | positive | true]; [runs | cool | positive | true
+It 's ok but does n't have a disk drive which I did n't know until after I bought it .####disk drive | does n't have | neutral | true
+There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .####HDMI receptacle | no | neutral | true]; [SD card slot | nor | neutral | true
+It came in brand new and works perfectly .####works | perfectly | positive | true
+It should n't happen like that , I do n't have any design app open or anything .####design app | do n't have | neutral | true
+MY TRACKPAD IS NOT WORKING .####TRACKPAD | NOT WORKING | negative | true
+It looks and feels solid , with a flawless finish .####finish | flawless | positive | true]; [looks | solid | positive | true]; [feels | solid | positive | true
+Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .####Price | higher | negative | true
+Then the system would many times not power down without a forced power-off .####system | not power down | negative | true]; [power down | not | negative | true
+The configuration is perfect for my needs .####configuration | perfect | positive | true
+and the speakers is the worst ever .####speakers | worst | negative | true
+Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! ..####use | easy | positive | true]; [trackpad | love | positive | true
+Web surfuring is smooth and seamless .####Web surfuring | smooth | positive | true]; [Web surfuring | seamless | positive | true
+I 'm overall pleased with the interface and the portability of this product .####interface | pleased | positive | true]; [portability | pleased | positive | true
+This item is a beautiful piece , it works well , it is easy to carry and handle .####works | well | positive | true]; [carry | easy | positive | true]; [handle | easy | positive | true
+It was also suffering from hardware ( keyboard ) issues , relatively slow performance and shortening battery lifetime .####performance | slow | negative | true]; [battery lifetime | shortening | negative | true]; [hardware ( keyboard ) | suffering | negative | true]; [hardware ( keyboard ) | issues | negative | true
+Runs good and does the job , ca n't complain about that !####Runs | good | positive | true
+It 's silent and has a very small footprint on my desk .####footprint | small | positive | true
+The exterior is absolutely gorgeous .####exterior | gorgeous | positive | true
+It has a very high performance , just for what I needed for .####performance | high | positive | true
+Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .####intel 4000 graphics chipset | defective | neutral | true]; [design | defective | neutral | true
+I just bought the new MacBook Pro , the 13 '' model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .####USB ports | mistake | negative | true
+It is the perfect size and speed for me .####size | perfect | positive | true]; [speed | perfect | positive | true
+THE CUSTOMER SERVICE IS TERRIFIC ! !####CUSTOMER SERVICE | TERRIFIC | positive | true
+My last laptop was a 17 '' ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .####performed | admirably | positive | true
+However , it did not have any scratches , ZERO battery cycle count ( pretty surprised ) , and all the hardware seemed to be working perfectly .####battery cycle count | ZERO | positive | true]; [battery cycle count | surprised | positive | true]; [hardware | perfectly | positive | true
+And as for all the fancy finger swipes -- I just gave up and attached a mouse .####finger swipes | fancy | negative | true
+I needed a laptop with big storage , a nice screen and fast so I can photoshop without any problem .####storage | big | neutral | true]; [screen | nice | neutral | true
+I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .####Mac OS | like | positive | true]; [speaker quality | lacking | negative | true
+Shipped very quickly and safely .####Shipped | quickly | positive | true]; [Shipped | safely | positive | true
+The thunderbolt port is awesome !####thunderbolt port | awesome | positive | true
+The performance is definitely superior to any computer I 've ever put my hands on .####performance | superior | positive | true
+It 's great for streaming video and other entertainment uses .####streaming video | great | positive | true]; [entertainment uses | great | positive | true
+I like the design and its features but there are somethings I think needs to be improved .####design | like | positive | true]; [features | needs to be improved | positive | true
+There were small problems with Mac office .####Mac office | problems | negative | true
+I ordered my 2012 mac mini after being disappointed with spec of the new 27 '' Imacs .####spec | disappointed | negative | true
+Its fast , easy to use and it looks great .####use | easy | positive | true]; [looks | great | positive | true
+Performance is much much better on the Pro , especially if you install an SSD on it .####Performance | better | positive | true]; [SSD | better | positive | true
+Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .####MagSafe accessories | not work | neutral | true]; [MagSafe 2 connection | not work | negative | true
+The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I dont want it too , I would recommend using a mouse with it .####touchpad | dislike | negative | true]; [touchpad | unresponsive | negative | true]; [mouse | recommend | neutral | true
+The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc####runs | quiet | positive | true]; [fans | are n't audible | positive | true
+I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .####Mac ecosystem | take some time | neutral | true
+It 's absolutely wonderful and worth the price !####price | wonderful | positive | true]; [price | worth | positive | true
+I am please with the products ease of use ; out of the box ready ; appearance and functionality .####use | please | positive | true]; [use | ease | positive | true]; [appearance | please | positive | true]; [functionality | please | positive | true
+Perfect for all my graphic design classes I 'm taking this year in college : - )####graphic design | Perfect | positive | true
+I will not be using that slot again .####slot | not be using | negative | true
+The OS is fast and fluid , everything is organized and it 's just beautiful .####OS | fast | positive | true]; [OS | fluid | positive | true]; [OS | organized | positive | true]; [OS | beautiful | positive | true
+They are simpler to use .####use | simpler | positive | true
+! so nice .. stable .. fast .. now i got my SSD !####SSD | nice | positive | true]; [SSD | stable | positive | true]; [SSD | fast | positive | true
+I love the quick start up .####start up | love | positive | true
+You just can not beat the functionality of an Apple device .####functionality | can not beat | positive | true
+Yet my mac continues to function properly .####function | properly | positive | true
+Graphics are much improved .####Graphics | improved | positive | true
+Here are the things that made me confident with my purchase : Build Quality - Seriously , you ca n't beat a unibody construction .####Build Quality | confident | positive | true]; [unibody construction | ca n't beat | positive | true
+It provides much more flexibility for connectivity .####flexibility for connectivity | more | positive | true
+Mac tutorials do help .####Mac tutorials | help | positive | true
+The technical support was not helpful as well .####technical support | not helpful | negative | true
+I got the new adapter and there was no change .####adapter | new | neutral | true]; [adapter | no change | neutral | true
+Logic board utterly fried , cried , and laid down and died .####Logic board | utterly fried | positive | true]; [Logic board | cried | positive | true]; [Logic board | laid down | positive | true]; [Logic board | died | positive | true
+The sound was crappy even when you turn up the volume still the same results .####sound | crappy | negative | true]; [volume | crappy | negative | true
+OSX Lion is a great performer..extremely fast and reliable .####OSX Lion | great | positive | true]; [OSX Lion | fast | positive | true]; [OSX Lion | reliable | positive | true
+Having heard from friends and family about how reliable a Mac product is , I never expected to have an application crash within the first month , but I did .####application | crash | negative | true
+The Macbook pro 's physical form is wonderful .####physical form | wonderful | positive | true
+The Mini 's body has n't changed since late 2010- and for a good reason .####body | has n't changed | positive | true]; [body | good | positive | true
+The unibody construction really does feel lot more solid than Apple 's previous laptops .####unibody construction | solid | positive | true
+3D rendering slows it down considerably .####3D rendering | slows it down | negative | true
+fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax - plus i had a 10 % off coupon from amazon-cost me 998 plus tax- 1070- OTD !####screen | fast | positive | true]; [screen | great | positive | true]; [apps | beautiful | positive | true
+All the ports are much needed since this is my main computer .####ports | much needed | neutral | true
+The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU ( similar to the $ 799 Mini ) , with Radeon HD 6750M 512MB graphic card ( this mini is integrated Intel 4000 card ) , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .####package | neat | positive | true]; [package | nice | positive | true
+Put a cover on it and is a little better but that is my only complaint .####cover | a little better | neutral | true]; [cover | complaint | neutral | true
+Within a few hours I was using the gestures unconsciously .####gestures | unconsciously | positive | true
+This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .####cable | nice | positive | true
+The 2.9ghz dual-core i7 chip really out does itself .####2.9ghz dual-core i7 chip | really | positive | true
+It is pretty snappy and starts up in about 30 seconds which is good enough for me .####starts up | snappy | positive | true]; [starts up | good | positive | true
+Not sure on Windows 8 .####Windows 8 | Not sure | neutral | true
+My one complaint is that there was no internal CD drive .####internal CD drive | complaint | negative | true]; [internal CD drive | no | negative | true
+This newer netbook has no hard drive or network lights .####hard drive | no | neutral | true]; [network lights | no | neutral | true
+Not too expense and has enough storage for most users and many ports .####storage | enough | positive | true]; [ports | enough | positive | true
+The audio volume is quite low and virtually unusable in a room with any background activity .####audio volume | low | negative | true]; [audio volume | unusable | negative | true
+It is lightweight and the perfect size to carry to class .####size | perfect | positive | true
+The MBP is beautiful has many wonderful capabilities .####capabilities | wonderful | positive | true
+I thought that it will be fine , if i do some settings .####settings | fine | neutral | true
+Runs very smoothly .####Runs | smoothly | positive | true
+Boot-up slowed significantly after all Windows updates were installed .####Boot-up | slowed | negative | true]; [Windows updates | slowed | negative | true
+It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .####internet | powerful | positive | true]; [word processing | powerful | positive | true]; [graphic design | powerful | positive | true]; [gaming | powerful | positive | true
+I like the Mini Mac it was easy to setup and install , but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu .####setup | like | positive | true]; [setup | easy | positive | true]; [install | like | positive | true]; [install | easy | positive | true
+Runs real quick .####Runs | quick | positive | true
+Since the machine 's slim profile is critical to me , that was a problem .####profile | slim | negative | true]; [profile | critical | negative | true
+WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .####disk drive | required | positive | true]; [USB ports | required | positive | true]; [WiFi capability | required | positive | true
+The SD card reader is slightly recessed and upside down ( the nail slot on the card can not be accessed ) , if this was a self ejecting slot this would not be an issue , but its not .####SD card reader | recessed | negative | true]; [SD card reader | upside down | negative | true]; [nail slot on the card | can not be accessed | negative | true]; [slot | issue | negative | true
+Soft touch , anodized aluminum with laser cut precision and no flaws .####touch | Soft | positive | true]; [anodized aluminum | precision | positive | true]; [anodized aluminum | no flaws | positive | true
+Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .####aluminium | crafted | positive | true]; [glass | blow away | positive | true
+First of all yes this is a mac and it has that nice brushed aluminum .####aluminum | nice | positive | true
+No HDMI port .####HDMI port | No | neutral | true
+Customization on mac is impossible .####Customization | impossible | negative | true
+Plus two finger clicking as a replacement for the right click button is surprisingly intuitive .####two finger clicking | surprisingly | positive | true]; [right click button | intuitive | neutral | true
+The SuperDrive is quiet .####SuperDrive | quiet | positive | true
+The battery was completely dead , in fact it had grown about a quarter inch thick lump on the underside .####battery | dead | negative | true
+if yo like practicality this is the laptop for you .####practicality | like | positive | true
+The OS is great .####OS | great | positive | true
+CONS : Price is a bit ridiculous , kinda heavy .####Price | ridiculous | negative | true]; [Price | heavy | negative | true
+Which it did not have , only 3 USB 2 ports .####USB 2 ports | not have | neutral | true
+No startup disk was not included but that may be my fault .####startup disk | No | neutral | true]; [startup disk | not included | neutral | true]; [startup disk | fault | neutral | true
+It is very fast and has everything that I need except for a word program .####word program | except for | negative | true
+Needs a CD/DVD drive and a bigger power switch .####power switch | bigger | negative | true
+My laptop with Windows 7 crashed and I did not want Windows 8 .####Windows 7 | crashed | negative | true]; [Windows 8 | not want | negative | true
+Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi .####install | Easy | positive | true]; [configure for ADSl cable or wifi | easy | positive | true
+Nice packing .####packing | Nice | positive | true
+I switched to this because I wanted something different , even though I miss windows .####windows | miss | positive | true
+Apple no longer includes iDVD with the computer and furthermore , Apple does n't even offer it anymore !####iDVD | no longer includes | negative | true
+I also wanted Windows 7 , which this one has .####Windows 7 | wanted | positive | true
+At first , I feel a little bit uncomfortable in using the Mac system .####Mac system | uncomfortable | negative | true
+It just works out of the box and you have a lot of cool software included with the OS .####works | out of the box | positive | true]; [software | cool | positive | true]; [OS | cool | neutral | true
+its as advertised on here ... .. it works great and is not a waste of money !####works | great | positive | true
+Premium price for the OS more than anything else .####price | Premium | positive | true]; [OS | Premium | neutral | true
+I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .####touch pad | concerned | positive | true]; [touch pad | fine | positive | true
+However , the experience was great since the OS does not become unstable and the application will simply shutdown and reopen .####OS | great | positive | true]; [OS | not become unstable | positive | true
+The battery is not as shown in the product photos .####battery | not as shown | negative | true
+Shipping was quick and product described was the product sent and so much more ...####Shipping | quick | positive | true
+the retina display display make pictures i took years ago jaw dropping .####retina display display | dropping | positive | true
+The Mac Mini is probably the simplest example of compact computing out there .####compact computing | simplest | positive | true
+Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .####ventilation system | barely | negative | true]; [ventilation system | hot | negative | true]; [watching videos | simple | neutral | true]; [watching videos | hot | neutral | true]; [playing steam games | hot | neutral | true
+Chatting with Acer support , I was advised the problem was corrupted operating system files .####operating system files | corrupted | neutral | true
+It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys ( but that was expected ) .####keys | struggle | neutral | true
+Many people complain about the new OS , and it 's urgent for Apple to fix it asap !####OS | complain | negative | true
+Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office .####Lion | upgraded | positive | true]; [MAC OS | happier | positive | true
+User upgradeable RAM and HDD .####RAM | upgradeable | positive | true]; [HDD | upgradeable | positive | true
+But I wanted the Pro for the CD/DVD player .####CD/DVD player | wanted | positive | true
+I was a little worry at first because I do n't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows .####os.x | worry | neutral | true
+With the softwares supporting the use of other OS makes it much better .####OS | better | neutral | true]; [softwares | better | neutral | true
+I was considering buying the Air , but in reality , this one has a more powerful performance and seems much more convenient , even though it 's about .20 inch thicker and 2 lbs heavier .####performance | powerful | positive | true
+At home and the office it gets plugged into an external 24 '' LCD screen , so built in screen size is not terribly important .####built in screen size | not terribly important | neutral | true
+Just beware no DVD slot so when I went to install software I had on CD I could n't .####DVD slot | no | neutral | true
+No Cd Rom in the new version there 's no way I 'm spending that kind of money on something has less features than the older version .####Cd Rom | No | neutral | true]; [features | less | negative | true
+the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer####volume | low | negative | true]; [volume | hate | negative | true]; [volume | low | negative | true]; [volume | hate | negative | true
+and its not hard to accidentally bang it against something so i recommend getting a case to protect it .####case | recommend | neutral | true
+I got this at an amazing price from Amazon and it arrived just in time .####price | amazing | positive | true
+Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .####log into the system | frustrating | negative | true
+Put a SSD and use a 21 '' LED screen , this set up is silky smooth !####set up | silky smooth | positive | true
+The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .####case | larger | negative | true]; [external power supply | lack | neutral | true
+I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .####pad | hate | negative | true]; [works | great | positive | true
+Has all the other features I wanted including a VGA port , HDMI , ethernet and 3 USB ports .####features | wanted | positive | true]; [VGA port | wanted | neutral | true]; [HDMI | wanted | neutral | true]; [ethernet | wanted | neutral | true]; [USB ports | wanted | neutral | true
+The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .####rubber pads | dislike | negative | true
+It 's a decent computer for the price and hopefully it will last a long time .####price | decent | neutral | true
+The nicest part is the low heat output and ultra quiet operation .####heat output | nicest | positive | true]; [heat output | low | positive | true]; [operation | nicest | positive | true]; [operation | quiet | positive | true
+this Mac Mini does not have a built-in mic , and it would seem that its Mac OS 10.9 does not handle external microphones properly .####built-in mic | not have | neutral | true]; [Mac OS 10.9 | not handle | negative | true
+A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .####features | lot of | neutral | true]; [shortcuts | lot of | neutral | true
+Was n't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different .####IOS system | unique | positive | true]; [IOS system | different | positive | true
+air has higher resolution but the fonts are small .####resolution | higher | positive | true]; [fonts | small | negative | true
+working with Mac is so much easier , so many cool features .####working | easier | positive | true]; [features | cool | positive | true
+I like the brightness and adjustments .####brightness | like | positive | true]; [adjustments | like | positive | true
+I only wish this mac had a CD/DVD player built in .####CD/DVD player | wish | neutral | true
+The only thing I miss is that my old Alienware laptop had backlit keys .####backlit keys | miss | negative | true
+So happy with this purchase , I just wish it came with Microsoft Word .####Microsoft Word | wish | neutral | true
+It has enough memory and speed to run my business with all the flexibility that comes with a laptop .####memory | enough | positive | true]; [speed | enough | positive | true
+The battery life is excellent , the display is excellent , and downloading apps is a breeze .####battery life | excellent | positive | true]; [display | excellent | positive | true]; [downloading apps | breeze | positive | true
+The screen , the software and the smoothness of the operating system .####operating system | smoothness | positive | true
+But with this laptop , the bass is very weak and the sound comes out sounding tinny .####bass | weak | negative | true]; [sound | tinny | negative | true
+The built quality is really good , I was so Happy and excited about this Product .####built quality | good | positive | true]; [built quality | Happy | positive | true]; [built quality | excited | positive | true
+I am loving the fast performance also .####performance | loving | positive | true]; [performance | fast | positive | true
+Further , this Mac Mini has a sloppy Bluetooth interface ( courtesy of the Mac OS ) and the range is poor .####Bluetooth interface | sloppy | negative | true]; [Mac OS | courtesy | negative | true]; [range | poor | negative | true
+My only gripe would be the need to add more RAM .####RAM | gripe | negative | true
+Fine if you have a touch screen .####touch screen | Fine | neutral | true
+This by far beats any computer out on the market today built well , battery life AMAZING .####built | well | positive | true]; [battery life | AMAZING | positive | true
+The OS is easy , and offers all kinds of surprises .####OS | easy | positive | true]; [OS | surprises | positive | true
+A veryimportant feature is Firewire 800 which in my experience works better then USB3 ( in PC enabled with USB3 ) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7 .####Firewire 800 | veryimportant | positive | true]; [Firewire 800 | better | positive | true]; [MAC OS | inferior | negative | true
+I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .####iTunes | like | positive | true]; [security | apparent | positive | true]; [graphics stuff | nice | positive | true
+After replacing the spinning hard disk with an ssd drive , my mac is just flying .####ssd drive | flying | positive | true
+I know some people complained about HDMI issues but they released a firmware patch to address that issue .####HDMI | complained | neutral | true
+With the needs of a professional photographer I generally need to keep up with the best specs .####specs | best | neutral | true
+packing and everything was perfect####packing | perfect | positive | true
+I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .####mother boards | issues | neutral | true
+I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .####Mother Board | faulty | negative | true]; [graphics card | faulty | negative | true
+It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .####performs | better | positive | true
+This computer is also awesome for my sons virtual home schooling .####virtual home schooling | awesome | positive | true
+Cost is more as compared to other brands .####Cost | more | negative | true
+also ... - excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-####operating system | excellent | positive | true]; [size | excellent | positive | true]; [weight | excellent | positive | true]; [mobility | optimal | positive | true]; [durability of the battery | excellent | positive | true]; [functions provided by the trackpad | unmatched | positive | true
+This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .####hardware | better | positive | true
+I 've had it for about 2 months now and found no issues with software or updates .####software | no issues | neutral | true]; [updates | no issues | neutral | true
+the latest version does not have a disc drive .####disc drive | not have | neutral | true
+Screen - although some people might complain about low res which I think is ridiculous .####Screen | complain | positive | true]; [Screen | ridiculous | positive | true]; [res | low | positive | true]; [res | ridiculous | positive | true

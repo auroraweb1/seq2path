@@ -1,492 +1,492 @@
-The bread is top notch as well .####[([1], [3, 4], 'POS')]
-I have to say they have one of the fastest delivery times in the city .####[([10, 11], [9], 'POS')]
-Food is always fresh and hot ready to eat !####[([0], [3], 'POS'), ([0], [5], 'POS')]
-Did I mention that the coffee is OUTSTANDING ?####[([5], [7], 'POS')]
-Certainly not the best sushi in New York , however , it is always fresh , and the place is very clean , sterile .####[([18], [21], 'POS')]
-I trust the people at Go Sushi , it never disappoints .####[([3], [1], 'POS')]
-Straight-forward , no surprises , very decent Japanese food .####[([7, 8], [6], 'POS')]
-BEST spicy tuna roll , great asian salad .####[([6, 7], [5], 'POS'), ([1, 2, 3], [0], 'POS')]
-Try the rose roll ( not on menu ) .####[([2, 3], [0], 'POS')]
-I love the drinks , esp lychee martini , and the food is also VERY good .####[([3], [1], 'POS'), ([6, 7], [1], 'POS'), ([11], [15], 'POS')]
-While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .####[([5], [4], 'POS')]
-Once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .####[([6], [5], 'POS'), ([8, 9], [5], 'POS')]
-Our waiter was horrible ; so rude and disinterested .####[([1], [3], 'NEG'), ([1], [6], 'NEG'), ([1], [8], 'NEG')]
-The sangria 's - watered down .####[([1], [4, 5], 'NEG')]
-menu - uneventful , small .####[([0], [2], 'NEG'), ([0], [4], 'NEG')]
-Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price .####[([17], [16], 'POS'), ([20], [19], 'POS'), ([25], [24], 'POS')]
-Great food but the service was dreadful !####[([1], [0], 'POS'), ([4], [6], 'NEG')]
-The portions of the food that came out were mediocre .####[([1, 2, 3, 4], [9], 'NEU')]
-From the beginning , we were met by friendly staff memebers , and the convenient parking at Chelsea Piers made it easy for us to get to the boat .####[([9, 10], [8], 'POS'), ([15], [14], 'POS')]
-Desserts are almost incredible : my personal favorite is their Tart of the Day .####[([0], [3], 'POS'), ([10, 11, 12, 13], [7], 'POS')]
-The food was extremely tasty , creatively presented and the wine excellent .####[([1], [4], 'POS'), ([1], [6, 7], 'POS'), ([10], [11], 'POS')]
-THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED .####[([1], [5], 'POS')]
-Harumi Sushi has the freshest and most delicious array of sushi in NYC .####[([8, 9, 10], [4], 'POS'), ([8, 9, 10], [6, 7], 'POS')]
-I highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .####[([9], [8], 'POS'), ([16], [15], 'POS'), ([18], [15], 'POS')]
-If you 're craving some serious indian food and desire a cozy ambiance , this is quiet and exquisite choice .####[([6, 7], [5], 'POS'), ([12], [11], 'POS')]
-I definitely enjoyed the food as well .####[([4], [2], 'POS')]
-It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .####[([6], [8], 'POS'), ([11], [12], 'POS'), ([15], [23], 'POS'), ([18], [23], 'POS'), ([20], [23], 'POS')]
-The food is surprisingly good , and the decor is nice .####[([1], [4], 'POS'), ([8], [10], 'POS')]
-How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners !####[([13], [12], 'NEG'), ([15], [12], 'NEG')]
-Two wasted steaks -- what a crime !####[([2], [1], 'NEG')]
-The staff should be a bit more friendly .####[([1], [7], 'NEG')]
-I think the meatball parm is good .####[([3, 4], [6], 'POS')]
-If you want good tasting , well seasoned latin food eat at Cabana and you ca n't go wrong .####[([8, 9], [3, 4], 'POS'), ([8, 9], [6, 7], 'POS')]
-Definitely try the taglierini with truffles - it was incredible .####[([3, 4, 5], [1], 'POS'), ([3, 4, 5], [9], 'POS')]
-Also , the staff is very attentive and really personable .####[([3], [6], 'POS'), ([3], [9], 'POS')]
-The gnocchi literally melts in your mouth !####[([1], [3], 'POS')]
-Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .####[([7], [9], 'POS'), ([11], [13], 'POS'), ([17, 18], [15], 'POS'), ([25, 26], [23], 'POS'), ([29, 30], [23], 'POS')]
-The food is good , the teriyaki I recommend .####[([1], [3], 'POS'), ([6], [8], 'POS')]
-Meal was very expensive for what you get .####[([0], [3], 'NEG')]
-Try the Peanut Butter Sorbet and the pizza with soy cheese !####[([2, 3, 4], [0], 'POS'), ([7, 8, 9, 10], [0], 'POS')]
-Good food at the right price , what more can you ask for .####[([1], [0], 'POS'), ([5], [4], 'POS')]
-The food is top notch , the service is attentive , and the atmosphere is great .####[([1], [3, 4], 'POS'), ([7], [9], 'POS'), ([13], [15], 'POS')]
-Great food , great waitstaff , great atmosphere , and best of all GREAT beer !####[([1], [0], 'POS'), ([4], [3], 'POS'), ([7], [6], 'POS'), ([14], [10], 'POS'), ([14], [13], 'POS')]
-this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere .####[([13], [15], 'POS'), ([13], [18], 'POS'), ([20, 21, 22], [24], 'POS'), ([30], [29], 'POS')]
-The menu is interesting and quite reasonably priced .####[([1], [3], 'POS'), ([1], [6, 7], 'POS'), ([7], [6], 'POS')]
-The food was delicious and clearly fresh ingredients were used .####[([1], [3], 'POS'), ([7], [6], 'POS')]
-This made it obvious that the food was n't cooked fresh ; it was obviously made before hand and then reheated .####[([6], [7, 8, 9, 10], 'NEG')]
-Appetizer are excellent here ; you can make a great ( and inexpensive ) meal out of them .####[([0], [2], 'POS'), ([14], [9], 'POS'), ([14], [12], 'POS')]
-The spicy mussels are a highlight .####[([1, 2], [5], 'POS')]
-Also get the Onion Rings -- best we 've ever had .####[([3, 4], [6], 'POS')]
-However , being foodies , we were utterly disappointed with the food .####[([11], [7, 8], 'NEG')]
-Huge portions , great and attentive service , and pretty good prices .####[([1], [0], 'POS'), ([6], [3], 'POS'), ([6], [5], 'POS'), ([11], [10], 'POS')]
-I was highly disappointed by their service and food .####[([6], [3], 'NEG'), ([8], [3], 'NEG')]
-I complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .####[([4], [15], 'NEG'), ([9], [15], 'NEG')]
-The food is great and the milkshakes are even better !####[([1], [3], 'POS'), ([6], [9], 'POS')]
-the mushroom barley soup is amazing .####[([1, 2, 3], [5], 'POS')]
-I 'm glad I did as the food was very good and the staff was friendly , courteous and efficient .####[([7], [10], 'POS'), ([13], [15], 'POS'), ([13], [17], 'POS'), ([13], [19], 'POS')]
-Their duck here is also absolutely delicious .####[([1], [6], 'POS')]
-While it was large and a bit noisy , the drinks were fantastic , and the food was superb .####[([10], [12], 'POS'), ([16], [18], 'POS')]
-One caveat : Some of the curried casseroles can be a trifle harsh .####[([6, 7], [12], 'NEG')]
-The food was almost always EXCELLENT .####[([1], [5], 'POS')]
-I was pleasantly surprised at the taste .####[([6], [2, 3], 'POS')]
-A nice space , as long as it does n't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers .####[([27], [24], 'POS')]
-they really provide a relaxing , laid-back atmosphere .####[([7], [4], 'POS'), ([7], [6], 'POS')]
-This particular location certainly uses substandard meats .####[([6], [5], 'NEG')]
-The Management was less than accomodating .####[([1], [3, 4, 5], 'NEG')]
-The ambience is also more laid-back and relaxed .####[([1], [5], 'POS'), ([1], [7], 'POS')]
-the teas are great and all the sweets are homemade .####[([1], [3], 'POS'), ([7], [9], 'POS')]
-mojitos and the service are the best part in there####[([0], [6], 'POS'), ([3], [6], 'POS')]
-Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .####[([0], [12, 13], 'POS'), ([2], [12, 13], 'POS'), ([4], [12, 13], 'POS'), ([8, 9], [12, 13], 'POS')]
-The design is very intimate and romantic .####[([1], [4], 'POS'), ([1], [6], 'POS')]
-The food was wonderful and imaginative .####[([1], [3], 'POS'), ([1], [5], 'POS')]
-The staff is very sharp and they look good too .####[([1], [4], 'POS'), ([1], [8], 'POS')]
-The worst though was the taste .####[([5], [1], 'NEG')]
-The fajita we tried was tasteless and burned and the mole sauce was way too sweet .####[([1], [5], 'NEG'), ([1], [7], 'NEG'), ([10, 11], [14, 15], 'NEG')]
-The atmosphere is warm , comfortable , artsy and sexy .####[([1], [3], 'POS'), ([1], [7], 'POS'), ([1], [9], 'POS')]
-The food is great ( big selection , reasonable prices ) and the drinks are really good .####[([1], [3], 'POS'), ([6], [5], 'POS'), ([9], [8], 'POS'), ([13], [16], 'POS')]
-The food did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .####[([14], [13], 'POS'), ([14], [18], 'POS')]
-Most importantly , it is reasonably priced .####[([6], [5], 'POS')]
-The selection of food is excellent ( I 'm not used to having much choice at restaurants ) , and the atmosphere is great .####[([1, 2, 3], [5], 'POS'), ([21], [23], 'POS')]
-Only suggestion is that you skip the dessert , it was overpriced and fell short on taste .####[([7], [11], 'NEG'), ([16], [14], 'NEG')]
-Food was decent , but not great .####[([0], [2], 'POS'), ([0], [5, 6], 'POS')]
-it is a hidden delight complete with a quaint bar and good food .####[([9], [8], 'POS'), ([12], [11], 'POS')]
-The waiters ALWAYS look angry and even ignore their high-tipping regulars .####[([1], [4], 'NEG')]
-the atmosphere is very nice , and a welcome escape from the rest of the SI mall .####[([1], [4], 'POS')]
-Yes , they 're a bit more expensive then typical , but then again , so is their food .####[([18], [6, 7, 8, 9], 'POS')]
-I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .####[([5], [12], 'POS'), ([5], [14], 'POS'), ([7], [12], 'POS'), ([7], [14], 'POS'), ([9], [12], 'POS'), ([9], [14], 'POS'), ([17, 18], [23, 24], 'POS')]
-The service we experienced was friendly and good .####[([1], [5], 'POS'), ([1], [7], 'POS')]
-Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with .####[([1], [3], 'POS')]
-The folding chair I was seated at was uncomfortable .####[([1, 2], [8], 'NEG')]
-Service was among the best I have ever had in NYC .####[([0], [4], 'POS')]
-The fettucino alfredo was amazing .####[([1, 2], [4], 'POS')]
-The food was very good and I was pleasantly surprised to see so many vegan options .####[([1], [4], 'POS'), ([14, 15], [13], 'POS')]
-Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...####[([5, 6], [3], 'POS'), ([8, 9], [3], 'POS'), ([11, 12], [3], 'POS'), ([14], [3], 'POS'), ([17, 18], [3], 'POS')]
-Even when the chef is not in the house , the food and service are right on target .####[([11], [15, 16, 17], 'POS'), ([13], [15, 16, 17], 'POS')]
-Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .####[([3, 4], [14], 'POS'), ([3, 4], [17], 'POS'), ([7], [14], 'POS'), ([7], [17], 'POS'), ([11], [14], 'POS'), ([11], [17], 'POS')]
-The waiters were very professional , courteous and attentive .####[([1], [4], 'POS'), ([1], [6], 'POS'), ([1], [8], 'POS')]
-The falafal was rather over cooked and dried but the chicken was fine .####[([1], [4, 5], 'NEG'), ([1], [7], 'NEG'), ([10], [12], 'POS')]
-I highly recommend the grand marnier shrimp , it 's insanely good .####[([4, 5, 6], [2], 'POS'), ([4, 5, 6], [11], 'POS')]
-We been there and we really enjoy the food , was areally great food , and the service was really good .####[([8], [6], 'POS'), ([8], [12], 'POS'), ([17], [20], 'POS')]
-I was starving and the small portions were driving me crazy !####[([6], [5], 'NEG')]
-The wait staff was loud and inconsiderate .####[([1, 2], [4], 'NEG'), ([1, 2], [6], 'NEG')]
-However , the food and service and dramatically lacking .####[([3], [8], 'NEG'), ([5], [8], 'NEG')]
-The sushi is cut in blocks bigger than my cell phone .####[([1], [6], 'NEG')]
-The service is great , my soup always arrives nice and hot .####[([1], [3], 'POS'), ([6], [3], 'POS'), ([6], [11], 'POS')]
-It had been awhile and I forgot just how delicious crepes can be .####[([10], [9], 'POS')]
-Montparnasse 's desserts -- especially the silken creme brulee and paper -- thin apple tart -- are good enough on their own to make the restaurant worth the trip .####[([2], [17], 'POS'), ([7, 8], [6], 'POS'), ([13, 14], [12], 'POS')]
-i had a delicious shrimp creole .####[([4, 5], [3], 'POS')]
-The chicken dinner was real good .####[([1, 2], [5], 'POS')]
-but the food was delicious .####[([2], [4], 'POS')]
-Try the ribs , sizzling beef and couple it with coconut rice .####[([2], [0], 'POS'), ([5], [0], 'POS')]
-The avocado salad is a personal fave .####[([1, 2], [6], 'POS')]
-And , the honey BBQ rib tips are yummy !####[([3, 4, 5, 6], [8], 'POS')]
-The BEST Chinese food Uptown !####[([2, 3], [1], 'POS')]
-Service is known for bending over backwards to make everyone happy .####[([0], [10], 'POS')]
-The staff is very friendly .####[([1], [4], 'POS')]
-Waiters are very friendly and the pasta is out of this world .####[([0], [3], 'POS'), ([6], [8, 9, 10, 11], 'POS')]
-Great wine list and great cocktail menu .####[([1, 2], [0], 'POS'), ([5, 6], [4], 'POS')]
-The crab cakes are delicious and the BBQ rib was perfect .####[([1, 2], [4], 'POS'), ([7, 8], [10], 'POS')]
-The food is wonderful , artfully done and simply delicious .####[([1], [3], 'POS'), ([1], [5], 'POS'), ([1], [9], 'POS')]
-Tiny restaurant with very fast service .####[([5], [4], 'POS')]
-My husband and I have been there at least 6 times and we 've always been given the highest service and often free desserts .####[([19], [18], 'POS'), ([23], [22], 'POS')]
-A beautiful atmosphere , perfect for drinks and/or appetizers .####[([2], [1], 'POS'), ([6], [4], 'NEU'), ([8], [4], 'NEU')]
-They make the best pizza in New Jersey .####[([4], [3], 'POS')]
-What a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .####[([5], [8], 'POS'), ([11], [13, 14, 15], 'POS'), ([28, 29], [27], 'POS')]
-Not to be overlooked , the service is excellent .####[([6], [8], 'POS')]
-this without question is one of the worst hotdogs i have ever had .####[([8], [7], 'NEG')]
-The staff is unbelievably friendly , and I dream about their Saag gosht ... so good .####[([1], [4], 'POS'), ([11, 12], [15], 'POS')]
-I also recommend the garlic knots .####[([4, 5], [2], 'POS')]
-Best Indian food I have ever eaten .####[([1, 2], [0], 'POS')]
-This place has the best pizza .####[([5], [4], 'POS')]
-The music which is sometimes a little too heavy for my taste .####[([1], [7, 8], 'NEG')]
-The service is excellent and always informative without an air .####[([1], [3], 'POS'), ([1], [6], 'POS')]
-The sushi is always fresh and yummy and the menu is pretty varied .####[([1], [4], 'POS'), ([1], [6], 'POS'), ([9], [12], 'POS')]
-The food was great - sushi was good , but the cooked food amazed us .####[([1], [3], 'POS'), ([5], [7], 'POS'), ([11, 12], [13], 'POS')]
-their dinner specials are fantastic .####[([1, 2], [4], 'POS')]
-Great food , great drinks , nice dining atmosphere .####[([1], [0], 'POS'), ([4], [3], 'POS'), ([7, 8], [6], 'POS')]
-Food portion was SMALL and below average .####[([0, 1], [3], 'NEG'), ([0, 1], [5, 6], 'NEG')]
-Sit back in one of those comfortable chairs .####[([7], [6], 'POS')]
-My favs here are the Tacos Pastor and the Tostada de Tinga ...####[([5, 6], [1], 'POS'), ([9, 10, 11], [1], 'POS')]
-The bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .####[([1], [7], 'POS'), ([4], [7], 'POS'), ([10], [13], 'POS'), ([10], [15], 'POS')]
-For a savory take on the soup and sandwich meal , try the hot and sour soup .####[([13, 14, 15, 16], [11], 'POS'), ([6, 7, 8, 9], [2], 'POS')]
-This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .####[([7], [6], 'POS'), ([10], [9], 'POS'), ([13], [12], 'POS'), ([16], [15], 'POS')]
-Also , the chick peas with shrimp ( appetizer ) is divine .####[([3, 4, 5, 6, 7, 8, 9], [11], 'POS')]
-Finally , I got sick of the bad service , obnoxious smirks , and snotty back talk .####[([8], [7], 'NEG')]
-We ordered lamb which was perfectly cooked and tasted awesome .####[([2], [5, 6], 'POS'), ([2], [9], 'POS')]
-i especially like their soft shell crab sandwich with fries .####[([4, 5, 6, 7, 8, 9], [2], 'POS')]
-if you 're looking for authentic hong kong-style food , look no further .####[([6, 7, 8], [5], 'POS')]
-good food good wine that 's it .####[([1], [0], 'POS'), ([3], [2], 'POS')]
-The staff was extremely friendly and pleasant .####[([1], [4], 'POS'), ([1], [6], 'POS')]
-While their kitchen food is delicious , their Sushi is out of this world .####[([2, 3], [5], 'POS'), ([8], [10, 11, 12, 13], 'POS')]
-everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .####[([7], [6], 'POS'), ([10], [9], 'POS'), ([16], [15], 'POS')]
-It 's traditional , simple italian food .####[([5, 6], [2], 'POS'), ([5, 6], [4], 'POS')]
-The food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .####[([1], [4], 'POS'), ([8], [10], 'POS')]
-( The sashimi is cut a little thinly .####[([2], [7], 'NEG')]
-In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .####[([4, 5], [3], 'POS'), ([10, 11], [9], 'POS'), ([21, 22], [18], 'POS'), ([24, 25], [18], 'POS'), ([30, 31], [28], 'POS')]
-Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .####[([8], [7], 'NEG'), ([12], [11], 'NEG'), ([20], [16], 'NEU'), ([16], [11], 'NEG')]
-Not only is the service great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .####[([4], [5], 'POS'), ([18], [22], 'POS'), ([18], [24], 'POS')]
-When the dish arrived it was blazing with green chillis , definitely not edible by a human .####[([8, 9], [12, 13], 'NEG'), ([2], [13], 'NEG')]
-The absolute worst service I 've ever experienced and the food was below average ( when they actually gave people the meals they ordered ) .####[([3], [2], 'NEG'), ([10], [12, 13], 'NEG')]
-Be sure to accompany your food with one of their fresh juice concoctions .####[([10, 11, 12], [10], 'POS')]
-The food is great and the prices are reasonable .####[([1], [3], 'POS'), ([6], [8], 'POS')]
-The place is clean , and if you like soul food , then this is the place to be !####[([1], [3], 'POS'), ([9, 10], [8], 'POS')]
-They have a very good chicken with avocado and good tuna as well .####[([5, 6, 7], [4], 'POS'), ([10], [9], 'POS')]
-But the meals were terrible .####[([2], [4], 'NEG')]
-My chicken was completely dried out and on the cold side and the sauce was not very flavorful .####[([1], [4, 5], 'NEG'), ([13], [15, 16, 17], 'NEG')]
-Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful ?####[([0, 1, 2, 3], [16], 'POS')]
-Way too much money for such a terrible meal .####[([8], [7], 'NEG')]
-However , the service is absolutely horrible .####[([3], [6], 'NEG')]
-A con was the slow bar service .####[([5, 6], [4], 'NEG')]
-Dessert was also to die for !####[([0], [4, 5], 'POS')]
-BTW , the service is very good .####[([3], [6], 'POS')]
-The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .####[([2], [1], 'NEG'), ([10], [12], 'NEG'), ([19, 20, 21], [18], 'NEG')]
-it is a cozy place to go with a couple of friends .####[([4], [3], 'POS')]
-The service is always great , and the owner walks around to make sure you enjoy .####[([1], [4], 'POS')]
-the food is delicious and highly recommended .####[([1], [3], 'POS'), ([1], [6], 'POS')]
-So for a filling and healthy meal give it a go .####[([6], [3], 'POS'), ([6], [5], 'POS')]
-Since I cook for a living , I 'm very fussy about the food I eat in restaurants .####[([13], [10], 'NEU')]
-The service was outstanding .####[([1], [3], 'POS')]
-We always enjoy the pizza .####[([4], [2], 'POS')]
-The service is pretty good .####[([1], [4], 'POS')]
-Yum , the chicken is great here .####[([3], [5], 'POS')]
-The food here was great , a treat from beginning to end .####[([1], [4], 'POS')]
-The host ( owner ) and servers are personable and caring .####[([1, 2, 3, 4], [8], 'POS'), ([1, 2, 3, 4], [10], 'POS'), ([6], [8], 'POS'), ([6], [10], 'POS')]
-It 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .####[([16], [13], 'POS'), ([16], [15], 'POS')]
-The food is very good and the service is great .####[([1], [4], 'POS'), ([7], [9], 'POS')]
-We were wondering why they were there to make our dining experience miserable ?####[([10, 11], [12], 'NEG')]
-This place has the best Indian food in New York , hands down .####[([5, 6], [4], 'POS')]
-The waiters are very friendly and helpful and if you frequent they will remember you .####[([1], [4], 'POS'), ([1], [6], 'POS')]
-Intimate but charming interior with extremely friendly and attentive service .####[([3], [2], 'POS'), ([9], [6], 'POS'), ([9], [8], 'POS')]
-The food was as creative as the decor and both worked .####[([1], [4], 'POS'), ([7], [4], 'POS')]
-The menu is great , with a good selection , and everything that I have tried is absolutely delicious .####[([1], [3], 'POS'), ([8], [7], 'POS')]
-The sauce is zesty and flavorful and the crust is nice and crispy .####[([1], [3], 'POS'), ([1], [5], 'POS'), ([8], [10], 'POS'), ([8], [12], 'POS')]
-This place has the best sushi in the city .####[([5], [4], 'POS')]
-They have an excellent selection ( the rolls with crab are really great ) .####[([4], [3], 'POS'), ([7, 8, 9], [12], 'POS')]
-Everyone who works there ( the host , the bartender , the servers ) is so helpful .####[([6], [16], 'POS'), ([9], [16], 'POS'), ([12], [16], 'POS')]
-And the food is fantastic .####[([2], [4], 'POS')]
-Favourites include : potato spinach gnocchi and the lamb .####[([3, 4, 5], [0], 'POS'), ([8], [0], 'POS')]
-But regulars know that the sandwiches are the real star here .####[([5], [9], 'POS')]
-The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending .####[([9], [8], 'POS'), ([3, 4, 5], [12], 'POS')]
-My friend had a burger and I had these wonderful blueberry pancakes .####[([10, 11], [9], 'POS')]
-We were so happy with our food and were even more thrilled when we saw the bill .####[([6], [3], 'POS'), ([16], [11], 'POS')]
-All toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .####[([1], [4], 'POS'), ([16], [19], 'POS')]
-We 've always gotten amazing service and we love the food .####[([5], [4], 'POS'), ([10], [8], 'POS')]
-The waitstaff is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .####[([1], [3], 'POS'), ([1], [5], 'POS'), ([16], [18], 'POS')]
-I 'm in love with the lobster ravioli !####[([6, 7], [3], 'POS')]
-We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal .####[([17], [15], 'POS')]
-Service is excellent , no wait , and you get a lot for the price .####[([0], [2], 'POS'), ([5], [4], 'POS')]
-I thought the food is n't cheap at all compared to Chinatown .####[([3], [4, 5, 6], 'NEG')]
-Coffee is a better deal than overpriced Cosi sandwiches .####[([0], [3], 'POS'), ([7, 8], [6], 'NEG')]
-) It 's not the best Japanese restaurant in the East Village , but it 's a pretty solid one for its modest prices , and worth repeat visits .####[([23], [22], 'POS')]
-The food is so good and so popular that waiting can really be a nightmare .####[([1], [4], 'POS'), ([1], [7], 'POS'), ([9], [14], 'NEG')]
-First walking in the place seemed to have great ambience .####[([9], [8], 'POS')]
-Even for two very hungry people there is plenty of food left to be taken home ( it reheats really well also ) .####[([10], [8], 'POS')]
-Then they somehow made a dry and burnt crust , around a raw and cold inside .####[([8], [5], 'NEG'), ([8], [7], 'NEG')]
-It 's just good food , nothing more and that 's all we want !####[([4], [3], 'POS')]
-Average cake thats been courted by a LOT of hype .####[([1], [0], 'NEG')]
-My wife and I recently visited the bistro for dinner and had a wonderful experience .####[([9], [13], 'NEU')]
-THE SERVICE IS PERFECT TOO NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT####[([1], [3], 'POS')]
-The $ 72 Delmonico steak had to be sent back because it was not cooked to order .####[([3, 4], [13, 14], 'NEG')]
-The service is really fast and friendly , and the value is great .####[([1], [4], 'POS'), ([1], [6], 'POS'), ([10], [12], 'POS')]
-We were very impressed with the food and value .####[([6], [3], 'POS'), ([8], [3], 'POS')]
-You must try the garlic soup !####[([4, 5], [2], 'POS')]
-Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .####[([3], [2], 'POS'), ([5], [2], 'POS'), ([7], [2], 'POS'), ([10, 11], [2], 'POS'), ([10, 11], [17], 'POS')]
-The pizza 's are made fresh , crispy , and ready to serve .####[([1, 2], [5], 'POS'), ([1, 2], [7], 'POS'), ([1, 2], [10, 11, 12], 'POS')]
-Staff is accomodating make sure you are satified .####[([0], [2], 'POS')]
-Reasonably priced with very fresh sushi .####[([5], [4], 'POS'), ([1], [0], 'POS')]
-All of the apetizers are good and the Sangria is very good .####[([3], [5], 'POS'), ([8], [11], 'POS')]
-The one positive thing I can say is that the service was prompt , we got seated right away and the server was very friendly .####[([10], [12], 'POS'), ([21], [24], 'POS')]
-The staff greeted me warmly at the door and I was seated promptly and the food was excellent .####[([1], [4], 'POS'), ([15], [17], 'POS')]
-Service is usually pretty good .####[([0], [4], 'POS')]
-Host and Hostess was quite rude .####[([0], [5], 'NEG'), ([2], [5], 'NEG')]
-the wait staff is very friendly , if your not rude or picky ... ... .our meal at Leon last weekend was great - .####[([1, 2], [5], 'POS'), ([16], [22], 'POS')]
-I recommend any of their salmon dishes ... ...####[([5, 6], [1], 'POS')]
-The foie gras was sweet and luscious .####[([1, 2], [4], 'POS'), ([1, 2], [6], 'POS')]
-The menu , which changes seasonally , shows both regional and international influences .####[([1], [4], 'NEU')]
-but their mac cheese was YUMMY !####[([2, 3], [5], 'POS')]
-jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more .####[([0, 1], [4], 'POS')]
-They have very quick service which is great when you do n't have much time .####[([4], [3], 'POS'), ([4], [7], 'POS')]
-The food is average : breakfast food , soups , salads , sandwiches , etc .####[([1], [3], 'NEU'), ([5, 6], [3], 'NEU'), ([8], [3], 'NEU'), ([10], [3], 'NEU'), ([12], [3], 'NEU')]
-I WAS HIGHLY DISAPPOINTED BY THE FOOD .####[([6], [3], 'NEG')]
-THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN , THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE .####[([12], [15, 16], 'NEG'), ([27, 28, 29], [26], 'NEG')]
-The staff is arrogant , the prices are way high for Brooklyn .####[([1], [3], 'NEG'), ([6], [9], 'NEG')]
-the service is prompt friendly .####[([1], [3, 4], 'POS')]
-This is literally a hot spot when it comes to the food .####[([11], [4, 5], 'POS')]
-The downstairs bar scene is very cool and chill ...####[([1, 2, 3], [6], 'POS'), ([1, 2, 3], [8], 'POS')]
-The food was definitely good , but when all was said and done , I just could n't justify it for the price ( including 2 drinks , $ 100/person ) ...####[([1], [4], 'POS')]
-If you are a Tequila fan you will not be disappointed .####[([4], [8, 9, 10], 'POS')]
-Great beer selection too , something like 50 beers .####[([1, 2], [0], 'POS'), ([8], [0], 'NEU')]
-Not to sound too negative but be wary of the delivary .####[([10], [7], 'NEG')]
-I found the food to be just as good as its owner , Da Silvano , just much less expensive .####[([3], [8], 'POS'), ([3], [17, 18, 19], 'POS'), ([11], [8], 'POS')]
-They have homemade pastas of all kinds -- I recommend the gnocchi -- yum !####[([11], [9], 'POS'), ([11], [13], 'POS')]
-My vegetable risotto was burnt , and infused totally in a burnt flavor .####[([1, 2], [4], 'NEG'), ([12], [11], 'NEG')]
-The main draw of this place is the price .####[([8], [2], 'POS')]
-But dinner here is never disappointing , even if the prices are a bit over the top .####[([1], [4, 5], 'POS'), ([10], [14, 15, 16], 'NEG')]
-Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !####[([7], [5], 'POS'), ([9], [5], 'POS'), ([11], [5], 'POS'), ([16, 17], [19, 20, 21, 22], 'POS')]
-the homemade Guacamole , the unbelievable entree , and thee most amazing deserts .####[([1, 2], [5], 'POS'), ([1, 2], [11], 'POS'), ([6], [5], 'POS'), ([12], [11], 'POS')]
-The sushi is reasonably priced and fresh .####[([1], [3, 4], 'POS'), ([1], [6], 'POS'), ([4], [3], 'POS')]
-Save room for deserts - they 're to die for .####[([3], [8, 9], 'POS')]
-The traditional Italian items are great - cheap and served in a cozy setting .####[([1, 2, 3], [5], 'POS'), ([1, 2, 3], [7], 'POS'), ([13], [12], 'POS')]
-The service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .####[([1], [5], 'NEG'), ([8], [12], 'NEG')]
-El Nidos one of the best restaurants in New York which I 've ever been to , has a great variety of tasty , mouth watering pizza 's .####[([26, 27], [19], 'POS'), ([26, 27], [22], 'POS'), ([26, 27], [24, 25], 'POS')]
-The service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .####[([1], [4], 'NEG'), ([9], [12, 13], 'NEG')]
-Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit .####[([17], [15, 16], 'POS'), ([23], [22], 'POS')]
-Chef Vincenzo , always there if you need him , is a real talent and a real Roman .####[([0], [13], 'POS')]
-If you 're looking to taste some great Indian food and want good service , definitely visit Curry Leaf .####[([8, 9], [7], 'POS'), ([13], [12], 'POS')]
-You must try Odessa stew or Rabbit stew ; salads -all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .####[([3, 4], [11], 'POS'), ([6, 7], [11], 'POS'), ([9], [11], 'POS'), ([14], [17], 'POS')]
-My daughter and I left feeling satisfied ( not stuffed ) and it felt good to know we had a healthy lunch .####[([21], [20], 'POS')]
-The quality of the meat was on par with your local grocery store .####[([1, 2, 3, 4], [6, 7], 'NEG')]
-I recommend the black roasted codfish , it was the best dish of the evening .####[([3, 4, 5], [1], 'POS'), ([3, 4, 5], [10], 'POS'), ([11], [10], 'POS')]
-The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .####[([23], [20], 'NEG')]
-In mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .####[([23], [22], 'NEG'), ([9], [8], 'NEG')]
-during busy hrs , i recommend that you make a reservation .####[([10], [5], 'NEU')]
-I went to Common Stock for brunch and I was so impressed .####[([6], [11], 'NEU')]
-now called nikki sushi , sushi is OK .####[([5], [7], 'NEU')]
-The food is also outstanding and is served quite quickly .####[([1], [4], 'POS'), ([7], [9], 'POS')]
-The food is delicious and the bar has a great vibe .####[([1], [3], 'POS'), ([6], [9], 'POS'), ([10], [9], 'POS')]
-Simple healthy unglamorous food cheap .####[([3], [0, 1, 2], 'POS'), ([3], [4], 'POS')]
-It was such a fantastic dining experience , that I returned again the same week .####[([5, 6], [4], 'POS')]
-To be fair , the food still is good and the service is quick and attentative even though its usually very busy .####[([5], [8], 'POS'), ([11], [13], 'POS'), ([11], [15], 'POS'), ([11], [21], 'POS')]
-The place is absolutely adorable and the food is delicious .####[([1], [4], 'POS'), ([7], [9], 'POS')]
-I 've had better Japanese food at a mall food court .####[([4, 5], [3], 'NEG')]
-The staff members are extremely friendly and even replaced my drink once when I dropped it outside .####[([1, 2], [5], 'POS')]
-Cool atmosphere but such a let down .####[([1], [0], 'POS')]
-The Sashimi portion are big enough to appease most people , but I did n't like the fact they used artifical lobster meat .####[([1, 2], [4], 'POS'), ([20, 21, 22], [13, 14, 15], 'NEG'), ([20, 21, 22], [20], 'NEG')]
-They have wheat crusted pizza made with really fresh and yummy ingredients .####[([11], [8], 'POS'), ([11], [10], 'POS')]
-Had a lovely dinner in this dedicated seafood joint , food was well-prepared and -presented and the service was pleasant and prompt .####[([3], [2], 'POS'), ([10], [12, 13, 14], 'POS'), ([17], [19], 'POS'), ([17], [21], 'POS')]
-the icing MADE this cake , it was fluffy , not ultra sweet , creamy and light .####[([4], [8], 'POS'), ([4], [10, 11, 12], 'POS'), ([4], [14], 'POS'), ([4], [16], 'POS')]
-Finally let into the store 5 at a time , to buy expensive slices from a harried staff .####[([17], [16], 'NEG'), ([13], [12], 'NEG')]
-We ended up having to just leave because we were essentially being ignored by the wait staff -- even though the rest of the restaurant was largely empty .####[([15, 16], [12], 'NEG')]
-The wine list is extensive , well priced and covers alot of regions .####[([1, 2], [4], 'POS'), ([7], [6], 'POS')]
-Go here if you want fresh and tasty salads of any type you can imagine .####[([8], [5], 'POS'), ([8], [7], 'POS')]
-Everything about this place is adorable - even the bathroom !####[([9], [5], 'POS')]
-Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .####[([1], [0], 'POS'), ([4], [3], 'POS'), ([7], [6], 'POS'), ([11], [10], 'POS'), ([17], [16], 'POS')]
-IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL .####[([11, 12], [10], 'NEU')]
-It took 100 years for Parisi to get around to making pizza ( at least I do n't think they ever made it before this year ) ... but it was worth the wait .####[([11], [31, 32, 33], 'POS')]
-I asked for a simple medium rare steak .####[([7], [4, 5, 6], 'NEU')]
-Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .####[([3, 4, 5], [0, 1], 'POS'), ([3, 4, 5], [9], 'POS'), ([10], [9], 'POS'), ([14, 15, 16, 17], [32, 33], 'POS')]
-Probably my worst dining experience in new york , and I 'm a former waiter so I know what I 'm talking about .####[([3, 4], [2], 'NEG')]
-Result ( red velvet ) : Great texture , soft and velvety , nice hint of cocoa .####[([7], [6], 'POS'), ([7], [9], 'POS'), ([7], [11], 'POS'), ([14, 15, 16], [13], 'POS')]
-Their twist on pizza is healthy , but full of flavor .####[([10], [8], 'POS'), ([1, 2, 3], [5], 'POS')]
-The lack of AC and the fact that there are a million swarming bodies ( although everyone is polite and no one is pushing ) is a slight turn off .####[([3], [1], 'NEG')]
-I love the Little Pie Company as much as anyone else who has written reviews , but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people .####[([30], [29], 'NEG'), ([33, 34], [29], 'NEG')]
-Unfortunately , unless you live in the neighborhood , it 's not in a convenient location but is more like a hidden treasure .####[([15], [14], 'NEG')]
-The food -- though mostly deep-fried -- is simple and satisfying .####[([1], [8], 'POS'), ([1], [10], 'POS')]
-Glechik might be way too tiny for a restaurant by Russian standards , but it is cozy and the food is simply GREAT .####[([19], [22], 'POS')]
-The food was excellent - authentic Italian cuisine made absolutely fresh .####[([1], [3], 'POS'), ([6, 7], [5], 'POS'), ([6, 7], [10], 'POS')]
-At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered .####[([3], [4], 'POS')]
-The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .####[([31], [30], 'POS'), ([35], [34], 'POS'), ([37], [34], 'POS')]
-I would only go for the coffee which is way better than Starbucks or the like .####[([6], [10], 'POS')]
-Somewhat disappointing wine list ( only new vintages .####[([2, 3], [1], 'NEG')]
-If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be ! !####[([6], [5], 'NEG'), ([7], [4, 5, 6], 'NEG')]
-new hamburger with special sauce is ok - at least better than big mac !####[([0, 1, 2, 3, 4], [6], 'POS'), ([12, 13], [10, 11], 'NEG')]
-Perfectly al dente pasta , not drowned in sauce -- generous portions .####[([3], [0], 'POS'), ([8], [5, 6, 7], 'NEU'), ([11], [10], 'POS')]
-Service was awful - mostly because staff were overwhelmed on a Saturday night .####[([0], [2], 'NEG'), ([6], [8], 'NEG')]
-To the owners ; good job guys , this place is a keeper !####[([2], [4], 'POS')]
-and the owner is simply lovely and friendly .####[([2], [5], 'POS'), ([2], [7], 'POS')]
-This little place is wonderfully warm welcoming .####[([2], [4, 5, 6], 'POS')]
-perfect for a quick meal .####[([4], [0], 'POS'), ([4], [3], 'POS')]
-Has the warmth of a family local yet it is a great place to watch sporting events .####[([12], [11], 'POS')]
-The service was great , and they have a whole great deal for birthdays .####[([1], [3], 'POS')]
-The staff is 100 % Italian and the food is as authentic as it gets .####[([8], [11], 'POS')]
-My only complaint might be the fortune cookies - I 've never had a cookie predict bad luck for me before I visited Kar .####[([6, 7], [2], 'NEG')]
-Good for a quick sushi lunch .####[([4, 5], [0], 'POS'), ([4, 5], [3], 'POS')]
-The service was dreadfully slow ( the place was only half full ) and a smile would have been nice ...####[([1], [3, 4], 'NEG')]
-I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .####[([9], [8], 'POS')]
-I reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .####[([3, 4, 5], [1], 'POS'), ([8, 9], [1], 'POS'), ([13, 14], [1], 'POS')]
-You will not be dissapointed by any of the choices in the menu .####[([12], [2, 3, 4], 'POS')]
-The french fries -- with the kalmata dip were terrific !####[([1, 2, 3, 4, 5, 6, 7], [9], 'POS')]
-The boutique selection of wines covers a wide variety without being imposeing .####[([1, 2, 3, 4], [7], 'NEU')]
-They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare .####[([5, 6, 7], [4], 'POS'), ([15, 16, 17], [4], 'NEU')]
-Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .####[([0, 1], [0], 'POS'), ([0, 1], [45], 'POS'), ([6, 7, 8], [45], 'POS'), ([10], [45], 'POS'), ([12], [45], 'POS'), ([14], [45], 'POS'), ([16], [45], 'POS'), ([18], [45], 'POS'), ([20, 21], [45], 'POS'), ([24, 25], [45], 'POS'), ([28, 29], [45], 'POS'), ([31, 32], [45], 'POS'), ([34, 35], [45], 'POS'), ([39], [45], 'POS')]
-Disappointingly , their wonderful Saketini has been taken off the bar menu .####[([4], [3], 'POS'), ([10, 11], [0], 'NEG')]
-I would definitely go back -- if only for some of those exotic martinis on the blackboard .####[([13], [12], 'POS')]
-The happy hour is so cheap , but that does not reflect the service or the atmosphere .####[([1, 2], [5], 'POS')]
-After waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .####[([8], [9], 'NEG')]
-With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere .####[([22], [20], 'POS'), ([24], [20], 'POS')]
-A mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .####[([14], [17], 'NEG'), ([14], [19], 'NEG'), ([23], [22], 'POS'), ([20], [19], 'POS')]
-Give it a try , menu is typical French but varied .####[([5], [7, 8], 'NEU'), ([5], [10], 'NEU')]
-It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice .####[([10], [8], 'POS')]
-the negative reviews on city search are probably from jealous competing restaurants who realize they ca n't compete with Temple 's entire positive attitude about the proper way to treat their customers and deliver top quality food .####[([36], [34, 35], 'POS'), ([23], [22], 'POS')]
-Overall , this is a nice place to take a few friends to hang out at and the service is excellent .####[([6], [5], 'POS'), ([18], [20], 'POS')]
-Food is excellent quality for a good restaurant price .####[([0], [2], 'POS'), ([8], [6], 'POS')]
-for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and dessert .####[([8], [7], 'POS'), ([11], [7], 'POS')]
-The space is traditional in feel .####[([1], [3], 'NEU')]
-the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .####[([1], [3], 'NEG'), ([9], [11], 'NEG'), ([9], [13], 'NEG'), ([16], [21], 'NEG'), ([16], [24], 'NEG'), ([16], [26], 'NEG')]
-Good service , great food , good value , and never have to wait in line !####[([1], [0], 'POS'), ([4], [3], 'POS'), ([7], [6], 'POS'), ([13], [10], 'POS')]
-Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast .####[([6, 7, 8], [10], 'NEU'), ([2, 3], [10], 'NEU')]
-I have been going to this restaurant for years , in the past the service was average and the food inconsistant .####[([14], [16], 'NEU'), ([19], [20], 'NEG')]
-The music was fascinating , but left room for conversation , and the bartender made superb drinks .####[([1], [3], 'POS'), ([13], [15], 'POS'), ([16], [15], 'POS')]
-rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !####[([14, 15], [13], 'POS')]
-Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .####[([1], [0], 'POS'), ([3, 4, 5, 6, 7, 8, 9], [0], 'POS'), ([11, 12, 13, 14, 15, 16, 17, 18], [20], 'POS'), ([26, 27], [20], 'NEU')]
-Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .####[([0], [17], 'POS'), ([18], [17], 'POS'), ([22, 23, 24], [17], 'POS'), ([28, 29, 30, 31, 32], [17], 'POS'), ([28, 29, 30, 31, 32], [28], 'POS')]
-The cold sesame noodles , which are a freebie when you order $ 10+ , are delectable .####[([1, 2, 3], [16], 'POS')]
-I came to fresh expecting a great meal , and all I got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .####[([16], [14, 15], 'NEG')]
-The lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $ 2.99/lb at the store .####[([11, 12, 13, 14], [10], 'NEG')]
-I went to Swiftys with some friends of the family and we had a very nice dinner , but nothing amazing .####[([16], [15], 'POS')]
-Best Chinese on the Upper East , prompt delivery , good value .####[([8], [7], 'POS'), ([11], [10], 'POS')]
-Most of the sandwiches are made with soy mayonaise which is actually pretty good .####[([3], [13], 'POS')]
-i went in one day asking for a table for a group and was greeted by a very rude hostess .####[([19], [18], 'NEG')]
-It 's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea .####[([13], [12], 'POS')]
-Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .####[([4], [5], 'POS'), ([9], [13], 'POS'), ([9], [17], 'POS'), ([9], [19], 'POS')]
-It has good music , nice tapas , an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele .####[([3], [2], 'POS'), ([6], [5], 'POS'), ([10, 11, 12, 13, 14, 15, 16], [9], 'POS'), ([22], [19, 20], 'POS')]
-The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .####[([1], [3], 'POS'), ([8], [6], 'POS'), ([10, 11, 12], [6], 'POS'), ([14], [6], 'POS'), ([16, 17], [6], 'POS')]
-It 's the conversations that make this a fun place to be .####[([9], [8], 'POS')]
-My gf 's duck confitte was very solid as well , although i have little base of reference .####[([3, 4], [7], 'POS')]
-The wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .####[([1, 2], [4], 'POS'), ([7], [8], 'POS'), ([13], [12], 'POS'), ([13], [14], 'POS')]
-You can eat gourmet food at a fast food price .####[([4], [3], 'POS')]
-I 've eaten at all three locations and I always love , love the food , the service is always wonderful and the prices are really reasonable .####[([14], [12], 'POS'), ([17], [20], 'POS'), ([23], [26], 'POS')]
-Not because I was pregnant , but the food here is always delicious .####[([8], [12], 'POS')]
-Had a great meal there this weekend before heading to the movies !####[([3], [2], 'POS')]
-We had a birthday party here recently and the food and service was amazing .####[([9], [13], 'POS'), ([11], [13], 'POS')]
-the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .####[([1, 2], [5], 'POS'), ([1, 2], [7], 'POS'), ([8], [7], 'POS'), ([12], [11], 'POS'), ([15], [14], 'POS')]
-This place has the strangest menu and the restaurants tries too hard to make fancy food .####[([5], [4], 'NEG'), ([15], [14], 'NEG')]
-The appetizers are ok , but the service is slow .####[([1], [3], 'NEU'), ([7], [9], 'NEG')]
-the food - not worth the price .####[([1], [3, 4], 'NEG'), ([6], [3, 4], 'NEG')]
-What can you say about a place where the waitress brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .####[([14], [13], 'NEU')]
-The prices are not terrible .####[([1], [3, 4], 'POS')]
-The halibut cheek appetizer came with a generous portion of foie gras , but that 's about the only positive thing I can say about the meal .####[([1, 2, 3], [19], 'NEU'), ([8, 9, 10, 11], [7], 'POS')]
-Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .####[([0], [2], 'POS'), ([7], [2], 'POS'), ([9], [12], 'POS'), ([15, 16], [12], 'POS')]
-Both a number of the appetizer and pasta specials were amazing .####[([7, 8], [10], 'POS'), ([5], [10], 'POS')]
-All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .####[([4, 5], [1], 'POS'), ([7, 8], [1], 'POS'), ([10, 11], [1], 'POS'), ([13, 14, 15, 16, 17], [1], 'POS'), ([22, 23], [19, 20], 'NEU')]
-It 's a basic pizza joint , not much to look at , but the pizza is what I go for .####[([15], [19, 20], 'POS')]
-Tables are close , so you better be comfortable bumping elbows with other patrons .####[([0], [2], 'NEG')]
-Not too much so , but enough that there 's a great scene .####[([12], [11], 'POS')]
-Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .####[([7, 8], [6], 'POS'), ([16], [13], 'POS'), ([18], [13], 'POS'), ([21], [13], 'POS'), ([23], [13], 'POS')]
-At peak times , the restaurant is overcrowded and tables are uncomfortably close .####[([9], [11, 12], 'NEG')]
-The service was on point - what else you would expect from a Ritz ?####[([1], [3, 4], 'POS')]
-Menus feature seasonal picks , like sweet corn-foie gras brulee .####[([0], [2], 'NEU')]
-Innovations are just as assured , from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .####[([9, 10, 11, 12, 13, 14], [8], 'POS'), ([25, 26, 27], [24], 'POS')]
-And these are not small , wimpy fast food type burgers - these are real , full sized patties .####[([10], [4], 'POS'), ([10], [6, 7, 8, 9], 'POS'), ([18], [14], 'POS'), ([18], [16, 17], 'POS')]
-There restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .####[([9], [7], 'NEU'), ([13, 14], [18], 'POS')]
-Chinatown definitely has better quality with cheaper prices .####[([4], [3], 'POS'), ([7], [6], 'POS')]
-Go with the specials , and stay away from the salmon .####[([3], [0, 1], 'POS'), ([10], [6, 7], 'NEG')]
-The pastas were pretty good .####[([1], [4], 'POS')]
-Atmosphere is a bore .####[([0], [3], 'NEG')]
-The wait staff was very attentive and polite .####[([1, 2], [5], 'POS'), ([1, 2], [7], 'POS')]
-Great restaurant , and even greater food !####[([6], [5], 'POS')]
-The dishes are remarkably tasty and such a cozy and intimate place !####[([1], [4], 'POS'), ([11], [8], 'POS'), ([11], [10], 'POS')]
-I love the simplicity and respect which was given to the food , as well the staff was freindly and knowledgable .####[([11], [1], 'POS'), ([11], [3], 'POS'), ([11], [5], 'POS'), ([16], [1], 'POS'), ([16], [18], 'POS'), ([16], [20], 'POS')]
-Service was good and so was the atmosphere .####[([0], [2], 'POS'), ([7], [2], 'POS')]
-MY date and I both ordered the Branzini and both felt the fish was very average .####[([7], [15], 'NEU'), ([12], [15], 'NEG')]
-The food was good , the service prompt , and the price very reasonable .####[([1], [3], 'POS'), ([6], [7], 'POS'), ([11], [13], 'POS')]
-Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !####[([1], [0], 'POS'), ([5], [3, 4], 'POS'), ([8], [7], 'POS')]
-Great food , good wine and an excellent host .####[([1], [0], 'POS'), ([4], [3], 'POS'), ([8], [7], 'POS')]
-Pizzas were excellent in addition to appetizers and main courses .####[([0], [2], 'POS')]
-Definitely try the calamari , any pasta , or even the Sliced steak entree .####[([3], [1], 'POS'), ([6], [1], 'POS'), ([11, 12, 13], [1], 'POS')]
-The caeser salad was great .####[([1, 2], [4], 'POS')]
-The fried calamari was even better !####[([1, 2], [5], 'POS')]
-The food was good overall .####[([1], [3], 'POS')]
-The food was outstanding and the service was tops .####[([1], [3], 'POS'), ([6], [8], 'POS')]
-The portions are very large and the service is fantastic ! !####[([1], [4], 'POS'), ([7], [9], 'POS')]
-I recomend the chicken milanese .####[([3, 4], [1], 'POS')]
-excellent tapas at great prices , romantic , small but not overly crowed , excellent####[([1], [0], 'POS'), ([4], [3], 'POS')]
-The chocolate raspberry cake is heavenly -- not too sweet , but full of flavor .####[([1, 2, 3], [5], 'POS'), ([1, 2, 3], [7, 8, 9], 'POS'), ([1, 2, 3], [12, 13, 14], 'POS'), ([14], [12], 'POS')]
-Our waiter was helpful and charming , the food was perfect , and the wine was good , too .####[([1], [3], 'POS'), ([1], [5], 'POS'), ([8], [10], 'POS'), ([14], [16], 'POS')]
-Best hot dogs in the tri-state area .####[([1, 2], [0], 'POS')]
-The service was very attentive and very generous .####[([1], [4], 'POS'), ([1], [7], 'POS')]
-We had tons of great food , wine , and desserts .####[([5], [4], 'POS'), ([7], [4], 'POS'), ([10], [4], 'POS')]
-Really Lovely dining experience in the midst of buzzing midtown area .####[([2, 3], [1], 'POS')]
-The food really is n't very good and the service is terrible .####[([1], [3, 4, 5, 6], 'NEG'), ([9], [11], 'NEG')]
-Not only do they have the best escargot in town , they always try to accomodate our toddler .####[([7], [6], 'POS')]
-The Deco and ambiance was really romantic .####[([1], [6], 'POS'), ([3], [6], 'POS')]
-Just go in and sample the greatest french food west of Daniel .####[([7, 8], [6], 'POS')]
-Finally a curry that I can eat , enjoy and not suffer from gastritis from 3 hours later .####[([2], [8], 'POS')]
-All are GREAT - poori , naan , paratha all FRESH .####[([4], [2], 'POS'), ([6], [2], 'POS'), ([8], [10], 'POS')]
-Try the homemade breads .####[([2, 3], [0], 'POS')]
-This place has beautiful sushi , and it 's delicious CHEAP .####[([4], [3], 'POS'), ([4], [9, 10], 'POS')]
-It also has lots of other Korean dishes that are affordable and just as yummy .####[([6, 7], [10], 'POS'), ([6, 7], [14], 'POS')]
-Not only was the waiter efficient and courteous , but also extremely helpful .####[([4], [5], 'POS'), ([4], [12], 'POS')]
-This place is classy , chic , the service is warm and hospitable , and the food is outstanding .####[([1], [3], 'POS'), ([1], [5], 'POS'), ([8], [10], 'POS'), ([8], [12], 'POS'), ([16], [18], 'POS')]
-Great burgers , grilled cheeses and french fries .####[([1], [0], 'POS'), ([3, 4], [0], 'POS'), ([6, 7], [0], 'POS')]
-The Yellowfin Tuna and Calf 's liver are my favorites !####[([1, 2], [9], 'POS'), ([4, 5, 6], [9], 'POS')]
-Sushi so fresh that it crunches in your mouth .####[([0], [2], 'POS')]
-But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet .####[([13], [17], 'NEG')]
-Not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !####[([4], [5], 'POS'), ([27], [25], 'POS')]
-good variety but nothing surprising .####[([1], [0], 'POS')]
-No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .####[([1, 2], [0], 'NEU'), ([5], [4], 'NEU'), ([8, 9], [7], 'NEU'), ([12, 13], [11], 'NEU'), ([16, 17], [15], 'NEU')]
-Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .####[([1], [0], 'NEU'), ([19, 20], [16], 'POS'), ([19, 20], [18], 'POS')]
-The homage to India is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .####[([10, 11, 12], [9], 'POS'), ([26, 27], [30, 31], 'POS'), ([26, 27], [33], 'POS')]
-The ground chickpea soup we sampled as a starter tasted somewhat thin .####[([1, 2, 3], [11], 'NEG'), ([8], [11], 'NEU')]
-The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .####[([1], [10], 'NEG'), ([17], [16], 'NEG'), ([22], [30], 'NEG'), ([22], [32], 'NEG'), ([43], [39], 'NEG')]
-If you 're in the neighborhood , definitely stop by for a great meal .####[([13], [12], 'POS')]
-Although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .####[([6], [5], 'POS'), ([9], [8], 'POS'), ([12], [14], 'POS'), ([12], [24], 'POS'), ([28], [27], 'POS')]
-Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .####[([9], [18], 'POS'), ([11], [18], 'POS'), ([13], [18], 'POS'), ([15, 16], [18], 'NEU')]
-Hip boutiques and bars on Ludlow add to the artsy , laid-back atmosphere at this Israeli-style takeout and eat-in burger joint .####[([12], [9], 'POS'), ([12], [11], 'POS')]
-My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .####[([6], [3], 'POS'), ([6], [5], 'POS'), ([11, 12], [8], 'NEU'), ([11, 12], [10], 'NEU'), ([15, 16, 17, 18], [8], 'NEU'), ([15, 16, 17, 18], [10], 'NEU'), ([20, 21, 22, 23], [8], 'NEU'), ([20, 21, 22, 23], [10], 'NEU'), ([25, 26, 27, 28], [8], 'NEU'), ([25, 26, 27, 28], [10], 'NEU'), ([30, 31, 32, 33, 34], [8], 'NEU'), ([30, 31, 32, 33, 34], [10], 'NEU'), ([37, 38, 39, 40, 41, 42, 43], [8], 'NEU'), ([37, 38, 39, 40, 41, 42, 43], [10], 'NEU')]
-His food is excellent ( and not expensive by NYC standards- no entrees over $ 30 , most appetizers $ 12 to 14 ) .####[([1], [3], 'POS'), ([18], [6, 7], 'POS')]
-The food is consistant and good but how it got name Best Diner In Manhattan is beyond me .####[([1], [3], 'POS'), ([1], [5], 'POS')]
-The pasta primavera was outstanding as well , lots of fresh veggies .####[([1, 2], [4], 'POS'), ([10, 11], [8], 'POS')]
-do n't get me wrong - sushi was good , just not fantastic .####[([6], [8], 'POS'), ([6], [11, 12], 'POS')]
-Been to the one in Brooklyn for over 25 years , now I dont have to go over the bridge for the best pizza ... .Hanx####[([23], [22], 'POS')]
-Had dinner here on a Friday and the food was great .####[([8], [10], 'POS')]
-We recently spent New Year 's Eve at the restaurant , and had a great experience , from the wine to the dessert menu .####[([19], [14], 'POS'), ([22, 23], [14], 'POS')]
-Highly recommended ... As stated , I have n't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .####[([27], [26], 'POS'), ([32], [34], 'POS')]
-The ambiance was fine , a little loud but still nice and romantic .####[([1], [3], 'POS'), ([1], [7], 'POS'), ([1], [10], 'POS'), ([1], [12], 'POS')]
-but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ) .####[([3, 4], [6, 7, 8], 'NEG'), ([18, 19], [17], 'POS'), ([15], [14], 'POS')]
-Can be a bit busy around peak times because of the size .####[([11], [4], 'NEG')]
-I was on jury duty , rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade .####[([25, 26], [24], 'POS'), ([28, 29], [24], 'POS'), ([22], [20], 'POS')]
-good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .####[([1], [0], 'POS'), ([15], [14], 'NEU'), ([18, 19], [17], 'NEU')]
-Very nice touch that very much fits the place .####[([8], [1], 'POS')]
-However , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .####[([18, 19], [16], 'POS'), ([10], [7], 'POS')]
-The comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .####[([13], [30], 'POS'), ([17, 18], [30], 'POS'), ([23, 24, 25, 26, 27], [30], 'POS')]
-Slow service , but when you 're hanging around with groups of 10 or 20 , who really notices ?####[([1], [0], 'NEG')]
-The sauce is excellent ( very fresh ) with dabs of real mozzarella .####[([1], [3], 'POS'), ([1], [6], 'POS')]
-Do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .####[([6], [8], 'NEG'), ([14], [23], 'NEG'), ([26], [23], 'NEG')]
-The room is a little plain , but it 's difficult to make such a small place exciting and I would not suggest that as a reason not to go .####[([1], [5], 'NEG')]
-Prices even outside of restaurant week were great .####[([0], [7], 'POS')]
-A small , outdoor eating area makes for a private , comfortable space to study alone or meet up with friends .####[([12], [9], 'POS'), ([12], [11], 'POS'), ([3, 4, 5], [1], 'POS')]
-The best dessert , a chocolate and peanut butter tart , is n't particularly Hawaiian , but it 's a small world when it comes to sweets .####[([2], [1], 'POS')]
-for an appetizer , their calamari is a winner .####[([2], [8], 'NEU'), ([5], [8], 'POS')]
-The room is a gorgeous , bi-level space and the long bar perfect for a drink .####[([1], [4], 'POS'), ([6, 7], [4], 'POS'), ([10, 11], [12], 'POS')]
-Two complaints- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .####[([3, 4], [5], 'NEG')]
-I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .####[([32], [29], 'POS'), ([32], [31], 'POS')]
-The chicken and falafel platters were nondescript combinations with fresh leaf salad .####[([1, 2, 3, 4], [6], 'NEU'), ([9, 10, 11], [9], 'NEU')]
-several times and put up with the waiters ' bad manners , knowing that their job is n't easy .####[([7], [9], 'NEG')]
-The service is great ( maybe even borderline nagging but at least you get attention ) , the desserts are excellent and the coffee is so very good ...####[([18], [20], 'POS'), ([23], [27], 'POS')]
-They are served on Focacchia bread and are to die for .####[([4, 5], [9, 10], 'NEU')]
-While the smoothies are a little big for me , the fresh juices are the best I have ever had !####[([2], [6], 'NEG'), ([11, 12], [15], 'POS')]
-The food is just OKAY , and it 's almost not worth going unless you 're getting the pialla , which is the only dish that 's really good .####[([18], [28], 'POS'), ([24], [28], 'POS')]
-The guac is fresh , yet lacking flavor , we like to add our fresh salsa into it .####[([7], [6], 'NEG')]
-The new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but I must agree with the person that wrote about their favorite words : No , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .####[([25], [23], 'NEG'), ([1, 2], [6], 'POS')]
-It ' only open for lunch but the food is so good !####[([8], [11], 'POS')]
-How can they survive serving mediocre food at exorbitant prices ? !####[([6], [5], 'NEU'), ([9], [8], 'NEG')]
-The food was mediocre and the service was severely slow .####[([6], [8, 9], 'NEG'), ([1], [3], 'NEU')]
-i have eaten here on a different occasion - the food is mediocre for the prices .####[([10], [12], 'NEU')]
-I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .####[([20], [19], 'NEG')]
-Sweet Irish bartender is always happy and able to bring a smile to my friends a my face .####[([2], [0], 'POS'), ([2], [5], 'POS')]
-Its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .####[([29], [32], 'NEG'), ([6], [1], 'NEU')]
-Anyway , the owner was fake .####[([3], [5], 'NEG')]
-Owner is pleasant and entertaining .####[([0], [2], 'POS'), ([0], [4], 'POS')]
-Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .####[([0, 1], [0], 'POS'), ([0, 1], [21], 'POS'), ([24, 25], [24], 'NEU'), ([3], [0], 'POS'), ([5, 6], [21], 'POS'), ([9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], [21], 'POS')]
+The bread is top notch as well .####bread | top notch | positive | true
+I have to say they have one of the fastest delivery times in the city .####delivery times | fastest | positive | true
+Food is always fresh and hot ready to eat !####Food | fresh | positive | true]; [Food | hot | positive | true
+Did I mention that the coffee is OUTSTANDING ?####coffee | OUTSTANDING | positive | true
+Certainly not the best sushi in New York , however , it is always fresh , and the place is very clean , sterile .####place | clean | positive | true
+I trust the people at Go Sushi , it never disappoints .####people | trust | positive | true
+Straight-forward , no surprises , very decent Japanese food .####Japanese food | decent | positive | true
+BEST spicy tuna roll , great asian salad .####asian salad | great | positive | true]; [spicy tuna roll | BEST | positive | true
+Try the rose roll ( not on menu ) .####rose roll | Try | positive | true
+I love the drinks , esp lychee martini , and the food is also VERY good .####drinks | love | positive | true]; [lychee martini | love | positive | true]; [food | good | positive | true
+While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .####menu | decent | positive | true
+Once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .####food | top-notch | positive | true]; [live entertainment | top-notch | positive | true
+Our waiter was horrible ; so rude and disinterested .####waiter | horrible | negative | true]; [waiter | rude | negative | true]; [waiter | disinterested | negative | true
+The sangria 's - watered down .####sangria | watered down | negative | true
+menu - uneventful , small .####menu | uneventful | negative | true]; [menu | small | negative | true
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price .####sushi | fresh | positive | true]; [portions | great | positive | true]; [price | reasonable | positive | true
+Great food but the service was dreadful !####food | Great | positive | true]; [service | dreadful | negative | true
+The portions of the food that came out were mediocre .####portions of the food | mediocre | neutral | true
+From the beginning , we were met by friendly staff memebers , and the convenient parking at Chelsea Piers made it easy for us to get to the boat .####staff memebers | friendly | positive | true]; [parking | convenient | positive | true
+Desserts are almost incredible : my personal favorite is their Tart of the Day .####Desserts | incredible | positive | true]; [Tart of the Day | favorite | positive | true
+The food was extremely tasty , creatively presented and the wine excellent .####food | tasty | positive | true]; [food | creatively presented | positive | true]; [wine | excellent | positive | true
+THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED .####LASAGNA | BEST | positive | true
+Harumi Sushi has the freshest and most delicious array of sushi in NYC .####array of sushi | freshest | positive | true]; [array of sushi | most delicious | positive | true
+I highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .####cuisine | superb | positive | true]; [owners | friendly | positive | true]; [staff | friendly | positive | true
+If you 're craving some serious indian food and desire a cozy ambiance , this is quiet and exquisite choice .####indian food | serious | positive | true]; [ambiance | cozy | positive | true
+I definitely enjoyed the food as well .####food | enjoyed | positive | true
+It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .####service | delightful | positive | true]; [garden | adorable | positive | true]; [food | delectable | positive | true]; [appetizers | delectable | positive | true]; [entrees | delectable | positive | true
+The food is surprisingly good , and the decor is nice .####food | good | positive | true]; [decor | nice | positive | true
+How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners !####lunch | power | negative | true]; [dinners | power | negative | true
+Two wasted steaks -- what a crime !####steaks | wasted | negative | true
+The staff should be a bit more friendly .####staff | friendly | negative | true
+I think the meatball parm is good .####meatball parm | good | positive | true
+If you want good tasting , well seasoned latin food eat at Cabana and you ca n't go wrong .####latin food | good tasting | positive | true]; [latin food | well seasoned | positive | true
+Definitely try the taglierini with truffles - it was incredible .####taglierini with truffles | try | positive | true]; [taglierini with truffles | incredible | positive | true
+Also , the staff is very attentive and really personable .####staff | attentive | positive | true]; [staff | personable | positive | true
+The gnocchi literally melts in your mouth !####gnocchi | melts | positive | true
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .####staff | pleasant | positive | true]; [food | tasty | positive | true]; [portion size | large | positive | true]; [portobello/gorgonzola/sausage appetizer | recommend | positive | true]; [lobster risotto | recommend | positive | true
+The food is good , the teriyaki I recommend .####food | good | positive | true]; [teriyaki | recommend | positive | true
+Meal was very expensive for what you get .####Meal | expensive | negative | true
+Try the Peanut Butter Sorbet and the pizza with soy cheese !####Peanut Butter Sorbet | Try | positive | true]; [pizza with soy cheese | Try | positive | true
+Good food at the right price , what more can you ask for .####food | Good | positive | true]; [price | right | positive | true
+The food is top notch , the service is attentive , and the atmosphere is great .####food | top notch | positive | true]; [service | attentive | positive | true]; [atmosphere | great | positive | true
+Great food , great waitstaff , great atmosphere , and best of all GREAT beer !####food | Great | positive | true]; [waitstaff | great | positive | true]; [atmosphere | great | positive | true]; [beer | best | positive | true]; [beer | GREAT | positive | true
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere .####food | inexpensive | positive | true]; [food | good | positive | true]; [kimono shrimp special | excellent | positive | true]; [atmosphere | great | positive | true
+The menu is interesting and quite reasonably priced .####menu | interesting | positive | true]; [menu | reasonably priced | positive | true]; [priced | reasonably | positive | true
+The food was delicious and clearly fresh ingredients were used .####food | delicious | positive | true]; [ingredients | fresh | positive | true
+This made it obvious that the food was n't cooked fresh ; it was obviously made before hand and then reheated .####food | was n't cooked fresh | negative | true
+Appetizer are excellent here ; you can make a great ( and inexpensive ) meal out of them .####Appetizer | excellent | positive | true]; [meal | great | positive | true]; [meal | inexpensive | positive | true
+The spicy mussels are a highlight .####spicy mussels | highlight | positive | true
+Also get the Onion Rings -- best we 've ever had .####Onion Rings | best | positive | true
+However , being foodies , we were utterly disappointed with the food .####food | utterly disappointed | negative | true
+Huge portions , great and attentive service , and pretty good prices .####portions | Huge | positive | true]; [service | great | positive | true]; [service | attentive | positive | true]; [prices | good | positive | true
+I was highly disappointed by their service and food .####service | disappointed | negative | true]; [food | disappointed | negative | true
+I complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .####waiter | rudeness | negative | true]; [manager | rudeness | negative | true
+The food is great and the milkshakes are even better !####food | great | positive | true]; [milkshakes | better | positive | true
+the mushroom barley soup is amazing .####mushroom barley soup | amazing | positive | true
+I 'm glad I did as the food was very good and the staff was friendly , courteous and efficient .####food | good | positive | true]; [staff | friendly | positive | true]; [staff | courteous | positive | true]; [staff | efficient | positive | true
+Their duck here is also absolutely delicious .####duck | delicious | positive | true
+While it was large and a bit noisy , the drinks were fantastic , and the food was superb .####drinks | fantastic | positive | true]; [food | superb | positive | true
+One caveat : Some of the curried casseroles can be a trifle harsh .####curried casseroles | harsh | negative | true
+The food was almost always EXCELLENT .####food | EXCELLENT | positive | true
+I was pleasantly surprised at the taste .####taste | pleasantly surprised | positive | true
+A nice space , as long as it does n't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers .####seafood | great | positive | true
+they really provide a relaxing , laid-back atmosphere .####atmosphere | relaxing | positive | true]; [atmosphere | laid-back | positive | true
+This particular location certainly uses substandard meats .####meats | substandard | negative | true
+The Management was less than accomodating .####Management | less than accomodating | negative | true
+The ambience is also more laid-back and relaxed .####ambience | laid-back | positive | true]; [ambience | relaxed | positive | true
+the teas are great and all the sweets are homemade .####teas | great | positive | true]; [sweets | homemade | positive | true
+mojitos and the service are the best part in there####mojitos | best | positive | true]; [service | best | positive | true
+Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .####Sandwiches | classic successes | positive | true]; [burgers | classic successes | positive | true]; [salads | classic successes | positive | true]; [lemon-dressed cobb | classic successes | positive | true
+The design is very intimate and romantic .####design | intimate | positive | true]; [design | romantic | positive | true
+The food was wonderful and imaginative .####food | wonderful | positive | true]; [food | imaginative | positive | true
+The staff is very sharp and they look good too .####staff | sharp | positive | true]; [staff | good | positive | true
+The worst though was the taste .####taste | worst | negative | true
+The fajita we tried was tasteless and burned and the mole sauce was way too sweet .####fajita | tasteless | negative | true]; [fajita | burned | negative | true]; [mole sauce | too sweet | negative | true
+The atmosphere is warm , comfortable , artsy and sexy .####atmosphere | warm | positive | true]; [atmosphere | artsy | positive | true]; [atmosphere | sexy | positive | true
+The food is great ( big selection , reasonable prices ) and the drinks are really good .####food | great | positive | true]; [selection | big | positive | true]; [prices | reasonable | positive | true]; [drinks | good | positive | true
+The food did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .####waiters | cute | positive | true]; [waiters | friendliness | positive | true
+Most importantly , it is reasonably priced .####priced | reasonably | positive | true
+The selection of food is excellent ( I 'm not used to having much choice at restaurants ) , and the atmosphere is great .####selection of food | excellent | positive | true]; [atmosphere | great | positive | true
+Only suggestion is that you skip the dessert , it was overpriced and fell short on taste .####dessert | overpriced | negative | true]; [taste | short | negative | true
+Food was decent , but not great .####Food | decent | positive | true]; [Food | not great | positive | true
+it is a hidden delight complete with a quaint bar and good food .####bar | quaint | positive | true]; [food | good | positive | true
+The waiters ALWAYS look angry and even ignore their high-tipping regulars .####waiters | angry | negative | true
+the atmosphere is very nice , and a welcome escape from the rest of the SI mall .####atmosphere | nice | positive | true
+Yes , they 're a bit more expensive then typical , but then again , so is their food .####food | more expensive then typical | positive | true
+I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .####wraps | fresh | positive | true]; [wraps | tasty | positive | true]; [burgers | fresh | positive | true]; [burgers | tasty | positive | true]; [salads | fresh | positive | true]; [salads | tasty | positive | true]; [mango margareta | WELL WORTH | positive | true
+The service we experienced was friendly and good .####service | friendly | positive | true]; [service | good | positive | true
+Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with .####waiter | friendly | positive | true
+The folding chair I was seated at was uncomfortable .####folding chair | uncomfortable | negative | true
+Service was among the best I have ever had in NYC .####Service | best | positive | true
+The fettucino alfredo was amazing .####fettucino alfredo | amazing | positive | true
+The food was very good and I was pleasantly surprised to see so many vegan options .####food | good | positive | true]; [vegan options | many | positive | true
+Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...####Smoked Trout | try | positive | true]; [Lamb Chops | try | positive | true]; [Veal Chops | try | positive | true]; [Rabbit | try | positive | true]; [potato gratin | try | positive | true
+Even when the chef is not in the house , the food and service are right on target .####food | right on target | positive | true]; [service | right on target | positive | true
+Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .####eggs benedict | well | positive | true]; [eggs benedict | tasty | positive | true]; [mussels | well | positive | true]; [mussels | tasty | positive | true]; [hamburger | well | positive | true]; [hamburger | tasty | positive | true
+The waiters were very professional , courteous and attentive .####waiters | professional | positive | true]; [waiters | courteous | positive | true]; [waiters | attentive | positive | true
+The falafal was rather over cooked and dried but the chicken was fine .####falafal | over cooked | negative | true]; [falafal | dried | negative | true]; [chicken | fine | positive | true
+I highly recommend the grand marnier shrimp , it 's insanely good .####grand marnier shrimp | recommend | positive | true]; [grand marnier shrimp | good | positive | true
+We been there and we really enjoy the food , was areally great food , and the service was really good .####food | enjoy | positive | true]; [food | great | positive | true]; [service | good | positive | true
+I was starving and the small portions were driving me crazy !####portions | small | negative | true
+The wait staff was loud and inconsiderate .####wait staff | loud | negative | true]; [wait staff | inconsiderate | negative | true
+However , the food and service and dramatically lacking .####food | lacking | negative | true]; [service | lacking | negative | true
+The sushi is cut in blocks bigger than my cell phone .####sushi | bigger | negative | true
+The service is great , my soup always arrives nice and hot .####service | great | positive | true]; [soup | great | positive | true]; [soup | hot | positive | true
+It had been awhile and I forgot just how delicious crepes can be .####crepes | delicious | positive | true
+Montparnasse 's desserts -- especially the silken creme brulee and paper -- thin apple tart -- are good enough on their own to make the restaurant worth the trip .####desserts | good | positive | true]; [creme brulee | silken | positive | true]; [apple tart | thin | positive | true
+i had a delicious shrimp creole .####shrimp creole | delicious | positive | true
+The chicken dinner was real good .####chicken dinner | good | positive | true
+but the food was delicious .####food | delicious | positive | true
+Try the ribs , sizzling beef and couple it with coconut rice .####ribs | Try | positive | true]; [beef | Try | positive | true
+The avocado salad is a personal fave .####avocado salad | fave | positive | true
+And , the honey BBQ rib tips are yummy !####honey BBQ rib tips | yummy | positive | true
+The BEST Chinese food Uptown !####Chinese food | BEST | positive | true
+Service is known for bending over backwards to make everyone happy .####Service | happy | positive | true
+The staff is very friendly .####staff | friendly | positive | true
+Waiters are very friendly and the pasta is out of this world .####Waiters | friendly | positive | true]; [pasta | out of this world | positive | true
+Great wine list and great cocktail menu .####wine list | Great | positive | true]; [cocktail menu | great | positive | true
+The crab cakes are delicious and the BBQ rib was perfect .####crab cakes | delicious | positive | true]; [BBQ rib | perfect | positive | true
+The food is wonderful , artfully done and simply delicious .####food | wonderful | positive | true]; [food | artfully | positive | true]; [food | delicious | positive | true
+Tiny restaurant with very fast service .####service | fast | positive | true
+My husband and I have been there at least 6 times and we 've always been given the highest service and often free desserts .####service | highest | positive | true]; [desserts | free | positive | true
+A beautiful atmosphere , perfect for drinks and/or appetizers .####atmosphere | beautiful | positive | true]; [drinks | perfect | neutral | true]; [appetizers | perfect | neutral | true
+They make the best pizza in New Jersey .####pizza | best | positive | true
+What a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .####service | comforting | positive | true]; [food | better than average | positive | true]; [beer list | extensive | positive | true
+Not to be overlooked , the service is excellent .####service | excellent | positive | true
+this without question is one of the worst hotdogs i have ever had .####hotdogs | worst | negative | true
+The staff is unbelievably friendly , and I dream about their Saag gosht ... so good .####staff | friendly | positive | true]; [Saag gosht | good | positive | true
+I also recommend the garlic knots .####garlic knots | recommend | positive | true
+Best Indian food I have ever eaten .####Indian food | Best | positive | true
+This place has the best pizza .####pizza | best | positive | true
+The music which is sometimes a little too heavy for my taste .####music | too heavy | negative | true
+The service is excellent and always informative without an air .####service | excellent | positive | true]; [service | informative | positive | true
+The sushi is always fresh and yummy and the menu is pretty varied .####sushi | fresh | positive | true]; [sushi | yummy | positive | true]; [menu | varied | positive | true
+The food was great - sushi was good , but the cooked food amazed us .####food | great | positive | true]; [sushi | good | positive | true]; [cooked food | amazed | positive | true
+their dinner specials are fantastic .####dinner specials | fantastic | positive | true
+Great food , great drinks , nice dining atmosphere .####food | Great | positive | true]; [drinks | great | positive | true]; [dining atmosphere | nice | positive | true
+Food portion was SMALL and below average .####Food portion | SMALL | negative | true]; [Food portion | below average | negative | true
+Sit back in one of those comfortable chairs .####chairs | comfortable | positive | true
+My favs here are the Tacos Pastor and the Tostada de Tinga ...####Tacos Pastor | favs | positive | true]; [Tostada de Tinga | favs | positive | true
+The bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .####bartenders | nice | positive | true]; [managers | nice | positive | true]; [decor | comfy | positive | true]; [decor | laid-back | positive | true
+For a savory take on the soup and sandwich meal , try the hot and sour soup .####hot and sour soup | try | positive | true]; [soup and sandwich meal | savory | positive | true
+This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .####drinks | great | positive | true]; [atmosphere | cool | positive | true]; [service | excellent | positive | true]; [food | delicious | positive | true
+Also , the chick peas with shrimp ( appetizer ) is divine .####chick peas with shrimp ( appetizer ) | divine | positive | true
+Finally , I got sick of the bad service , obnoxious smirks , and snotty back talk .####service | bad | negative | true
+We ordered lamb which was perfectly cooked and tasted awesome .####lamb | perfectly cooked | positive | true]; [lamb | awesome | positive | true
+i especially like their soft shell crab sandwich with fries .####soft shell crab sandwich with fries | like | positive | true
+if you 're looking for authentic hong kong-style food , look no further .####hong kong-style food | authentic | positive | true
+good food good wine that 's it .####food | good | positive | true]; [wine | good | positive | true
+The staff was extremely friendly and pleasant .####staff | friendly | positive | true]; [staff | pleasant | positive | true
+While their kitchen food is delicious , their Sushi is out of this world .####kitchen food | delicious | positive | true]; [Sushi | out of this world | positive | true
+everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .####service | excellent | positive | true]; [waitresses | cute | positive | true]; [atmosphere | lush | positive | true
+It 's traditional , simple italian food .####italian food | traditional | positive | true]; [italian food | simple | positive | true
+The food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .####food | good | positive | true]; [rolls | excellent | positive | true
+( The sashimi is cut a little thinly .####sashimi | thinly | negative | true
+In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .####hot dogs | great | positive | true]; [breakfast sandwiches | wonderful | positive | true]; [tator tots | great | positive | true]; [English muffins | great | positive | true]; [pork product | delicious | positive | true
+Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .####manager | graceless | negative | true]; [bartender | rude | negative | true]; [drinks | waiting | neutral | true]; [waiting | rude | negative | true
+Not only is the service great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .####service | great | positive | true]; [atmosphere | romantic | positive | true]; [atmosphere | comfortable | positive | true
+When the dish arrived it was blazing with green chillis , definitely not edible by a human .####green chillis | not edible | negative | true]; [dish | edible | negative | true
+The absolute worst service I 've ever experienced and the food was below average ( when they actually gave people the meals they ordered ) .####service | worst | negative | true]; [food | below average | negative | true
+Be sure to accompany your food with one of their fresh juice concoctions .####fresh juice concoctions | fresh | positive | true
+The food is great and the prices are reasonable .####food | great | positive | true]; [prices | reasonable | positive | true
+The place is clean , and if you like soul food , then this is the place to be !####place | clean | positive | true]; [soul food | like | positive | true
+They have a very good chicken with avocado and good tuna as well .####chicken with avocado | good | positive | true]; [tuna | good | positive | true
+But the meals were terrible .####meals | terrible | negative | true
+My chicken was completely dried out and on the cold side and the sauce was not very flavorful .####chicken | dried out | negative | true]; [sauce | not very flavorful | negative | true
+Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful ?####Malted Milk Ball Gelato | wonderful | positive | true
+Way too much money for such a terrible meal .####meal | terrible | negative | true
+However , the service is absolutely horrible .####service | horrible | negative | true
+A con was the slow bar service .####bar service | slow | negative | true
+Dessert was also to die for !####Dessert | die for | positive | true
+BTW , the service is very good .####service | good | positive | true
+The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .####lighting | unattractive | negative | true]; [food | overpriced | negative | true]; [disco pop duo | awful | negative | true
+it is a cozy place to go with a couple of friends .####place | cozy | positive | true
+The service is always great , and the owner walks around to make sure you enjoy .####service | great | positive | true
+the food is delicious and highly recommended .####food | delicious | positive | true]; [food | recommended | positive | true
+So for a filling and healthy meal give it a go .####meal | filling | positive | true]; [meal | healthy | positive | true
+Since I cook for a living , I 'm very fussy about the food I eat in restaurants .####food | fussy | neutral | true
+The service was outstanding .####service | outstanding | positive | true
+We always enjoy the pizza .####pizza | enjoy | positive | true
+The service is pretty good .####service | good | positive | true
+Yum , the chicken is great here .####chicken | great | positive | true
+The food here was great , a treat from beginning to end .####food | great | positive | true
+The host ( owner ) and servers are personable and caring .####host ( owner ) | personable | positive | true]; [host ( owner ) | caring | positive | true]; [servers | personable | positive | true]; [servers | caring | positive | true
+It 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .####hostess | kind | positive | true]; [hostess | gracious | positive | true
+The food is very good and the service is great .####food | good | positive | true]; [service | great | positive | true
+We were wondering why they were there to make our dining experience miserable ?####dining experience | miserable | negative | true
+This place has the best Indian food in New York , hands down .####Indian food | best | positive | true
+The waiters are very friendly and helpful and if you frequent they will remember you .####waiters | friendly | positive | true]; [waiters | helpful | positive | true
+Intimate but charming interior with extremely friendly and attentive service .####interior | charming | positive | true]; [service | friendly | positive | true]; [service | attentive | positive | true
+The food was as creative as the decor and both worked .####food | creative | positive | true]; [decor | creative | positive | true
+The menu is great , with a good selection , and everything that I have tried is absolutely delicious .####menu | great | positive | true]; [selection | good | positive | true
+The sauce is zesty and flavorful and the crust is nice and crispy .####sauce | zesty | positive | true]; [sauce | flavorful | positive | true]; [crust | nice | positive | true]; [crust | crispy | positive | true
+This place has the best sushi in the city .####sushi | best | positive | true
+They have an excellent selection ( the rolls with crab are really great ) .####selection | excellent | positive | true]; [rolls with crab | great | positive | true
+Everyone who works there ( the host , the bartender , the servers ) is so helpful .####host | helpful | positive | true]; [bartender | helpful | positive | true]; [servers | helpful | positive | true
+And the food is fantastic .####food | fantastic | positive | true
+Favourites include : potato spinach gnocchi and the lamb .####potato spinach gnocchi | Favourites | positive | true]; [lamb | Favourites | positive | true
+But regulars know that the sandwiches are the real star here .####sandwiches | star | positive | true
+The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending .####port | quality | positive | true]; [Portuguese cheese cart | perfect | positive | true
+My friend had a burger and I had these wonderful blueberry pancakes .####blueberry pancakes | wonderful | positive | true
+We were so happy with our food and were even more thrilled when we saw the bill .####food | happy | positive | true]; [bill | thrilled | positive | true
+All toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .####toppings | fresh | positive | true]; [crust | perfect | positive | true
+We 've always gotten amazing service and we love the food .####service | amazing | positive | true]; [food | love | positive | true
+The waitstaff is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .####waitstaff | solicitous | positive | true]; [waitstaff | friendly | positive | true]; [food | wonderful | positive | true
+I 'm in love with the lobster ravioli !####lobster ravioli | love | positive | true
+We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal .####meal | enjoyed | positive | true
+Service is excellent , no wait , and you get a lot for the price .####Service | excellent | positive | true]; [wait | no | positive | true
+I thought the food is n't cheap at all compared to Chinatown .####food | is n't cheap | negative | true
+Coffee is a better deal than overpriced Cosi sandwiches .####Coffee | better | positive | true]; [Cosi sandwiches | overpriced | negative | true
+) It 's not the best Japanese restaurant in the East Village , but it 's a pretty solid one for its modest prices , and worth repeat visits .####prices | modest | positive | true
+The food is so good and so popular that waiting can really be a nightmare .####food | good | positive | true]; [food | popular | positive | true]; [waiting | nightmare | negative | true
+First walking in the place seemed to have great ambience .####ambience | great | positive | true
+Even for two very hungry people there is plenty of food left to be taken home ( it reheats really well also ) .####food | plenty | positive | true
+Then they somehow made a dry and burnt crust , around a raw and cold inside .####crust | dry | negative | true]; [crust | burnt | negative | true
+It 's just good food , nothing more and that 's all we want !####food | good | positive | true
+Average cake thats been courted by a LOT of hype .####cake | Average | negative | true
+My wife and I recently visited the bistro for dinner and had a wonderful experience .####dinner | wonderful | neutral | true
+THE SERVICE IS PERFECT TOO NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT####SERVICE | PERFECT | positive | true
+The $ 72 Delmonico steak had to be sent back because it was not cooked to order .####Delmonico steak | not cooked | negative | true
+The service is really fast and friendly , and the value is great .####service | fast | positive | true]; [service | friendly | positive | true]; [value | great | positive | true
+We were very impressed with the food and value .####food | impressed | positive | true]; [value | impressed | positive | true
+You must try the garlic soup !####garlic soup | try | positive | true
+Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .####falafel | delicious | positive | true]; [tabouleh | delicious | positive | true]; [humus | delicious | positive | true]; [Mediterranean delights | delicious | positive | true]; [Mediterranean delights | inexpensive | positive | true
+The pizza 's are made fresh , crispy , and ready to serve .####pizza 's | fresh | positive | true]; [pizza 's | crispy | positive | true]; [pizza 's | ready to serve | positive | true
+Staff is accomodating make sure you are satified .####Staff | accomodating | positive | true
+Reasonably priced with very fresh sushi .####sushi | fresh | positive | true]; [priced | Reasonably | positive | true
+All of the apetizers are good and the Sangria is very good .####apetizers | good | positive | true]; [Sangria | good | positive | true
+The one positive thing I can say is that the service was prompt , we got seated right away and the server was very friendly .####service | prompt | positive | true]; [server | friendly | positive | true
+The staff greeted me warmly at the door and I was seated promptly and the food was excellent .####staff | warmly | positive | true]; [food | excellent | positive | true
+Service is usually pretty good .####Service | good | positive | true
+Host and Hostess was quite rude .####Host | rude | negative | true]; [Hostess | rude | negative | true
+the wait staff is very friendly , if your not rude or picky ... ... .our meal at Leon last weekend was great - .####wait staff | friendly | positive | true]; [meal | great | positive | true
+I recommend any of their salmon dishes ... ...####salmon dishes | recommend | positive | true
+The foie gras was sweet and luscious .####foie gras | sweet | positive | true]; [foie gras | luscious | positive | true
+The menu , which changes seasonally , shows both regional and international influences .####menu | changes | neutral | true
+but their mac cheese was YUMMY !####mac cheese | YUMMY | positive | true
+jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more .####jazz singer | nice | positive | true
+They have very quick service which is great when you do n't have much time .####service | quick | positive | true]; [service | great | positive | true
+The food is average : breakfast food , soups , salads , sandwiches , etc .####food | average | neutral | true]; [breakfast food | average | neutral | true]; [soups | average | neutral | true]; [salads | average | neutral | true]; [sandwiches | average | neutral | true
+I WAS HIGHLY DISAPPOINTED BY THE FOOD .####FOOD | DISAPPOINTED | negative | true
+THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN , THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE .####CRABCAKES | OVER SALTED | negative | true]; [MAC AND CHEESE | GREASY | negative | true
+The staff is arrogant , the prices are way high for Brooklyn .####staff | arrogant | negative | true]; [prices | high | negative | true
+the service is prompt friendly .####service | prompt friendly | positive | true
+This is literally a hot spot when it comes to the food .####food | hot spot | positive | true
+The downstairs bar scene is very cool and chill ...####downstairs bar scene | cool | positive | true]; [downstairs bar scene | chill | positive | true
+The food was definitely good , but when all was said and done , I just could n't justify it for the price ( including 2 drinks , $ 100/person ) ...####food | good | positive | true
+If you are a Tequila fan you will not be disappointed .####Tequila | not be disappointed | positive | true
+Great beer selection too , something like 50 beers .####beer selection | Great | positive | true]; [beers | Great | neutral | true
+Not to sound too negative but be wary of the delivary .####delivary | wary | negative | true
+I found the food to be just as good as its owner , Da Silvano , just much less expensive .####food | good | positive | true]; [food | much less expensive | positive | true]; [owner | good | positive | true
+They have homemade pastas of all kinds -- I recommend the gnocchi -- yum !####gnocchi | recommend | positive | true]; [gnocchi | yum | positive | true
+My vegetable risotto was burnt , and infused totally in a burnt flavor .####vegetable risotto | burnt | negative | true]; [flavor | burnt | negative | true
+The main draw of this place is the price .####price | draw | positive | true
+But dinner here is never disappointing , even if the prices are a bit over the top .####dinner | never disappointing | positive | true]; [prices | over the top | negative | true
+Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !####sandwiches | amazing | positive | true]; [soup | amazing | positive | true]; [pizza | amazing | positive | true]; [homemade sorbets | out of this world | positive | true
+the homemade Guacamole , the unbelievable entree , and thee most amazing deserts .####homemade Guacamole | unbelievable | positive | true]; [homemade Guacamole | amazing | positive | true]; [entree | unbelievable | positive | true]; [deserts | amazing | positive | true
+The sushi is reasonably priced and fresh .####sushi | reasonably priced | positive | true]; [sushi | fresh | positive | true]; [priced | reasonably | positive | true
+Save room for deserts - they 're to die for .####deserts | die for | positive | true
+The traditional Italian items are great - cheap and served in a cozy setting .####traditional Italian items | great | positive | true]; [traditional Italian items | cheap | positive | true]; [setting | cozy | positive | true
+The service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .####service | slow | negative | true]; [portions | small | negative | true
+El Nidos one of the best restaurants in New York which I 've ever been to , has a great variety of tasty , mouth watering pizza 's .####pizza 's | great | positive | true]; [pizza 's | tasty | positive | true]; [pizza 's | mouth watering | positive | true
+The service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .####service | poor | negative | true]; [food | below average | negative | true
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit .####food | GREAT cheap | positive | true]; [staff | friendly | positive | true
+Chef Vincenzo , always there if you need him , is a real talent and a real Roman .####Chef | talent | positive | true
+If you 're looking to taste some great Indian food and want good service , definitely visit Curry Leaf .####Indian food | great | positive | true]; [service | good | positive | true
+You must try Odessa stew or Rabbit stew ; salads -all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .####Odessa stew | good | positive | true]; [Rabbit stew | good | positive | true]; [salads | good | positive | true]; [kompot | refreshing | positive | true
+My daughter and I left feeling satisfied ( not stuffed ) and it felt good to know we had a healthy lunch .####lunch | healthy | positive | true
+The quality of the meat was on par with your local grocery store .####quality of the meat | on par | negative | true
+I recommend the black roasted codfish , it was the best dish of the evening .####black roasted codfish | recommend | positive | true]; [black roasted codfish | best | positive | true]; [dish | best | positive | true
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .####waiter | annoyed | negative | true
+In mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .####taste | microwave | negative | true]; [chicken | dark | negative | true
+during busy hrs , i recommend that you make a reservation .####reservation | recommend | neutral | true
+I went to Common Stock for brunch and I was so impressed .####brunch | impressed | neutral | true
+now called nikki sushi , sushi is OK .####sushi | OK | neutral | true
+The food is also outstanding and is served quite quickly .####food | outstanding | positive | true]; [served | quickly | positive | true
+The food is delicious and the bar has a great vibe .####food | delicious | positive | true]; [bar | great | positive | true]; [vibe | great | positive | true
+Simple healthy unglamorous food cheap .####food | Simple healthy unglamorous | positive | true]; [food | cheap | positive | true
+It was such a fantastic dining experience , that I returned again the same week .####dining experience | fantastic | positive | true
+To be fair , the food still is good and the service is quick and attentative even though its usually very busy .####food | good | positive | true]; [service | quick | positive | true]; [service | attentative | positive | true]; [service | busy | positive | true
+The place is absolutely adorable and the food is delicious .####place | adorable | positive | true]; [food | delicious | positive | true
+I 've had better Japanese food at a mall food court .####Japanese food | better | negative | true
+The staff members are extremely friendly and even replaced my drink once when I dropped it outside .####staff members | friendly | positive | true
+Cool atmosphere but such a let down .####atmosphere | Cool | positive | true
+The Sashimi portion are big enough to appease most people , but I did n't like the fact they used artifical lobster meat .####Sashimi portion | big | positive | true]; [artifical lobster meat | did n't like | negative | true]; [artifical lobster meat | artifical | negative | true
+They have wheat crusted pizza made with really fresh and yummy ingredients .####ingredients | fresh | positive | true]; [ingredients | yummy | positive | true
+Had a lovely dinner in this dedicated seafood joint , food was well-prepared and -presented and the service was pleasant and prompt .####dinner | lovely | positive | true]; [food | well-prepared and -presented | positive | true]; [service | pleasant | positive | true]; [service | prompt | positive | true
+the icing MADE this cake , it was fluffy , not ultra sweet , creamy and light .####cake | fluffy | positive | true]; [cake | not ultra sweet | positive | true]; [cake | creamy | positive | true]; [cake | light | positive | true
+Finally let into the store 5 at a time , to buy expensive slices from a harried staff .####staff | harried | negative | true]; [slices | expensive | negative | true
+We ended up having to just leave because we were essentially being ignored by the wait staff -- even though the rest of the restaurant was largely empty .####wait staff | ignored | negative | true
+The wine list is extensive , well priced and covers alot of regions .####wine list | extensive | positive | true]; [priced | well | positive | true
+Go here if you want fresh and tasty salads of any type you can imagine .####salads | fresh | positive | true]; [salads | tasty | positive | true
+Everything about this place is adorable - even the bathroom !####bathroom | adorable | positive | true
+Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .####delivers | Speedy | positive | true]; [food | great | positive | true]; [prices | decent | positive | true]; [service | friendly | positive | true]; [repast | enjoyable | positive | true
+IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL .####ITALIAN MEAL | AUTHENTIC | neutral | true
+It took 100 years for Parisi to get around to making pizza ( at least I do n't think they ever made it before this year ) ... but it was worth the wait .####pizza | worth the wait | positive | true
+I asked for a simple medium rare steak .####steak | simple medium rare | neutral | true
+Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .####organic grilled burgers | Generously garnished | positive | true]; [organic grilled burgers | popular | positive | true]; [dish | popular | positive | true]; [Jerusalem market-style falafel wraps | equally scrumptious | positive | true
+Probably my worst dining experience in new york , and I 'm a former waiter so I know what I 'm talking about .####dining experience | worst | negative | true
+Result ( red velvet ) : Great texture , soft and velvety , nice hint of cocoa .####texture | Great | positive | true]; [texture | soft | positive | true]; [texture | velvety | positive | true]; [hint of cocoa | nice | positive | true
+Their twist on pizza is healthy , but full of flavor .####flavor | full | positive | true]; [twist on pizza | healthy | positive | true
+The lack of AC and the fact that there are a million swarming bodies ( although everyone is polite and no one is pushing ) is a slight turn off .####AC | lack | negative | true
+I love the Little Pie Company as much as anyone else who has written reviews , but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people .####service | RUDE | negative | true]; [sales people | RUDE | negative | true
+Unfortunately , unless you live in the neighborhood , it 's not in a convenient location but is more like a hidden treasure .####location | convenient | negative | true
+The food -- though mostly deep-fried -- is simple and satisfying .####food | simple | positive | true]; [food | satisfying | positive | true
+Glechik might be way too tiny for a restaurant by Russian standards , but it is cozy and the food is simply GREAT .####food | GREAT | positive | true
+The food was excellent - authentic Italian cuisine made absolutely fresh .####food | excellent | positive | true]; [Italian cuisine | authentic | positive | true]; [Italian cuisine | fresh | positive | true
+At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered .####atmoshere | changes | positive | true
+The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .####place | not-crowded | positive | true]; [food | great | positive | true]; [service | great | positive | true
+I would only go for the coffee which is way better than Starbucks or the like .####coffee | better | positive | true
+Somewhat disappointing wine list ( only new vintages .####wine list | disappointing | negative | true
+If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be ! !####priced | high | negative | true]; [food | nasty high priced | negative | true
+new hamburger with special sauce is ok - at least better than big mac !####new hamburger with special sauce | ok | positive | true]; [big mac | better than | negative | true
+Perfectly al dente pasta , not drowned in sauce -- generous portions .####pasta | Perfectly | positive | true]; [sauce | not drowned in | neutral | true]; [portions | generous | positive | true
+Service was awful - mostly because staff were overwhelmed on a Saturday night .####Service | awful | negative | true]; [staff | overwhelmed | negative | true
+To the owners ; good job guys , this place is a keeper !####owners | good | positive | true
+and the owner is simply lovely and friendly .####owner | lovely | positive | true]; [owner | friendly | positive | true
+This little place is wonderfully warm welcoming .####place | wonderfully warm welcoming | positive | true
+perfect for a quick meal .####meal | perfect | positive | true]; [meal | quick | positive | true
+Has the warmth of a family local yet it is a great place to watch sporting events .####place | great | positive | true
+The service was great , and they have a whole great deal for birthdays .####service | great | positive | true
+The staff is 100 % Italian and the food is as authentic as it gets .####food | authentic | positive | true
+My only complaint might be the fortune cookies - I 've never had a cookie predict bad luck for me before I visited Kar .####fortune cookies | complaint | negative | true
+Good for a quick sushi lunch .####sushi lunch | Good | positive | true]; [sushi lunch | quick | positive | true
+The service was dreadfully slow ( the place was only half full ) and a smile would have been nice ...####service | dreadfully slow | negative | true
+I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .####meal | excellent | positive | true
+I reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .####fried pork dumplings | reccomend | positive | true]; [orange chicken/beef | reccomend | positive | true]; [fried rice | reccomend | positive | true
+You will not be dissapointed by any of the choices in the menu .####menu | not be dissapointed | positive | true
+The french fries -- with the kalmata dip were terrific !####french fries -- with the kalmata dip | terrific | positive | true
+The boutique selection of wines covers a wide variety without being imposeing .####boutique selection of wines | wide | neutral | true
+They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare .####assortment of wraps | great | positive | true]; [traditional Mediterranean fare | great | neutral | true
+Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .####Fresh veggies | Fresh | positive | true]; [Fresh veggies | delicious | positive | true]; [middle eastern spreads | delicious | positive | true]; [cheese | delicious | positive | true]; [falafel | delicious | positive | true]; [soup | delicious | positive | true]; [fish | delicious | positive | true]; [rice | delicious | positive | true]; [root vegetables | delicious | positive | true]; [rice medley | delicious | positive | true]; [spinach thing | delicious | positive | true]; [lamb kebabs | delicious | positive | true]; [cheese baclava | delicious | positive | true]; [fooood | delicious | positive | true
+Disappointingly , their wonderful Saketini has been taken off the bar menu .####Saketini | wonderful | positive | true]; [bar menu | Disappointingly | negative | true
+I would definitely go back -- if only for some of those exotic martinis on the blackboard .####martinis | exotic | positive | true
+The happy hour is so cheap , but that does not reflect the service or the atmosphere .####happy hour | cheap | positive | true
+After waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .####waiter | brusquely | negative | true
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere .####quaility | above | positive | true]; [atmosphere | above | positive | true
+A mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .####space | quick | negative | true]; [space | tasty | negative | true]; [prices | dirt-cheap | positive | true]; [treats | tasty | positive | true
+Give it a try , menu is typical French but varied .####menu | typical French | neutral | true]; [menu | varied | neutral | true
+It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice .####seats | lots | positive | true
+the negative reviews on city search are probably from jealous competing restaurants who realize they ca n't compete with Temple 's entire positive attitude about the proper way to treat their customers and deliver top quality food .####food | top quality | positive | true]; [attitude | positive | positive | true
+Overall , this is a nice place to take a few friends to hang out at and the service is excellent .####place | nice | positive | true]; [service | excellent | positive | true
+Food is excellent quality for a good restaurant price .####Food | excellent | positive | true]; [price | good | positive | true
+for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and dessert .####burrito | gigantic | positive | true]; [tacos | gigantic | positive | true
+The space is traditional in feel .####space | traditional | neutral | true
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .####food | mediocre | negative | true]; [interior | small | negative | true]; [interior | average | negative | true]; [owners | unpleasantries | negative | true]; [owners | rude | negative | true]; [owners | snotty | negative | true
+Good service , great food , good value , and never have to wait in line !####service | Good | positive | true]; [food | great | positive | true]; [value | good | positive | true]; [wait | never | positive | true
+Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast .####Egg McMuffin sandwich | available | neutral | true]; [hot cakes | available | neutral | true
+I have been going to this restaurant for years , in the past the service was average and the food inconsistant .####service | average | neutral | true]; [food | inconsistant | negative | true
+The music was fascinating , but left room for conversation , and the bartender made superb drinks .####music | fascinating | positive | true]; [bartender | superb | positive | true]; [drinks | superb | positive | true
+rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !####ice drink | refreshing | positive | true
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .####dishes | Creative | positive | true]; [king crab salad with passion fruit vinaigrette | Creative | positive | true]; [fettuccine with grilled seafood in a rosemary-orange sauce | unexpected | positive | true]; [bistro menu | unexpected | neutral | true
+Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .####Dishes | tried-and-true | positive | true]; [recipes | tried-and-true | positive | true]; [macadamia-crusted mahi mahi | tried-and-true | positive | true]; [sweet honey-mustard beef short ribs | tried-and-true | positive | true]; [sweet honey-mustard beef short ribs | sweet | positive | true
+The cold sesame noodles , which are a freebie when you order $ 10+ , are delectable .####cold sesame noodles | delectable | positive | true
+I came to fresh expecting a great meal , and all I got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .####food | marginally so-so | negative | true
+The lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $ 2.99/lb at the store .####fennel flavored Italian sausage | heavy | negative | true
+I went to Swiftys with some friends of the family and we had a very nice dinner , but nothing amazing .####dinner | nice | positive | true
+Best Chinese on the Upper East , prompt delivery , good value .####delivery | prompt | positive | true]; [value | good | positive | true
+Most of the sandwiches are made with soy mayonaise which is actually pretty good .####sandwiches | good | positive | true
+i went in one day asking for a table for a group and was greeted by a very rude hostess .####hostess | rude | negative | true
+It 's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea .####dinner | awesome | positive | true
+Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .####food | authentic | positive | true]; [staff | off-the-boat | positive | true]; [staff | young | positive | true]; [staff | hip | positive | true
+It has good music , nice tapas , an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele .####music | good | positive | true]; [tapas | nice | positive | true]; [selection of wines ( primarily Spanish ) | interesting | positive | true]; [clientele | lowkey hip | positive | true
+The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .####food | great | positive | true]; [dumplings | love | positive | true]; [cold sesame noodles | love | positive | true]; [chicken | love | positive | true]; [shrimp dishs | love | positive | true
+It 's the conversations that make this a fun place to be .####place | fun | positive | true
+My gf 's duck confitte was very solid as well , although i have little base of reference .####duck confitte | solid | positive | true
+The wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .####wine list | superb | positive | true]; [tapas | delightful | positive | true]; [atmosphere | quiet | positive | true]; [atmosphere | perfect | positive | true
+You can eat gourmet food at a fast food price .####food | gourmet | positive | true
+I 've eaten at all three locations and I always love , love the food , the service is always wonderful and the prices are really reasonable .####food | love | positive | true]; [service | wonderful | positive | true]; [prices | reasonable | positive | true
+Not because I was pregnant , but the food here is always delicious .####food | delicious | positive | true
+Had a great meal there this weekend before heading to the movies !####meal | great | positive | true
+We had a birthday party here recently and the food and service was amazing .####food | amazing | positive | true]; [service | amazing | positive | true
+the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .####dinner menu | variety | positive | true]; [dinner menu | great | positive | true]; [entrees | great | positive | true]; [seafood | fresh | positive | true]; [steaks | huge | positive | true
+This place has the strangest menu and the restaurants tries too hard to make fancy food .####menu | strangest | negative | true]; [food | fancy | negative | true
+The appetizers are ok , but the service is slow .####appetizers | ok | neutral | true]; [service | slow | negative | true
+the food - not worth the price .####food | not worth | negative | true]; [price | not worth | negative | true
+What can you say about a place where the waitress brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .####entree | wrong | neutral | true
+The prices are not terrible .####prices | not terrible | positive | true
+The halibut cheek appetizer came with a generous portion of foie gras , but that 's about the only positive thing I can say about the meal .####halibut cheek appetizer | positive | neutral | true]; [portion of foie gras | generous | positive | true
+Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .####Food | excellent | positive | true]; [empenadas | excellent | positive | true]; [plaintains | good | positive | true]; [afternoon snack | good | positive | true
+Both a number of the appetizer and pasta specials were amazing .####pasta specials | amazing | positive | true]; [appetizer | amazing | positive | true
+All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .####Big Mac | favorites | positive | true]; [Chicken McNuggets | favorites | positive | true]; [Filet-O-Fish sandwich | favorites | positive | true]; [McDonald 's famous french fries | favorites | positive | true]; [entree-sized salads | lighter options | neutral | true
+It 's a basic pizza joint , not much to look at , but the pizza is what I go for .####pizza | go for | positive | true
+Tables are close , so you better be comfortable bumping elbows with other patrons .####Tables | close | negative | true
+Not too much so , but enough that there 's a great scene .####scene | great | positive | true
+Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .####veggie burger | extraordinary | positive | true]; [chickpeas | distinctive | positive | true]; [carrots | distinctive | positive | true]; [vegetables | distinctive | positive | true]; [spices | distinctive | positive | true
+At peak times , the restaurant is overcrowded and tables are uncomfortably close .####tables | uncomfortably close | negative | true
+The service was on point - what else you would expect from a Ritz ?####service | on point | positive | true
+Menus feature seasonal picks , like sweet corn-foie gras brulee .####Menus | seasonal | neutral | true
+Innovations are just as assured , from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .####Carinthia cheese ravioli with wild mushrooms | simple | positive | true]; [green spinach-vodka sauce | bright | positive | true
+And these are not small , wimpy fast food type burgers - these are real , full sized patties .####burgers | small | positive | true]; [burgers | wimpy fast food type | positive | true]; [patties | real | positive | true]; [patties | full sized | positive | true
+There restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .####lunch | perfect | neutral | true]; [delivery service | fast | positive | true
+Chinatown definitely has better quality with cheaper prices .####quality | better | positive | true]; [prices | cheaper | positive | true
+Go with the specials , and stay away from the salmon .####specials | Go with | positive | true]; [salmon | stay away | negative | true
+The pastas were pretty good .####pastas | good | positive | true
+Atmosphere is a bore .####Atmosphere | bore | negative | true
+The wait staff was very attentive and polite .####wait staff | attentive | positive | true]; [wait staff | polite | positive | true
+Great restaurant , and even greater food !####food | greater | positive | true
+The dishes are remarkably tasty and such a cozy and intimate place !####dishes | tasty | positive | true]; [place | cozy | positive | true]; [place | intimate | positive | true
+I love the simplicity and respect which was given to the food , as well the staff was freindly and knowledgable .####food | love | positive | true]; [food | simplicity | positive | true]; [food | respect | positive | true]; [staff | love | positive | true]; [staff | freindly | positive | true]; [staff | knowledgable | positive | true
+Service was good and so was the atmosphere .####Service | good | positive | true]; [atmosphere | good | positive | true
+MY date and I both ordered the Branzini and both felt the fish was very average .####Branzini | average | neutral | true]; [fish | average | negative | true
+The food was good , the service prompt , and the price very reasonable .####food | good | positive | true]; [service | prompt | positive | true]; [price | reasonable | positive | true
+Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !####menu | Wonderful | positive | true]; [ambiance | warm inviting | positive | true]; [service | great | positive | true
+Great food , good wine and an excellent host .####food | Great | positive | true]; [wine | good | positive | true]; [host | excellent | positive | true
+Pizzas were excellent in addition to appetizers and main courses .####Pizzas | excellent | positive | true
+Definitely try the calamari , any pasta , or even the Sliced steak entree .####calamari | try | positive | true]; [pasta | try | positive | true]; [Sliced steak entree | try | positive | true
+The caeser salad was great .####caeser salad | great | positive | true
+The fried calamari was even better !####fried calamari | better | positive | true
+The food was good overall .####food | good | positive | true
+The food was outstanding and the service was tops .####food | outstanding | positive | true]; [service | tops | positive | true
+The portions are very large and the service is fantastic ! !####portions | large | positive | true]; [service | fantastic | positive | true
+I recomend the chicken milanese .####chicken milanese | recomend | positive | true
+excellent tapas at great prices , romantic , small but not overly crowed , excellent####tapas | excellent | positive | true]; [prices | great | positive | true
+The chocolate raspberry cake is heavenly -- not too sweet , but full of flavor .####chocolate raspberry cake | heavenly | positive | true]; [chocolate raspberry cake | not too sweet | positive | true]; [chocolate raspberry cake | full of flavor | positive | true]; [flavor | full | positive | true
+Our waiter was helpful and charming , the food was perfect , and the wine was good , too .####waiter | helpful | positive | true]; [waiter | charming | positive | true]; [food | perfect | positive | true]; [wine | good | positive | true
+Best hot dogs in the tri-state area .####hot dogs | Best | positive | true
+The service was very attentive and very generous .####service | attentive | positive | true]; [service | generous | positive | true
+We had tons of great food , wine , and desserts .####food | great | positive | true]; [wine | great | positive | true]; [desserts | great | positive | true
+Really Lovely dining experience in the midst of buzzing midtown area .####dining experience | Lovely | positive | true
+The food really is n't very good and the service is terrible .####food | is n't very good | negative | true]; [service | terrible | negative | true
+Not only do they have the best escargot in town , they always try to accomodate our toddler .####escargot | best | positive | true
+The Deco and ambiance was really romantic .####Deco | romantic | positive | true]; [ambiance | romantic | positive | true
+Just go in and sample the greatest french food west of Daniel .####french food | greatest | positive | true
+Finally a curry that I can eat , enjoy and not suffer from gastritis from 3 hours later .####curry | enjoy | positive | true
+All are GREAT - poori , naan , paratha all FRESH .####poori | GREAT | positive | true]; [naan | GREAT | positive | true]; [paratha | FRESH | positive | true
+Try the homemade breads .####homemade breads | Try | positive | true
+This place has beautiful sushi , and it 's delicious CHEAP .####sushi | beautiful | positive | true]; [sushi | delicious CHEAP | positive | true
+It also has lots of other Korean dishes that are affordable and just as yummy .####Korean dishes | affordable | positive | true]; [Korean dishes | yummy | positive | true
+Not only was the waiter efficient and courteous , but also extremely helpful .####waiter | efficient | positive | true]; [waiter | helpful | positive | true
+This place is classy , chic , the service is warm and hospitable , and the food is outstanding .####place | classy | positive | true]; [place | chic | positive | true]; [service | warm | positive | true]; [service | hospitable | positive | true]; [food | outstanding | positive | true
+Great burgers , grilled cheeses and french fries .####burgers | Great | positive | true]; [grilled cheeses | Great | positive | true]; [french fries | Great | positive | true
+The Yellowfin Tuna and Calf 's liver are my favorites !####Yellowfin Tuna | favorites | positive | true]; [Calf 's liver | favorites | positive | true
+Sushi so fresh that it crunches in your mouth .####Sushi | fresh | positive | true
+But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet .####bill | big | negative | true
+Not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !####sushi | fresh | positive | true]; [duck | try | positive | true
+good variety but nothing surprising .####variety | good | positive | true
+No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .####green beans | No | neutral | true]; [egg | no | neutral | true]; [anchovy dressing | no | neutral | true]; [nicoise olives | no | neutral | true]; [red onion | no | neutral | true
+Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .####fries | Thick | neutral | true]; [chocolate Frosty | cool | positive | true]; [chocolate Frosty | ultra-thick | positive | true
+The homage to India is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .####roti canai appetizer | delectable | positive | true]; [mango chicken | surprisingly sophisticated | positive | true]; [mango chicken | fresh | positive | true
+The ground chickpea soup we sampled as a starter tasted somewhat thin .####ground chickpea soup | thin | negative | true]; [starter | thin | neutral | true
+The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .####service | below | negative | true]; [bartenders | horrible | negative | true]; [clientele | rowdy | negative | true]; [clientele | loud-mouthed | negative | true]; [staff | bad | negative | true
+If you 're in the neighborhood , definitely stop by for a great meal .####meal | great | positive | true
+Although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .####ambience | beautiful | positive | true]; [food | excellent | positive | true]; [catfish | delicious | positive | true]; [catfish | salty | positive | true]; [service | attentive | positive | true
+Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .####brisket | good | positive | true]; [ribs | good | positive | true]; [wings | good | positive | true]; [cajun shrimp | good | neutral | true
+Hip boutiques and bars on Ludlow add to the artsy , laid-back atmosphere at this Israeli-style takeout and eat-in burger joint .####atmosphere | artsy | positive | true]; [atmosphere | laid-back | positive | true
+My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .####menu | impressive | positive | true]; [menu | creative | positive | true]; [Japanese dishes | modern | neutral | true]; [Japanese dishes | Westernized | neutral | true]; [Foie Gras Unagi Napolean | modern | neutral | true]; [Foie Gras Unagi Napolean | Westernized | neutral | true]; [Jap style hamburger steak | modern | neutral | true]; [Jap style hamburger steak | Westernized | neutral | true]; [spicy cod roe spaghetti | modern | neutral | true]; [spicy cod roe spaghetti | Westernized | neutral | true]; [black cod with miso base | modern | neutral | true]; [black cod with miso base | Westernized | neutral | true]; [rack of lamb in black truffle sauce | modern | neutral | true]; [rack of lamb in black truffle sauce | Westernized | neutral | true
+His food is excellent ( and not expensive by NYC standards- no entrees over $ 30 , most appetizers $ 12 to 14 ) .####food | excellent | positive | true]; [appetizers | not expensive | positive | true
+The food is consistant and good but how it got name Best Diner In Manhattan is beyond me .####food | consistant | positive | true]; [food | good | positive | true
+The pasta primavera was outstanding as well , lots of fresh veggies .####pasta primavera | outstanding | positive | true]; [fresh veggies | lots | positive | true
+do n't get me wrong - sushi was good , just not fantastic .####sushi | good | positive | true]; [sushi | not fantastic | positive | true
+Been to the one in Brooklyn for over 25 years , now I dont have to go over the bridge for the best pizza ... .Hanx####pizza | best | positive | true
+Had dinner here on a Friday and the food was great .####food | great | positive | true
+We recently spent New Year 's Eve at the restaurant , and had a great experience , from the wine to the dessert menu .####wine | great | positive | true]; [dessert menu | great | positive | true
+Highly recommended ... As stated , I have n't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .####place | relaxing | positive | true]; [bar | nice | positive | true
+The ambiance was fine , a little loud but still nice and romantic .####ambiance | fine | positive | true]; [ambiance | loud | positive | true]; [ambiance | nice | positive | true]; [ambiance | romantic | positive | true
+but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ) .####filet mignon | not very good | negative | true]; [non-sushi selection | nice | positive | true]; [appetizers | free | positive | true
+Can be a bit busy around peak times because of the size .####size | busy | negative | true
+I was on jury duty , rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade .####chicken tacos | awesome | positive | true]; [Hibiscus lemonade | awesome | positive | true]; [place | great | positive | true
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .####place | good | positive | true]; [soup | simple | neutral | true]; [french dish | classic | neutral | true
+Very nice touch that very much fits the place .####place | nice | positive | true
+However , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .####casual drink | enjoying | positive | true]; [outdoors | great | positive | true
+The comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .####dishes | good | positive | true]; [lamb entree | good | positive | true]; [salads ( avocado shrimp ) | good | positive | true
+Slow service , but when you 're hanging around with groups of 10 or 20 , who really notices ?####service | Slow | negative | true
+The sauce is excellent ( very fresh ) with dabs of real mozzarella .####sauce | excellent | positive | true]; [sauce | fresh | positive | true
+Do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .####drinks | awful | negative | true]; [people | worst | negative | true]; [dining | worst | negative | true
+The room is a little plain , but it 's difficult to make such a small place exciting and I would not suggest that as a reason not to go .####room | plain | negative | true
+Prices even outside of restaurant week were great .####Prices | great | positive | true
+A small , outdoor eating area makes for a private , comfortable space to study alone or meet up with friends .####space | private | positive | true]; [space | comfortable | positive | true]; [outdoor eating area | small | positive | true
+The best dessert , a chocolate and peanut butter tart , is n't particularly Hawaiian , but it 's a small world when it comes to sweets .####dessert | best | positive | true
+for an appetizer , their calamari is a winner .####appetizer | winner | neutral | true]; [calamari | winner | positive | true
+The room is a gorgeous , bi-level space and the long bar perfect for a drink .####room | gorgeous | positive | true]; [bi-level space | gorgeous | positive | true]; [long bar | perfect | positive | true
+Two complaints- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .####appetizer selection | stinks | negative | true
+I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .####service | prompt | positive | true]; [service | friendly | positive | true
+The chicken and falafel platters were nondescript combinations with fresh leaf salad .####chicken and falafel platters | nondescript | neutral | true]; [fresh leaf salad | fresh | neutral | true
+several times and put up with the waiters ' bad manners , knowing that their job is n't easy .####waiters | bad | negative | true
+The service is great ( maybe even borderline nagging but at least you get attention ) , the desserts are excellent and the coffee is so very good ...####desserts | excellent | positive | true]; [coffee | good | positive | true
+They are served on Focacchia bread and are to die for .####Focacchia bread | die for | neutral | true
+While the smoothies are a little big for me , the fresh juices are the best I have ever had !####smoothies | big | negative | true]; [fresh juices | best | positive | true
+The food is just OKAY , and it 's almost not worth going unless you 're getting the pialla , which is the only dish that 's really good .####pialla | good | positive | true]; [dish | good | positive | true
+The guac is fresh , yet lacking flavor , we like to add our fresh salsa into it .####flavor | lacking | negative | true
+The new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but I must agree with the person that wrote about their favorite words : No , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .####prices | raised | negative | true]; [new menu | creative | positive | true
+It ' only open for lunch but the food is so good !####food | good | positive | true
+How can they survive serving mediocre food at exorbitant prices ? !####food | mediocre | neutral | true]; [prices | exorbitant | negative | true
+The food was mediocre and the service was severely slow .####service | severely slow | negative | true]; [food | mediocre | neutral | true
+i have eaten here on a different occasion - the food is mediocre for the prices .####food | mediocre | neutral | true
+I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .####waiter | rude | negative | true
+Sweet Irish bartender is always happy and able to bring a smile to my friends a my face .####bartender | Sweet | positive | true]; [bartender | happy | positive | true
+Its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .####service | bad | negative | true]; [drinks | good | neutral | true
+Anyway , the owner was fake .####owner | fake | negative | true
+Owner is pleasant and entertaining .####Owner | pleasant | positive | true]; [Owner | entertaining | positive | true
+Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .####Creamy appetizers | Creamy | positive | true]; [Creamy appetizers | excellent | positive | true]; [warm pitas | warm | neutral | true]; [taramasalata | Creamy | positive | true]; [eggplant salad | excellent | positive | true]; [Greek yogurt ( with cuccumber , dill , and garlic ) | excellent | positive | true
