@@ -45,9 +45,9 @@ def read_line_examples(data_path):
             result_string = words + '####' + result_string
             results.append(result_string)
             sents, labels = [], []
-    with open('train.txt', 'w') as file:
+    with open('dev.txt', 'w') as file:
         for line in results:
             file.write(line + '\n')
     return sents, labels
 
-sents, labels = read_line_examples('data/aste/laptop14/train.txt')
+sents, labels = read_line_examples('data/uabsa/laptop14/dev.txt')
